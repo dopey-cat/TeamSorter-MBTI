@@ -1,0 +1,342 @@
+[
+  {
+    "_id": "1783603656596",
+    "name": "【研发项目组】核心模块开发",
+    "description": "负责系统核心功能模块的设计与开发",
+    "requiredPeople": 5,
+    "priority": "high",
+    "status": "pending",
+    "requirements": {
+      "communication": 7,
+      "collaboration": 8,
+      "problemSolving": 9,
+      "projectManagement": 7,
+      "learningAdaptability": 8,
+      "responsibility": 8,
+      "teamwork": 7,
+      "challenge": 9,
+      "adaptability": 9
+    },
+    "assignmentEndTime": "2026-07-16T13:27:36.600Z",
+    "createdAt": "2026-07-09T13:27:36.601Z"
+  },
+  {
+    "_id": "1783603656597",
+    "name": "【研发项目组】API接口对接",
+    "description": "完成与第三方系统的API接口对接",
+    "requiredPeople": 3,
+    "priority": "high",
+    "status": "pending",
+    "requirements": {
+      "communication": 8,
+      "collaboration": 7,
+      "problemSolving": 7,
+      "projectManagement": 6,
+      "learningAdaptability": 7,
+      "responsibility": 7,
+      "teamwork": 6,
+      "challenge": 7,
+      "adaptability": 8
+    },
+    "assignmentEndTime": "2026-07-16T13:27:36.600Z",
+    "createdAt": "2026-07-09T13:27:36.601Z"
+  },
+  {
+    "_id": "1783603656598",
+    "name": "【研发项目组】数据库优化",
+    "description": "对系统数据库进行性能优化",
+    "requiredPeople": 2,
+    "priority": "medium",
+    "status": "pending",
+    "requirements": {
+      "communication": 6,
+      "collaboration": 5,
+      "problemSolving": 9,
+      "projectManagement": 6,
+      "learningAdaptability": 7,
+      "responsibility": 8,
+      "teamwork": 5,
+      "challenge": 8,
+      "adaptability": 9
+    },
+    "assignmentEndTime": "2026-07-16T13:27:36.600Z",
+    "createdAt": "2026-07-09T13:27:36.601Z"
+  },
+  {
+    "_id": "1783603656599",
+    "name": "【研发项目组】前端界面重构",
+    "description": "重构系统前端界面，提升用户体验",
+    "requiredPeople": 4,
+    "priority": "medium",
+    "status": "pending",
+    "requirements": {
+      "communication": 7,
+      "collaboration": 8,
+      "problemSolving": 7,
+      "projectManagement": 6,
+      "learningAdaptability": 8,
+      "responsibility": 7,
+      "teamwork": 8,
+      "challenge": 7,
+      "adaptability": 8
+    },
+    "assignmentEndTime": "2026-07-16T13:27:36.600Z",
+    "createdAt": "2026-07-09T13:27:36.601Z"
+  },
+  {
+    "_id": "1783603656600",
+    "name": "【研发项目组】测试用例编写",
+    "description": "编写系统测试用例，进行功能测试",
+    "requiredPeople": 3,
+    "priority": "low",
+    "status": "pending",
+    "requirements": {
+      "communication": 6,
+      "collaboration": 7,
+      "problemSolving": 7,
+      "projectManagement": 6,
+      "learningAdaptability": 6,
+      "responsibility": 8,
+      "teamwork": 7,
+      "challenge": 6,
+      "adaptability": 7
+    },
+    "assignmentEndTime": "2026-07-16T13:27:36.600Z",
+    "createdAt": "2026-07-09T13:27:36.601Z"
+  },
+  {
+    "_id": "1783603656601",
+    "name": "【市场运营组】品牌推广活动",
+    "description": "策划并执行品牌推广活动",
+    "requiredPeople": 4,
+    "priority": "high",
+    "status": "pending",
+    "requirements": {
+      "communication": 9,
+      "collaboration": 9,
+      "problemSolving": 7,
+      "projectManagement": 8,
+      "learningAdaptability": 7,
+      "responsibility": 8,
+      "teamwork": 9,
+      "challenge": 8,
+      "adaptability": 9
+    },
+    "assignmentEndTime": "2026-07-19T13:27:36.601Z",
+    "createdAt": "2026-07-09T13:27:36.601Z"
+  },
+  {
+    "_id": "1783603656602",
+    "name": "【市场运营组】客户关系维护",
+    "description": "维护重要客户关系，提升客户满意度",
+    "requiredPeople": 5,
+    "priority": "high",
+    "status": "pending",
+    "requirements": {
+      "communication": 9,
+      "collaboration": 8,
+      "problemSolving": 7,
+      "projectManagement": 6,
+      "learningAdaptability": 7,
+      "responsibility": 8,
+      "teamwork": 8,
+      "challenge": 7,
+      "adaptability": 8
+    },
+    "assignmentEndTime": "2026-07-19T13:27:36.601Z",
+    "createdAt": "2026-07-09T13:27:36.601Z"
+  },
+  {
+    "_id": "1783603656603",
+    "name": "【市场运营组】市场调研分析",
+    "description": "进行市场调研，分析竞品动态",
+    "requiredPeople": 3,
+    "priority": "medium",
+    "status": "in-progress",
+    "requirements": {
+      "communication": 7,
+      "collaboration": 6,
+      "problemSolving": 8,
+      "projectManagement": 7,
+      "learningAdaptability": 8,
+      "responsibility": 7,
+      "teamwork": 6,
+      "challenge": 7,
+      "adaptability": 7
+    },
+    "assignmentEndTime": "2026-07-19T13:27:36.601Z",
+    "createdAt": "2026-07-09T13:27:36.602Z",
+    "updatedAt": "2026-07-09T13:28:41.039Z"
+  },
+  {
+    "_id": "1783603656604",
+    "name": "【市场运营组】内容创作",
+    "description": "创作营销内容，提升品牌影响力",
+    "requiredPeople": 3,
+    "priority": "medium",
+    "status": "in-progress",
+    "requirements": {
+      "communication": 8,
+      "collaboration": 7,
+      "problemSolving": 7,
+      "projectManagement": 6,
+      "learningAdaptability": 8,
+      "responsibility": 7,
+      "teamwork": 7,
+      "challenge": 7,
+      "adaptability": 8
+    },
+    "assignmentEndTime": "2026-07-19T13:27:36.601Z",
+    "createdAt": "2026-07-09T13:27:36.602Z",
+    "updatedAt": "2026-07-09T13:45:13.864Z"
+  },
+  {
+    "_id": "1783603656605",
+    "name": "【市场运营组】数据分析报告",
+    "description": "分析运营数据，生成分析报告",
+    "requiredPeople": 2,
+    "priority": "low",
+    "status": "pending",
+    "requirements": {
+      "communication": 6,
+      "collaboration": 5,
+      "problemSolving": 8,
+      "projectManagement": 6,
+      "learningAdaptability": 7,
+      "responsibility": 7,
+      "teamwork": 5,
+      "challenge": 6,
+      "adaptability": 7
+    },
+    "assignmentEndTime": "2026-07-19T13:27:36.601Z",
+    "createdAt": "2026-07-09T13:27:36.602Z"
+  },
+  {
+    "_id": "1783603656606",
+    "name": "【产品管理组】产品需求分析",
+    "description": "分析用户需求，制定产品规划",
+    "requiredPeople": 4,
+    "priority": "high",
+    "status": "pending",
+    "requirements": {
+      "communication": 9,
+      "collaboration": 9,
+      "problemSolving": 8,
+      "projectManagement": 8,
+      "learningAdaptability": 8,
+      "responsibility": 8,
+      "teamwork": 9,
+      "challenge": 8,
+      "adaptability": 9
+    },
+    "assignmentEndTime": "2026-07-22T13:27:36.601Z",
+    "createdAt": "2026-07-09T13:27:36.602Z"
+  },
+  {
+    "_id": "1783603656607",
+    "name": "【产品管理组】原型设计",
+    "description": "设计产品原型，进行用户测试",
+    "requiredPeople": 3,
+    "priority": "high",
+    "status": "pending",
+    "requirements": {
+      "communication": 8,
+      "collaboration": 8,
+      "problemSolving": 7,
+      "projectManagement": 7,
+      "learningAdaptability": 7,
+      "responsibility": 7,
+      "teamwork": 8,
+      "challenge": 7,
+      "adaptability": 8
+    },
+    "assignmentEndTime": "2026-07-22T13:27:36.601Z",
+    "createdAt": "2026-07-09T13:27:36.602Z"
+  },
+  {
+    "_id": "1783603656608",
+    "name": "【产品管理组】需求文档编写",
+    "description": "编写详细的需求规格说明书",
+    "requiredPeople": 2,
+    "priority": "medium",
+    "status": "in-progress",
+    "requirements": {
+      "communication": 8,
+      "collaboration": 7,
+      "problemSolving": 7,
+      "projectManagement": 7,
+      "learningAdaptability": 7,
+      "responsibility": 8,
+      "teamwork": 7,
+      "challenge": 7,
+      "adaptability": 8
+    },
+    "assignmentEndTime": "2026-07-22T13:27:36.601Z",
+    "createdAt": "2026-07-09T13:27:36.602Z",
+    "updatedAt": "2026-07-09T13:28:54.325Z"
+  },
+  {
+    "_id": "1783603656609",
+    "name": "【产品管理组】竞品分析",
+    "description": "分析市场竞品，提取优势与不足",
+    "requiredPeople": 2,
+    "priority": "medium",
+    "status": "pending",
+    "requirements": {
+      "communication": 7,
+      "collaboration": 6,
+      "problemSolving": 8,
+      "projectManagement": 6,
+      "learningAdaptability": 8,
+      "responsibility": 7,
+      "teamwork": 6,
+      "challenge": 7,
+      "adaptability": 7
+    },
+    "assignmentEndTime": "2026-07-22T13:27:36.601Z",
+    "createdAt": "2026-07-09T13:27:36.602Z"
+  },
+  {
+    "_id": "1783603656610",
+    "name": "【产品管理组】用户反馈整理",
+    "description": "收集整理用户反馈，提出改进建议",
+    "requiredPeople": 3,
+    "priority": "low",
+    "status": "pending",
+    "requirements": {
+      "communication": 8,
+      "collaboration": 7,
+      "problemSolving": 7,
+      "projectManagement": 6,
+      "learningAdaptability": 7,
+      "responsibility": 7,
+      "teamwork": 7,
+      "challenge": 6,
+      "adaptability": 7
+    },
+    "assignmentEndTime": "2026-07-22T13:27:36.601Z",
+    "createdAt": "2026-07-09T13:27:36.602Z"
+  },
+  {
+    "_id": "1783604547553",
+    "name": "组织活动",
+    "description": "无",
+    "requiredPeople": 6,
+    "priority": "high",
+    "status": "completed",
+    "requirements": {
+      "communication": 6,
+      "collaboration": 6,
+      "problemSolving": 6,
+      "projectManagement": 6,
+      "learningAdaptability": 6,
+      "responsibility": 6,
+      "teamwork": 6,
+      "challenge": 6,
+      "adaptability": 6
+    },
+    "assignmentEndTime": "2026-07-09T16:00:00.000Z",
+    "createdAt": "2026-07-09T13:44:56.060Z",
+    "updatedAt": "2026-07-09T13:46:20.869Z"
+  }
+]

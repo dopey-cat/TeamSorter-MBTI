@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "dimension": "communication",
+    "dimensionLabel": "沟通表达",
+    "question": "在团队会议中，你能够清晰地表达自己的观点并让他人理解吗？",
+    "description": "评估你的口头表达能力和沟通清晰度"
+  },
+  {
+    "id": 2,
+    "dimension": "communication",
+    "dimensionLabel": "沟通表达",
+    "question": "你能有效地倾听他人的意见并给予恰当的反馈吗？",
+    "description": "评估你的倾听能力和双向沟通技巧"
+  },
+  {
+    "id": 3,
+    "dimension": "collaboration",
+    "dimensionLabel": "社交协助",
+    "question": "在团队项目中，你能主动协助同事完成任务吗？",
+    "description": "评估你的团队协作和互助意愿"
+  },
+  {
+    "id": 4,
+    "dimension": "collaboration",
+    "dimensionLabel": "社交协助",
+    "question": "你善于与不同性格的人建立良好的工作关系吗？",
+    "description": "评估你的人际交往和社交适应能力"
+  },
+  {
+    "id": 5,
+    "dimension": "problemSolving",
+    "dimensionLabel": "解决问题",
+    "question": "面对复杂问题时，你能快速分析并找到解决方案吗？",
+    "description": "评估你的问题分析和决策能力"
+  },
+  {
+    "id": 6,
+    "dimension": "problemSolving",
+    "dimensionLabel": "解决问题",
+    "question": "你能创新性地思考，提出独特的解决方案吗？",
+    "description": "评估你的创新思维和问题解决能力"
+  },
+  {
+    "id": 7,
+    "dimension": "projectManagement",
+    "dimensionLabel": "项目管理",
+    "question": "你能合理规划工作任务并按时完成吗？",
+    "description": "评估你的时间管理和任务规划能力"
+  },
+  {
+    "id": 8,
+    "dimension": "projectManagement",
+    "dimensionLabel": "项目管理",
+    "question": "在项目中，你能有效地分配资源和协调各方工作吗？",
+    "description": "评估你的资源调配和协调能力"
+  },
+  {
+    "id": 9,
+    "dimension": "learningAdaptability",
+    "dimensionLabel": "学习适应",
+    "question": "你能快速学习新的知识和技能吗？",
+    "description": "评估你的学习能力和知识吸收速度"
+  },
+  {
+    "id": 10,
+    "dimension": "learningAdaptability",
+    "dimensionLabel": "学习适应",
+    "question": "面对新环境或变化，你能迅速适应并调整自己吗？",
+    "description": "评估你的适应能力和灵活性"
+  },
+  {
+    "id": 11,
+    "dimension": "responsibility",
+    "dimensionLabel": "承担责任",
+    "question": "你对自己的工作结果负责，勇于承担责任吗？",
+    "description": "评估你的责任感和担当精神"
+  },
+  {
+    "id": 12,
+    "dimension": "responsibility",
+    "dimensionLabel": "承担责任",
+    "question": "即使在困难情况下，你也能坚持完成任务吗？",
+    "description": "评估你的坚韧性和可靠性"
+  },
+  {
+    "id": 13,
+    "dimension": "teamwork",
+    "dimensionLabel": "团队贡献",
+    "question": "你能积极参与团队活动，为团队目标贡献力量吗？",
+    "description": "评估你的团队参与度和贡献意愿"
+  },
+  {
+    "id": 14,
+    "dimension": "teamwork",
+    "dimensionLabel": "团队贡献",
+    "question": "你愿意分享自己的知识和经验，帮助团队成长吗？",
+    "description": "评估你的知识分享和团队支持意愿"
+  },
+  {
+    "id": 15,
+    "dimension": "challenge",
+    "dimensionLabel": "接受挑战",
+    "question": "你愿意接受具有挑战性的任务吗？",
+    "description": "评估你的冒险精神和挑战意愿"
+  },
+  {
+    "id": 16,
+    "dimension": "challenge",
+    "dimensionLabel": "接受挑战",
+    "question": "面对失败时，你能保持积极心态并从中学习吗？",
+    "description": "评估你的抗压能力和学习心态"
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "_id": "1783603345330",
+    "taskId": "1783603656603",
+    "personId": "1783603590058",
+    "taskName": "【市场运营组】市场调研分析",
+    "personName": "涂馨竹",
+    "mbtiType": "ENFJ",
+    "matchRate": 100,
+    "assignedAt": "2026-07-09T13:28:35.993Z",
+    "createdAt": "2026-07-09T13:28:35.994Z"
+  },
+  {
+    "_id": "1783603345331",
+    "taskId": "1783603656603",
+    "personId": "1783603590060",
+    "taskName": "【市场运营组】市场调研分析",
+    "personName": "王岳宸",
+    "mbtiType": "ENFP",
+    "matchRate": 100,
+    "assignedAt": "2026-07-09T13:28:35.995Z",
+    "createdAt": "2026-07-09T13:28:35.996Z"
+  },
+  {
+    "_id": "1783603345332",
+    "taskId": "1783603656603",
+    "personId": "1783603590077",
+    "taskName": "【市场运营组】市场调研分析",
+    "personName": "周英杰",
+    "mbtiType": "ENTP",
+    "matchRate": 100,
+    "assignedAt": "2026-07-09T13:28:35.997Z",
+    "createdAt": "2026-07-09T13:28:35.997Z"
+  },
+  {
+    "_id": "1783603345333",
+    "taskId": "1783603656606",
+    "personId": "1783603590058",
+    "taskName": "【产品管理组】产品需求分析",
+    "personName": "涂馨竹",
+    "mbtiType": "ENFJ",
+    "matchRate": 98,
+    "assignedAt": "2026-07-09T13:28:46.624Z",
+    "createdAt": "2026-07-09T13:28:46.625Z"
+  },
+  {
+    "_id": "1783603345334",
+    "taskId": "1783603656606",
+    "personId": "1783603590060",
+    "taskName": "【产品管理组】产品需求分析",
+    "personName": "王岳宸",
+    "mbtiType": "ENFP",
+    "matchRate": 97,
+    "assignedAt": "2026-07-09T13:28:46.625Z",
+    "createdAt": "2026-07-09T13:28:46.626Z"
+  },
+  {
+    "_id": "1783603345335",
+    "taskId": "1783603656606",
+    "personId": "1783603590106",
+    "taskName": "【产品管理组】产品需求分析",
+    "personName": "杜彦霖",
+    "mbtiType": "ENTJ",
+    "matchRate": 97,
+    "assignedAt": "2026-07-09T13:28:46.626Z",
+    "createdAt": "2026-07-09T13:28:46.627Z"
+  },
+  {
+    "_id": "1783603345336",
+    "taskId": "1783603656606",
+    "personId": "1783603590077",
+    "taskName": "【产品管理组】产品需求分析",
+    "personName": "周英杰",
+    "mbtiType": "ENTP",
+    "matchRate": 96,
+    "assignedAt": "2026-07-09T13:28:46.627Z",
+    "createdAt": "2026-07-09T13:28:46.628Z"
+  },
+  {
+    "_id": "1783603345337",
+    "taskId": "1783603656608",
+    "personId": "1783603590059",
+    "taskName": "【产品管理组】需求文档编写",
+    "personName": "赵天玉",
+    "mbtiType": "ESFJ",
+    "matchRate": 98,
+    "assignedAt": "2026-07-09T13:28:50.880Z",
+    "createdAt": "2026-07-09T13:28:50.881Z"
+  },
+  {
+    "_id": "1783603345338",
+    "taskId": "1783603656608",
+    "personId": "1783603590080",
+    "taskName": "【产品管理组】需求文档编写",
+    "personName": "苏和",
+    "mbtiType": "ESFJ",
+    "matchRate": 98,
+    "assignedAt": "2026-07-09T13:28:50.882Z",
+    "createdAt": "2026-07-09T13:28:50.883Z"
+  },
+  {
+    "_id": "1783604547554",
+    "taskId": "1783603656604",
+    "personId": "1783604094019",
+    "taskName": "【市场运营组】内容创作",
+    "personName": "涂馨竹",
+    "mbtiType": "ENFJ",
+    "matchRate": 100,
+    "assignedAt": "2026-07-09T13:45:00.008Z",
+    "createdAt": "2026-07-09T13:45:00.009Z"
+  },
+  {
+    "_id": "1783604547557",
+    "taskId": "1783603656604",
+    "personId": "1783604094051",
+    "taskName": "【市场运营组】内容创作",
+    "personName": "何梓墨",
+    "mbtiType": "ENFP",
+    "assignedAt": "2026-07-09T13:45:07.388Z",
+    "createdAt": "2026-07-09T13:45:07.389Z"
+  },
+  {
+    "_id": "1783604547558",
+    "taskId": "1783603656604",
+    "personId": "1783604094044",
+    "taskName": "【市场运营组】内容创作",
+    "personName": "严子菁",
+    "mbtiType": "INTJ",
+    "assignedAt": "2026-07-09T13:45:09.199Z",
+    "createdAt": "2026-07-09T13:45:09.200Z"
+  }
+]

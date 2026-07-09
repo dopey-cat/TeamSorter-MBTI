@@ -2,116 +2,16 @@
 <html lang="zh-CN">
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    
-    <title>讯科AI教师 - 教师必备的智能备课平台</title>
-    <meta name="description" content="讯科AI教师平台，提供智能教案生成、课件制作、出题助手等一站式AI教学工具。" />
-    <meta name="keywords" content="AI教师, 智能备课, 教案生成, 讯科教育" />
-    
-    <link rel="icon" href="logo.jpg" />
-
+    <title>MBTI-WCPA岗位评估</title>
+    <link rel="icon" href="favicon.ico" />
     <style>
-      /* 1. 全局样式重置：消除浏览器默认边距 */
-      html, body {
-        margin: 0;
-        padding: 0;
-        width: 100%;
-        height: 100%;
-        background-color: #f8fafc; /* 与应用背景色一致，避免闪烁 */
-        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-        -webkit-font-smoothing: antialiased; /* 让字体更清晰 */
-      }
-
-      /* 2. 容器控制 */
-      #app, #admin {
-        width: 100%;
-        height: 100%;
-      }
-
-      /* 默认隐藏 Admin，显示 App (JS 会再次校验) */
-      #admin { display: none; }
-      #app { display: block; }
-
-      /* 3. 首屏加载动画 (Vue 挂载前显示) */
-      .app-loading {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        justify-content: center;
-        height: 100vh;
-        background-color: #fff;
-      }
-      
-      .loading-logo {
-        font-size: 48px;
-        margin-bottom: 20px;
-        animation: bounce 2s infinite ease-in-out;
-      }
-
-      .loading-spinner {
-        width: 40px;
-        height: 40px;
-        border: 3px solid #f3f3f3;
-        border-top: 3px solid #3b82f6; /* 主题蓝 */
-        border-radius: 50%;
-        animation: spin 1s linear infinite;
-      }
-
-      .loading-text {
-        margin-top: 15px;
-        color: #64748b;
-        font-size: 14px;
-        letter-spacing: 1px;
-      }
-
-      @keyframes spin {
-        0% { transform: rotate(0deg); }
-        100% { transform: rotate(360deg); }
-      }
-      @keyframes bounce {
-        0%, 100% { transform: translateY(0); }
-        50% { transform: translateY(-10px); }
-      }
+      html, body { margin:0; padding:0; width:100%; min-height:100%; background:#f5f7fa; font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"PingFang SC","Microsoft YaHei",sans-serif; -webkit-font-smoothing:antialiased }
+      #app { width:100%; min-height:100vh }
     </style>
   </head>
   <body>
-    
-    <div id="app">
-      <div class="app-loading">
-        <div class="loading-logo">🎓</div>
-        <div class="loading-spinner"></div>
-        <div class="loading-text">讯科 AI 资源加载中...</div>
-      </div>
-    </div>
-
-    <div id="admin">
-       <div class="app-loading">
-        <div class="loading-spinner"></div>
-        <div class="loading-text">后台系统加载中...</div>
-      </div>
-    </div>
-
-    <script>
-      (function() {
-        // 使用立即执行函数，避免污染全局变量
-        const path = window.location.pathname;
-        const appDiv = document.getElementById('app');
-        const adminDiv = document.getElementById('admin');
-
-        if (path.startsWith("/admin")) {
-          // 如果是后台
-          appDiv.style.display = "none";
-          adminDiv.style.display = "block";
-          document.title = "讯科后台管理系统"; // 动态修改标题
-        } else {
-          // 如果是前台
-          appDiv.style.display = "block";
-          adminDiv.style.display = "none";
-        }
-      })();
-    </script>
-
-    <script type="module" src="/src/main.js"></script>
+    <div id="app"></div>
   </body>
 </html>

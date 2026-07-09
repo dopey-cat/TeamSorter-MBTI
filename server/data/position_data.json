@@ -1,0 +1,146 @@
+[
+  {
+    "_id": "pos001",
+    "name": "项目管理岗",
+    "icon": "📋",
+    "color": "#8b5cf6",
+    "requirements": {
+      "communication": 6,
+      "collaboration": 6,
+      "problemSolving": 7,
+      "projectManagement": 9,
+      "learningAdaptability": 6,
+      "responsibility": 8,
+      "teamwork": 6,
+      "challenge": 6
+    },
+    "description": "负责项目整体规划、进度管控与资源协调",
+    "createdAt": "2026-07-08T09:51:59.536Z"
+  },
+  {
+    "_id": "pos002",
+    "name": "技术研发岗",
+    "icon": "💻",
+    "color": "#3b82f6",
+    "requirements": {
+      "communication": 5,
+      "collaboration": 5,
+      "problemSolving": 9,
+      "projectManagement": 6,
+      "learningAdaptability": 8,
+      "responsibility": 7,
+      "teamwork": 5,
+      "challenge": 7
+    },
+    "description": "负责产品技术研发、架构设计与核心代码开发",
+    "createdAt": "2026-07-08T09:51:59.537Z"
+  },
+  {
+    "_id": "pos003",
+    "name": "运营支持岗",
+    "icon": "📊",
+    "color": "#10b981",
+    "requirements": {
+      "communication": 7,
+      "collaboration": 8,
+      "problemSolving": 5,
+      "projectManagement": 5,
+      "learningAdaptability": 6,
+      "responsibility": 7,
+      "teamwork": 8,
+      "challenge": 5
+    },
+    "description": "负责日常运营维护、用户支持与流程优化",
+    "createdAt": "2026-07-08T09:51:59.537Z"
+  },
+  {
+    "_id": "pos004",
+    "name": "市场拓展岗",
+    "icon": "🚀",
+    "color": "#f59e0b",
+    "requirements": {
+      "communication": 8,
+      "collaboration": 7,
+      "problemSolving": 6,
+      "projectManagement": 5,
+      "learningAdaptability": 6,
+      "responsibility": 5,
+      "teamwork": 6,
+      "challenge": 8
+    },
+    "description": "负责市场开拓、商务合作与品牌推广",
+    "createdAt": "2026-07-08T09:51:59.537Z"
+  },
+  {
+    "_id": "pos005",
+    "name": "行政管理岗",
+    "icon": "📁",
+    "color": "#ec4899",
+    "requirements": {
+      "communication": 7,
+      "collaboration": 6,
+      "problemSolving": 5,
+      "projectManagement": 7,
+      "learningAdaptability": 5,
+      "responsibility": 8,
+      "teamwork": 6,
+      "challenge": 4
+    },
+    "description": "负责行政事务、制度管理与后勤保障",
+    "createdAt": "2026-07-08T09:51:59.537Z"
+  },
+  {
+    "_id": "pos006",
+    "name": "设计创意岗",
+    "icon": "🎨",
+    "color": "#14b8a6",
+    "requirements": {
+      "communication": 6,
+      "collaboration": 6,
+      "problemSolving": 7,
+      "projectManagement": 4,
+      "learningAdaptability": 7,
+      "responsibility": 5,
+      "teamwork": 6,
+      "challenge": 8
+    },
+    "description": "负责视觉设计、UI/UX与创意策划",
+    "createdAt": "2026-07-08T09:51:59.537Z"
+  },
+  {
+    "_id": "pos007",
+    "name": "数据分析岗",
+    "icon": "📈",
+    "color": "#6366f1",
+    "requirements": {
+      "communication": 5,
+      "collaboration": 5,
+      "problemSolving": 8,
+      "projectManagement": 5,
+      "learningAdaptability": 7,
+      "responsibility": 6,
+      "teamwork": 5,
+      "challenge": 6
+    },
+    "description": "负责数据采集、分析建模与决策支持",
+    "createdAt": "2026-07-08T09:51:59.537Z"
+  },
+  {
+    "_id": "pos008",
+    "name": "客户服务岗",
+    "icon": "💬",
+    "color": "#f43f5e",
+    "requirements": {
+      "communication": 9,
+      "collaboration": 7,
+      "problemSolving": 6,
+      "projectManagement": 4,
+      "learningAdaptability": 6,
+      "responsibility": 7,
+      "teamwork": 7,
+      "challenge": 5
+    },
+    "description": "负责客户咨询、投诉处理与满意度管理",
+    "createdAt": "2026-07-08T09:51:59.537Z"
+  }
+]

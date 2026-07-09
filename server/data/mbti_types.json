@@ -1,0 +1,450 @@
+[
+  {
+    "_id": "1783488936226",
+    "type": "INTJ",
+    "title": "建筑师",
+    "ei": "I",
+    "sn": "N",
+    "tf": "T",
+    "jp": "J",
+    "keywords": [
+      "独立",
+      "理性",
+      "战略",
+      "分析"
+    ],
+    "dimensions": {
+      "energy": -3,
+      "information": 3,
+      "decision": 2,
+      "lifestyle": 1
+    },
+    "strengths": [
+      "深邃的洞察力",
+      "强大的战略规划能力",
+      "坚定的执行力"
+    ],
+    "advice": "学会关注细节，多与他人沟通想法",
+    "createdAt": "2026-07-08T05:35:38.639Z"
+  },
+  {
+    "_id": "1783488936227",
+    "type": "INTP",
+    "title": "逻辑学家",
+    "ei": "I",
+    "sn": "N",
+    "tf": "T",
+    "jp": "P",
+    "keywords": [
+      "好奇",
+      "分析",
+      "创新",
+      "理论"
+    ],
+    "dimensions": {
+      "energy": -3,
+      "information": 3,
+      "decision": 2,
+      "lifestyle": -1
+    },
+    "strengths": [
+      "卓越的逻辑分析能力",
+      "强大的创新能力",
+      "深入的理论研究能力"
+    ],
+    "advice": "注重实践应用，培养执行力",
+    "createdAt": "2026-07-08T05:35:38.639Z"
+  },
+  {
+    "_id": "1783488936228",
+    "type": "ENTJ",
+    "title": "指挥官",
+    "ei": "E",
+    "sn": "N",
+    "tf": "T",
+    "jp": "J",
+    "keywords": [
+      "领导",
+      "果断",
+      "高效",
+      "目标"
+    ],
+    "dimensions": {
+      "energy": 3,
+      "information": 3,
+      "decision": 2,
+      "lifestyle": 1
+    },
+    "strengths": [
+      "出色的领导力",
+      "果断的决策能力",
+      "高效的组织能力"
+    ],
+    "advice": "学会倾听他人意见，关注团队情感",
+    "createdAt": "2026-07-08T05:35:38.640Z"
+  },
+  {
+    "_id": "1783488936229",
+    "type": "ENTP",
+    "title": "辩论家",
+    "ei": "E",
+    "sn": "N",
+    "tf": "T",
+    "jp": "P",
+    "keywords": [
+      "机智",
+      "探索",
+      "挑战",
+      "创意"
+    ],
+    "dimensions": {
+      "energy": 3,
+      "information": 3,
+      "decision": 2,
+      "lifestyle": -1
+    },
+    "strengths": [
+      "敏捷的思维能力",
+      "出色的口才",
+      "创新的问题解决方式"
+    ],
+    "advice": "专注完成已开始的项目，避免半途而废",
+    "createdAt": "2026-07-08T05:35:38.641Z"
+  },
+  {
+    "_id": "1783488936230",
+    "type": "INFJ",
+    "title": "提倡者",
+    "ei": "I",
+    "sn": "N",
+    "tf": "F",
+    "jp": "J",
+    "keywords": [
+      "理想",
+      "洞察",
+      "使命",
+      "同理"
+    ],
+    "dimensions": {
+      "energy": -3,
+      "information": 3,
+      "decision": -2,
+      "lifestyle": 1
+    },
+    "strengths": [
+      "深刻的同理心",
+      "强烈的使命感",
+      "卓越的洞察力"
+    ],
+    "advice": "照顾好自己的需求，避免过度付出",
+    "createdAt": "2026-07-08T05:35:38.641Z"
+  },
+  {
+    "_id": "1783488936231",
+    "type": "INFP",
+    "title": "调停者",
+    "ei": "I",
+    "sn": "N",
+    "tf": "F",
+    "jp": "P",
+    "keywords": [
+      "理想",
+      "诗意",
+      "善良",
+      "创造"
+    ],
+    "dimensions": {
+      "energy": -3,
+      "information": 3,
+      "decision": -2,
+      "lifestyle": -1
+    },
+    "strengths": [
+      "丰富的想象力",
+      "深厚的同理心",
+      "真诚的价值观"
+    ],
+    "advice": "增强现实适应力，学会保护自己",
+    "createdAt": "2026-07-08T05:35:38.642Z"
+  },
+  {
+    "_id": "1783488936232",
+    "type": "ENFJ",
+    "title": "主人公",
+    "ei": "E",
+    "sn": "N",
+    "tf": "F",
+    "jp": "J",
+    "keywords": [
+      "魅力",
+      "鼓舞",
+      "关怀",
+      "引领"
+    ],
+    "dimensions": {
+      "energy": 3,
+      "information": 3,
+      "decision": -2,
+      "lifestyle": 1
+    },
+    "strengths": [
+      "卓越的社交能力",
+      "强大的感染力",
+      "无私的奉献精神"
+    ],
+    "advice": "注意不要过度承担他人的问题",
+    "createdAt": "2026-07-08T05:35:38.643Z"
+  },
+  {
+    "_id": "1783488936233",
+    "type": "ENFP",
+    "title": "竞选者",
+    "ei": "E",
+    "sn": "N",
+    "tf": "F",
+    "jp": "P",
+    "keywords": [
+      "热情",
+      "创意",
+      "自由",
+      "探索"
+    ],
+    "dimensions": {
+      "energy": 3,
+      "information": 3,
+      "decision": -2,
+      "lifestyle": -1
+    },
+    "strengths": [
+      "无限的创造力",
+      "充沛的热情",
+      "优秀的社交能力"
+    ],
+    "advice": "学会专注，培养持续力",
+    "createdAt": "2026-07-08T05:35:38.643Z"
+  },
+  {
+    "_id": "1783488936234",
+    "type": "ISTJ",
+    "title": "物流师",
+    "ei": "I",
+    "sn": "S",
+    "tf": "T",
+    "jp": "J",
+    "keywords": [
+      "可靠",
+      "务实",
+      "责任",
+      "秩序"
+    ],
+    "dimensions": {
+      "energy": -3,
+      "information": -3,
+      "decision": 2,
+      "lifestyle": 1
+    },
+    "strengths": [
+      "极强的责任心",
+      "出色的执行力",
+      "注重细节"
+    ],
+    "advice": "适当接受变化，培养灵活性",
+    "createdAt": "2026-07-08T05:35:38.644Z"
+  },
+  {
+    "_id": "1783488936235",
+    "type": "ISFJ",
+    "title": "守卫者",
+    "ei": "I",
+    "sn": "S",
+    "tf": "F",
+    "jp": "J",
+    "keywords": [
+      "守护",
+      "温暖",
+      "细致",
+      "奉献"
+    ],
+    "dimensions": {
+      "energy": -3,
+      "information": -3,
+      "decision": -2,
+      "lifestyle": 1
+    },
+    "strengths": [
+      "无微不至的关怀",
+      "踏实可靠",
+      "注重传统"
+    ],
+    "advice": "学会表达自己的需求，勇于改变",
+    "createdAt": "2026-07-08T05:35:38.645Z"
+  },
+  {
+    "_id": "1783488936236",
+    "type": "ESTJ",
+    "title": "总经理",
+    "ei": "E",
+    "sn": "S",
+    "tf": "T",
+    "jp": "J",
+    "keywords": [
+      "高效",
+      "组织",
+      "执行",
+      "管理"
+    ],
+    "dimensions": {
+      "energy": 3,
+      "information": -3,
+      "decision": 2,
+      "lifestyle": 1
+    },
+    "strengths": [
+      "强大的组织能力",
+      "高效的执行力",
+      "务实的管理风格"
+    ],
+    "advice": "关注他人感受，适当放权",
+    "createdAt": "2026-07-08T05:35:38.645Z"
+  },
+  {
+    "_id": "1783488936237",
+    "type": "ESFJ",
+    "title": "执政官",
+    "ei": "E",
+    "sn": "S",
+    "tf": "F",
+    "jp": "J",
+    "keywords": [
+      "热情",
+      "友善",
+      "合作",
+      "尽责"
+    ],
+    "dimensions": {
+      "energy": 3,
+      "information": -3,
+      "decision": -2,
+      "lifestyle": 1
+    },
+    "strengths": [
+      "出色的社交能力",
+      "热心助人",
+      "强烈的责任感"
+    ],
+    "advice": "培养独立思考能力，不要过于在意他人评价",
+    "createdAt": "2026-07-08T05:35:38.646Z"
+  },
+  {
+    "_id": "1783488936238",
+    "type": "ISTP",
+    "title": "鉴赏家",
+    "ei": "I",
+    "sn": "S",
+    "tf": "T",
+    "jp": "P",
+    "keywords": [
+      "冷静",
+      "灵活",
+      "动手",
+      "探索"
+    ],
+    "dimensions": {
+      "energy": -3,
+      "information": -3,
+      "decision": 2,
+      "lifestyle": -1
+    },
+    "strengths": [
+      "出色的动手能力",
+      "冷静的危机处理",
+      "灵活应变"
+    ],
+    "advice": "加强长远规划，注重情感表达",
+    "createdAt": "2026-07-08T05:35:38.647Z"
+  },
+  {
+    "_id": "1783488936239",
+    "type": "ISFP",
+    "title": "探险家",
+    "ei": "I",
+    "sn": "S",
+    "tf": "F",
+    "jp": "P",
+    "keywords": [
+      "艺术",
+      "敏感",
+      "宁静",
+      "自由"
+    ],
+    "dimensions": {
+      "energy": -3,
+      "information": -3,
+      "decision": -2,
+      "lifestyle": -1
+    },
+    "strengths": [
+      "敏锐的审美",
+      "温柔的同理心",
+      "随和的性格"
+    ],
+    "advice": "增强自信心，勇于表达自己",
+    "createdAt": "2026-07-08T05:35:38.647Z"
+  },
+  {
+    "_id": "1783488936240",
+    "type": "ESTP",
+    "title": "企业家",
+    "ei": "E",
+    "sn": "S",
+    "tf": "T",
+    "jp": "P",
+    "keywords": [
+      "行动",
+      "活力",
+      "冒险",
+      "说服"
+    ],
+    "dimensions": {
+      "energy": 3,
+      "information": -3,
+      "decision": 2,
+      "lifestyle": -1
+    },
+    "strengths": [
+      "强大的行动力",
+      "出色的说服力",
+      "灵活应变"
+    ],
+    "advice": "注重长远规划，关注细节",
+    "createdAt": "2026-07-08T05:35:38.648Z"
+  },
+  {
+    "_id": "1783488936241",
+    "type": "ESFP",
+    "title": "表演者",
+    "ei": "E",
+    "sn": "S",
+    "tf": "F",
+    "jp": "P",
+    "keywords": [
+      "快乐",
+      "活力",
+      "社交",
+      "表演"
+    ],
+    "dimensions": {
+      "energy": 3,
+      "information": -3,
+      "decision": -2,
+      "lifestyle": -1
+    },
+    "strengths": [
+      "充沛的活力",
+      "出色的表演天赋",
+      "感染他人的能力"
+    ],
+    "advice": "学会规划未来，培养深度思考习惯",
+    "createdAt": "2026-07-08T05:35:38.648Z"
+  }
+]

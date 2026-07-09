@@ -2,20 +2,15 @@ const { defineConfig } = require('@vue/cli-service')
 module.exports = defineConfig({
   transpileDependencies: true,
   configureWebpack: {
-    devtool: 'source-map'   // ← 完整映射
+    devtool: 'source-map'
+  },
+  devServer: {
+    port: 8080,
+    proxy: {
+      '/api': {
+        target: 'http://localhost:5000',
+        changeOrigin: true
+      }
+    }
   }
 })
-module.exports = {
-  devServer: {
-    proxy: {
-      "/deepseek": {
-        target: "https://api.deepseek.com",
-        changeOrigin: true,
-        secure: false,
-        pathRewrite: {
-          "^/deepseek": "",
-        },
-      },
-    },
-  },
-};

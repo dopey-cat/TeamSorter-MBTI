@@ -1,0 +1,2003 @@
+[
+  {
+    "_id": "1783493159988",
+    "source": "mbti1",
+    "submitTime": "46020.7447222222",
+    "fillId": "20251229175223735706354",
+    "duration": "",
+    "phone": "13681385471",
+    "name": "涂馨竹",
+    "studentId": "2025011388",
+    "college": "计算机",
+    "major": "软工2501",
+    "mbtiType": "ENFJ",
+    "scores": {
+      "communication": 10,
+      "collaboration": 0,
+      "problemSolving": 8,
+      "projectManagement": 8,
+      "learningAdaptability": 8,
+      "responsibility": 9,
+      "teamwork": 0,
+      "challenge": 7
+    },
+    "preferences": {
+      "activity": "",
+      "activityType": "B2368",
+      "hobby": "C234567"
+    },
+    "createdAt": "2026-07-08T06:46:00.019Z"
+  },
+  {
+    "_id": "1783493159989",
+    "source": "mbti1",
+    "submitTime": "46020.7467361111",
+    "fillId": "20251229175518039738931",
+    "duration": "",
+    "phone": "13521153328",
+    "name": "赵天玉",
+    "studentId": "2025011503",
+    "college": "计算机学院",
+    "major": "大数据",
+    "mbtiType": "ESFJ",
+    "scores": {
+      "communication": 8,
+      "collaboration": 0,
+      "problemSolving": 6,
+      "projectManagement": 7,
+      "learningAdaptability": 8,
+      "responsibility": 9,
+      "teamwork": 0,
+      "challenge": 7
+    },
+    "preferences": {
+      "activity": "",
+      "activityType": "B2 B5 B8",
+      "hobby": "C2 C4 C6 C8"
+    },
+    "createdAt": "2026-07-08T06:46:00.019Z"
+  },
+  {
+    "_id": "1783493159990",
+    "source": "mbti1",
+    "submitTime": "46020.7478356482",
+    "fillId": "20251229175653293618558",
+    "duration": "",
+    "phone": "13436882877",
+    "name": "王岳宸",
+    "studentId": "2025011612",
+    "college": "计算机学院",
+    "major": "网工",
+    "mbtiType": "ENFP",
+    "scores": {
+      "communication": 8,
+      "collaboration": 0,
+      "problemSolving": 9,
+      "projectManagement": 8,
+      "learningAdaptability": 8,
+      "responsibility": 9,
+      "teamwork": 0,
+      "challenge": 9
+    },
+    "preferences": {
+      "activity": "",
+      "activityType": "10",
+      "hobby": "10"
+    },
+    "createdAt": "2026-07-08T06:46:00.019Z"
+  },
+  {
+    "_id": "1783493159991",
+    "source": "mbti1",
+    "submitTime": "46020.7483101852",
+    "fillId": "20251229175734104878528",
+    "duration": "",
+    "phone": "13521825814",
+    "name": "师胜歌",
+    "studentId": "2025011631",
+    "college": "计算机学院",
+    "major": "网络工程",
+    "mbtiType": "ESTJ",
+    "scores": {
+      "communication": 5,
+      "collaboration": 0,
+      "problemSolving": 6,
+      "projectManagement": 6,
+      "learningAdaptability": 5,
+      "responsibility": 5,
+      "teamwork": 0,
+      "challenge": 6
+    },
+    "preferences": {
+      "activity": "",
+      "activityType": "B2，B6，B8",
+      "hobby": "C2，C4，C7"
+    },
+    "createdAt": "2026-07-08T06:46:00.019Z"
+  },
+  {
+    "_id": "1783493159992",
+    "source": "mbti1",
+    "submitTime": "46020.7491666667",
+    "fillId": "20251229175848251304914",
+    "duration": "",
+    "phone": "18513477874",
+    "name": "王翰文",
+    "studentId": "2025012659",
+    "college": "理学院",
+    "major": "信息与计算科学",
+    "mbtiType": "ENTJ",
+    "scores": {
+      "communication": 7,
+      "collaboration": 0,
+      "problemSolving": 6,
+      "projectManagement": 0,
+      "learningAdaptability": 8,
+      "responsibility": 9,
+      "teamwork": 0,
+      "challenge": 8
+    },
+    "preferences": {
+      "activity": "",
+      "activityType": "线下圆桌",
+      "hobby": "听歌看剧，追追kpop"
+    },
+    "createdAt": "2026-07-08T06:46:00.019Z"
+  },
+  {
+    "_id": "1783493159993",
+    "source": "mbti1",
+    "submitTime": "46020.7504050926",
+    "fillId": "20251229180035389274545",
+    "duration": "",
+    "phone": "13261672950",
+    "name": "朱梓熹",
+    "studentId": "2024011325",
+    "college": "计算机",
+    "major": "软件工程",
+    "mbtiType": "ESFJ",
+    "scores": {
+      "communication": 8,
+      "collaboration": 0,
+      "problemSolving": 4,
+      "projectManagement": 7,
+      "learningAdaptability": 7,
+      "responsibility": 8,
+      "teamwork": 0,
+      "challenge": 7
+    },
+    "preferences": {
+      "activity": "",
+      "activityType": "B2 B5",
+      "hobby": "美术"
+    },
+    "createdAt": "2026-07-08T06:46:00.019Z"
+  },
+  {
+    "_id": "1783493159994",
+    "source": "mbti1",
+    "submitTime": "46020.7512268519",
+    "fillId": "20251229180145601633701",
+    "duration": "",
+    "phone": "18811489864",
+    "name": "康宋睿",
+    "studentId": "DX125621",
+    "college": "东南大学 南工书院",
+    "major": "电子信息专业",
+    "mbtiType": "ENTJ",
+    "scores": {
+      "communication": 10,
+      "collaboration": 0,
+      "problemSolving": 10,
+      "projectManagement": 3,
+      "learningAdaptability": 10,
+      "responsibility": 7,
+      "teamwork": 0,
+      "challenge": 10
+    },
+    "preferences": {
+      "activity": "",
+      "activityType": "线上活动（我也想和北信科的同学见见面）",
+      "hobby": "我来自东南大学电子信息专业（南京市985，通信工程全球排名第一），高中就读于北京人大附中，和社团长杜彦霖是高三的同桌。\n平常，我几乎所有的时间都投入到了算法的学习中。高考后，我开始自学C++，用两周的时间学完了基础语法，又用了一个半月的时间学完了数据结构和一些基础算法，现在利用课余时间在自学进阶算法和openCV。从九月底开始，我在leetcode平台上开始刷题，截止今天，刷题量达到222道，超越95%的用户。在程序设计方面，我对BFS、DFS、双指针、递归、动态规划、滑动窗口、前缀和等算法，以及队列、链表、栈（包含单调栈）、哈希表、二叉树等数据结构能够熟练运用，对于二叉树的序列化以及反序列化等类似于“加密”“解码”的操作掌握多种不同的设计思路，能够保证代码的时间复杂度和空间复杂度在一个较好的状态。上上周，我还去参加了东南大学计算机专业组织的“帆软杯”程序设计竞赛。\n同时，我也拥有很强的学习能力。我的线代期中成绩为满分，工科数学分析（难度远高于高数）的期中成绩为90分（因为粗心的原因，一个题目抄错，另一个题目中有一项写漏了，导致扣了8分）。同时，我还去蹭了大二同学上的大学物理、电路基础这两门课程，和大二的同学一起参加了期中考试，成绩均高于大二年纪均分。最近，在电路基础这门课程的学习中，我有一个发现想深入探究一下，就是在直流电路分析的基础理论中，基尔霍夫定律的内核与计算机图论的网络流算法中Ford_Fulkerson算法的关键思想有着异曲同工之妙。现在很多问题都可以通过跨学科的方式找到答案，就像物理的光学折射定律可以巧妙地解决数学中的“胡不归”问题，这个发现背后可能也蕴藏着一些巧妙的原理，值得我继续探究。\n此外，我也有着良好的时间规划能力和作息，从大一开学以来，每天坚持凌晨5：45起床，11：30睡觉。在ppt制作，演讲汇报等领域，我也有一定的能力。在英语方面，东南大学入学测试中，我排名193名（用3544名大一新生参加同级别的考试），每天睡前练习听力，早上练习口语，多次在班级上纯英文脱稿做presentation，获得了老师的最高评价。\n希望我能够作为一个线上助手，助力贵校的活动。"
+    },
+    "createdAt": "2026-07-08T06:46:00.019Z"
+  },
+  {
+    "_id": "1783493159995",
+    "source": "mbti1",
+    "submitTime": "46020.7561111111",
+    "fillId": "20251229180848422210278",
+    "duration": "",
+    "phone": "19130718476",
+    "name": "刘星云",
+    "studentId": "2024010980",
+    "college": "信通学院",
+    "major": "通信工程",
+    "mbtiType": "INTJ",
+    "scores": {
+      "communication": 7,
+      "collaboration": 0,
+      "problemSolving": 7,
+      "projectManagement": 5,
+      "learningAdaptability": 7,
+      "responsibility": 6,
+      "teamwork": 0,
+      "challenge": 8
+    },
+    "preferences": {
+      "activity": "",
+      "activityType": "B1，B2",
+      "hobby": "C3，C1，C5"
+    },
+    "createdAt": "2026-07-08T06:46:00.019Z"
+  },
+  {
+    "_id": "1783493159996",
+    "source": "mbti1",
+    "submitTime": "46020.7566319444",
+    "fillId": "20251229180933308989778",
+    "duration": "",
+    "phone": "18811489864",
+    "name": "康宋睿",
+    "studentId": "东南大学（DX125621）",
+    "college": "东南大学 南工书院",
+    "major": "电子信息专业",
+    "mbtiType": "ENTJ",
+    "scores": {
+      "communication": 8,
+      "collaboration": 0,
+      "problemSolving": 10,
+      "projectManagement": 5,
+      "learningAdaptability": 10,
+      "responsibility": 5,
+      "teamwork": 0,
+      "challenge": 10
+    },
+    "preferences": {
+      "activity": "",
+      "activityType": "B7",
+      "hobby": "抱歉，之前填了一单，没看说明信息，可以忽略之前那单。\n我是康宋睿，就读于东南大学电子信息专业（南京市985，通信工程全球排名第一），高中毕业于北京人大附中，和杜彦霖是高三的同桌。我目前大一，希望能够通过线上的方式参与到研发部门中来。\n平常，我几乎所有的时间都投入到了算法的学习中。高考后，我开始自学C++，用两周的时间学完了基础语法，又用了一个半月的时间学完了数据结构和一些基础算法，现在利用课余时间在自学进阶算法和openCV。从九月底开始，我在leetcode平台上开始刷题，截止今天，刷题量达到222道，超越95%的用户。在程序设计方面，我对BFS、DFS、双指针、递归、动态规划、滑动窗口、前缀和等算法，以及队列、链表、栈（包含单调栈）、哈希表、二叉树等数据结构能够熟练运用，对于二叉树的序列化以及反序列化等类似于“加密”“解码”的操作掌握多种不同的设计思路，能够保证代码的时间复杂度和空间复杂度在一个较好的状态。上上周，我还去参加了东南大学计算机专业组织的“帆软杯”程序设计竞赛。\n同时，我也拥有很强的学习能力。我的线代期中成绩为满分，工科数学分析（难度远高于高数）的期中成绩为90分（因为粗心的原因，一个题目抄错，另一个题目中有一项写漏了，导致扣了8分）。同时，我还去蹭了大二同学上的大学物理、电路基础这两门课程，和大二的同学一起参加了期中考试，成绩均高于大二年纪均分。最近，在电路基础这门课程的学习中，我有一个发现想深入探究一下，就是在直流电路分析的基础理论中，基尔霍夫定律的内核与计算机图论的网络流算法中Ford_Fulkerson算法的关键思想有着异曲同工之妙。现在很多问题都可以通过跨学科的方式找到答案，就像物理的光学折射定律可以巧妙地解决数学中的“胡不归”问题，这个发现背后可能也蕴藏着一些巧妙的原理，值得我继续探究。\n此外，我也有着良好的时间规划能力和作息，从大一开学以来，每天坚持凌晨5：45起床，11：30睡觉。在ppt制作，演讲汇报等领域，我也有一定的能力。在英语方面，入学测试中，我排名193名（用3544名大一新生参加同级别的考试），每天睡前练习听力，早上练习口语，多次在班级上纯英文脱稿做presentation，获得了老师的最高评价。"
+    },
+    "createdAt": "2026-07-08T06:46:00.019Z"
+  },
+  {
+    "_id": "1783493159997",
+    "source": "mbti1",
+    "submitTime": "46020.7575115741",
+    "fillId": "20251229181048920555319",
+    "duration": "",
+    "phone": "15144961855",
+    "name": "冯可欣",
+    "studentId": "2025012228",
+    "college": "商学院",
+    "major": "审计学",
+    "mbtiType": "INFJ",
+    "scores": {
+      "communication": 6,
+      "collaboration": 0,
+      "problemSolving": 6,
+      "projectManagement": 5,
+      "learningAdaptability": 5,
+      "responsibility": 7,
+      "teamwork": 0,
+      "challenge": 5
+    },
+    "preferences": {
+      "activity": "",
+      "activityType": "B8 B2",
+      "hobby": "C2 C6"
+    },
+    "createdAt": "2026-07-08T06:46:00.019Z"
+  },
+  {
+    "_id": "1783493159998",
+    "source": "mbti1",
+    "submitTime": "46020.7601273148",
+    "fillId": "20251229181435217182894",
+    "duration": "",
+    "phone": "18260917996",
+    "name": "黄琪盛",
+    "studentId": "2025010237",
+    "college": " 机电工程学院",
+    "major": "智能制造工程",
+    "mbtiType": "INTJ",
+    "scores": {
+      "communication": 5,
+      "collaboration": 0,
+      "problemSolving": 5,
+      "projectManagement": 7,
+      "learningAdaptability": 6,
+      "responsibility": 6,
+      "teamwork": 0,
+      "challenge": 6
+    },
+    "preferences": {
+      "activity": "",
+      "activityType": "B8",
+      "hobby": "C5"
+    },
+    "createdAt": "2026-07-08T06:46:00.019Z"
+  },
+  {
+    "_id": "1783493159999",
+    "source": "mbti1",
+    "submitTime": "46020.7668865741",
+    "fillId": "20251229182418598921426",
+    "duration": "",
+    "phone": "13910383185",
+    "name": "张岚清",
+    "studentId": "2025011293",
+    "college": "计算机学院",
+    "major": "计算机科学与技术",
+    "mbtiType": "INTP-A",
+    "scores": {
+      "communication": 7,
+      "collaboration": 0,
+      "problemSolving": 7,
+      "projectManagement": 7,
+      "learningAdaptability": 8,
+      "responsibility": 7,
+      "teamwork": 0,
+      "challenge": 8
+    },
+    "preferences": {
+      "activity": "",
+      "activityType": "B2",
+      "hobby": "C1 C2 C5 C6"
+    },
+    "createdAt": "2026-07-08T06:46:00.019Z"
+  },
+  {
+    "_id": "1783493160000",
+    "source": "mbti1",
+    "submitTime": "46020.771087963",
+    "fillId": "20251229183022050802001",
+    "duration": "",
+    "phone": "15811591107",
+    "name": "张扬",
+    "studentId": "2025011632",
+    "college": "计算机",
+    "major": "网工",
+    "mbtiType": "ISTP",
+    "scores": {
+      "communication": 5,
+      "collaboration": 0,
+      "problemSolving": 5,
+      "projectManagement": 5,
+      "learningAdaptability": 5,
+      "responsibility": 5,
+      "teamwork": 0,
+      "challenge": 3
+    },
+    "preferences": {
+      "activity": "",
+      "activityType": "B3",
+      "hobby": "C1，C6"
+    },
+    "createdAt": "2026-07-08T06:46:00.019Z"
+  },
+  {
+    "_id": "1783493160001",
+    "source": "mbti1",
+    "submitTime": "46020.7735416667",
+    "fillId": "20251229183353646888265",
+    "duration": "",
+    "phone": "15910718182",
+    "name": "赵韦豪",
+    "studentId": "2025011368",
+    "college": "计算机学院",
+    "major": "计算机科学与技术",
+    "mbtiType": "INTP",
+    "scores": {
+      "communication": 6,
+      "collaboration": 0,
+      "problemSolving": 8,
+      "projectManagement": 8,
+      "learningAdaptability": 8,
+      "responsibility": 8,
+      "teamwork": 0,
+      "challenge": 8
+    },
+    "preferences": {
+      "activity": "",
+      "activityType": "B1 B2 B5 B7",
+      "hobby": "C3"
+    },
+    "createdAt": "2026-07-08T06:46:00.019Z"
+  },
+  {
+    "_id": "1783493160002",
+    "source": "mbti1",
+    "submitTime": "46020.7800462963",
+    "fillId": "20251229184315841479825",
+    "duration": "",
+    "phone": "15601364931",
+    "name": "贾博渊",
+    "studentId": "2023011524",
+    "college": "计算机",
+    "major": "网络工程",
+    "mbtiType": "INFJ",
+    "scores": {
+      "communication": 8,
+      "collaboration": 0,
+      "problemSolving": 8,
+      "projectManagement": 8,
+      "learningAdaptability": 8,
+      "responsibility": 8,
+      "teamwork": 0,
+      "challenge": 8
+    },
+    "preferences": {
+      "activity": "",
+      "activityType": "8",
+      "hobby": "8"
+    },
+    "createdAt": "2026-07-08T06:46:00.019Z"
+  },
+  {
+    "_id": "1783493160003",
+    "source": "mbti1",
+    "submitTime": "46020.780775463",
+    "fillId": "20251229184418882106415",
+    "duration": "",
+    "phone": "13811178232",
+    "name": "罗丹阳",
+    "studentId": "2024010557",
+    "college": "自动化",
+    "major": "自控2403",
+    "mbtiType": "ENTJ",
+    "scores": {
+      "communication": 5,
+      "collaboration": 0,
+      "problemSolving": 5,
+      "projectManagement": 5,
+      "learningAdaptability": 5,
+      "responsibility": 5,
+      "teamwork": 0,
+      "challenge": 5
+    },
+    "preferences": {
+      "activity": "",
+      "activityType": "B7、B2、B4、B5、B6",
+      "hobby": "C1、C2、C3、C4"
+    },
+    "createdAt": "2026-07-08T06:46:00.019Z"
+  },
+  {
+    "_id": "1783493160004",
+    "source": "mbti1",
+    "submitTime": "46020.793275463",
+    "fillId": "20251229190218937227962",
+    "duration": "",
+    "phone": "15611250066",
+    "name": "裴启言",
+    "studentId": "2024011265",
+    "college": "计算机学院",
+    "major": "计算机科学与技术",
+    "mbtiType": "INTJ",
+    "scores": {
+      "communication": 6,
+      "collaboration": 0,
+      "problemSolving": 7,
+      "projectManagement": 6,
+      "learningAdaptability": 8,
+      "responsibility": 6,
+      "teamwork": 0,
+      "challenge": 6
+    },
+    "preferences": {
+      "activity": "",
+      "activityType": "B1 B2 B4",
+      "hobby": "C1 C2"
+    },
+    "createdAt": "2026-07-08T06:46:00.019Z"
+  },
+  {
+    "_id": "1783493160005",
+    "source": "mbti1",
+    "submitTime": "46020.801875",
+    "fillId": "20251229191441588543014",
+    "duration": "",
+    "phone": "18919900049",
+    "name": "侯佳希",
+    "studentId": "2025011614",
+    "college": "计算机",
+    "major": "网工",
+    "mbtiType": "ISFJ",
+    "scores": {
+      "communication": 6,
+      "collaboration": 0,
+      "problemSolving": 7,
+      "projectManagement": 7,
+      "learningAdaptability": 7,
+      "responsibility": 7,
+      "teamwork": 0,
+      "challenge": 8
+    },
+    "preferences": {
+      "activity": "",
+      "activityType": "B1,B2,B8",
+      "hobby": "C1,C2,C8"
+    },
+    "createdAt": "2026-07-08T06:46:00.019Z"
+  },
+  {
+    "_id": "1783493160006",
+    "source": "mbti1",
+    "submitTime": "46020.8085416667",
+    "fillId": "20251229192417916055627",
+    "duration": "",
+    "phone": "18507078054",
+    "name": "梁粤",
+    "studentId": "2025012653",
+    "college": "理学院",
+    "major": "信息与计算科学",
+    "mbtiType": "ENTJ",
+    "scores": {
+      "communication": 7,
+      "collaboration": 0,
+      "problemSolving": 6,
+      "projectManagement": 6,
+      "learningAdaptability": 7,
+      "responsibility": 8,
+      "teamwork": 0,
+      "challenge": 7
+    },
+    "preferences": {
+      "activity": "",
+      "activityType": "B2",
+      "hobby": "C1C8"
+    },
+    "createdAt": "2026-07-08T06:46:00.019Z"
+  },
+  {
+    "_id": "1783493160007",
+    "source": "mbti1",
+    "submitTime": "46020.8189236111",
+    "fillId": "20251229193914775714575",
+    "duration": "",
+    "phone": "13693605493",
+    "name": "周英杰",
+    "studentId": "2025010994",
+    "college": "信通学院",
+    "major": "通信工程",
+    "mbtiType": "ENTP-A",
+    "scores": {
+      "communication": 8,
+      "collaboration": 0,
+      "problemSolving": 8,
+      "projectManagement": 8,
+      "learningAdaptability": 8,
+      "responsibility": 8,
+      "teamwork": 0,
+      "challenge": 8
+    },
+    "preferences": {
+      "activity": "",
+      "activityType": "B4",
+      "hobby": "［C1:C8］"
+    },
+    "createdAt": "2026-07-08T06:46:00.019Z"
+  },
+  {
+    "_id": "1783493160008",
+    "source": "mbti1",
+    "submitTime": "46020.8234375",
+    "fillId": "20251229194544706882887",
+    "duration": "",
+    "phone": "13911110877",
+    "name": "于翰琨",
+    "studentId": "2025011511",
+    "college": "计算机学院",
+    "major": "数据科学与大数据技术",
+    "mbtiType": "INFP",
+    "scores": {
+      "communication": 4,
+      "collaboration": 0,
+      "problemSolving": 4,
+      "projectManagement": 7,
+      "learningAdaptability": 6,
+      "responsibility": 7,
+      "teamwork": 0,
+      "challenge": 4
+    },
+    "preferences": {
+      "activity": "",
+      "activityType": "科技类、综合协调类",
+      "hobby": "与专业相关：上网了解新奇小科技，正在尝试自学一些专业知识\n与专业无关：跑步，篮球"
+    },
+    "createdAt": "2026-07-08T06:46:00.019Z"
+  },
+  {
+    "_id": "1783493160009",
+    "source": "mbti1",
+    "submitTime": "46020.8250231482",
+    "fillId": "20251229194801880558339",
+    "duration": "",
+    "phone": "18281615777",
+    "name": "宋林轩",
+    "studentId": "2025011461",
+    "college": "计算机",
+    "major": "数据科学与大数据技术",
+    "mbtiType": "ESTP",
+    "scores": {
+      "communication": 6,
+      "collaboration": 0,
+      "problemSolving": 6,
+      "projectManagement": 5,
+      "learningAdaptability": 6,
+      "responsibility": 5,
+      "teamwork": 0,
+      "challenge": 7
+    },
+    "preferences": {
+      "activity": "",
+      "activityType": "B2 B4",
+      "hobby": "C1 C3 C 5"
+    },
+    "createdAt": "2026-07-08T06:46:00.019Z"
+  },
+  {
+    "_id": "1783493160010",
+    "source": "mbti1",
+    "submitTime": "46020.8320717593",
+    "fillId": "20251229195810819711878",
+    "duration": "",
+    "phone": "15600711211",
+    "name": "苏和",
+    "studentId": "2025011493",
+    "college": "计算机学院",
+    "major": "数据科学与大数据技术",
+    "mbtiType": "ESFJ",
+    "scores": {
+      "communication": 8,
+      "collaboration": 0,
+      "problemSolving": 9,
+      "projectManagement": 8,
+      "learningAdaptability": 9,
+      "responsibility": 7,
+      "teamwork": 0,
+      "challenge": 9
+    },
+    "preferences": {
+      "activity": "",
+      "activityType": "B1B2B6B7",
+      "hobby": "C1C3"
+    },
+    "createdAt": "2026-07-08T06:46:00.019Z"
+  },
+  {
+    "_id": "1783493160011",
+    "source": "mbti1",
+    "submitTime": "46020.8520138889",
+    "fillId": "20251229202653740496291",
+    "duration": "",
+    "phone": "15010140395",
+    "name": "刘凯悦",
+    "studentId": "2025012208",
+    "college": "计算机",
+    "major": "信息安全",
+    "mbtiType": "ENTJ",
+    "scores": {
+      "communication": 8,
+      "collaboration": 0,
+      "problemSolving": 6,
+      "projectManagement": 6,
+      "learningAdaptability": 8,
+      "responsibility": 5,
+      "teamwork": 0,
+      "challenge": 5
+    },
+    "preferences": {
+      "activity": "",
+      "activityType": "B1B5",
+      "hobby": "237"
+    },
+    "createdAt": "2026-07-08T06:46:00.019Z"
+  },
+  {
+    "_id": "1783493160012",
+    "source": "mbti1",
+    "submitTime": "46021.6372685185",
+    "fillId": "20251230151740385021875",
+    "duration": "",
+    "phone": "13717740113",
+    "name": "卢子瑞",
+    "studentId": "2025011641",
+    "college": "计算机",
+    "major": "网络工程",
+    "mbtiType": "ISFP-T",
+    "scores": {
+      "communication": 7,
+      "collaboration": 0,
+      "problemSolving": 7,
+      "projectManagement": 7,
+      "learningAdaptability": 7,
+      "responsibility": 7,
+      "teamwork": 0,
+      "challenge": 7
+    },
+    "preferences": {
+      "activity": "",
+      "activityType": "B2 B4 B5 B7",
+      "hobby": "C1 C5"
+    },
+    "createdAt": "2026-07-08T06:46:00.019Z"
+  },
+  {
+    "_id": "1783493160013",
+    "source": "mbti1",
+    "submitTime": "46021.6748958333",
+    "fillId": "20251230161151049831121",
+    "duration": "",
+    "phone": "13426412823",
+    "name": "严子菁",
+    "studentId": "2025011287",
+    "college": "计算机学院",
+    "major": "计算机科学与技术",
+    "mbtiType": "INTJ",
+    "scores": {
+      "communication": 7,
+      "collaboration": 0,
+      "problemSolving": 7,
+      "projectManagement": 7,
+      "learningAdaptability": 8,
+      "responsibility": 7,
+      "teamwork": 0,
+      "challenge": 6
+    },
+    "preferences": {
+      "activity": "",
+      "activityType": "B268",
+      "hobby": "C2357"
+    },
+    "createdAt": "2026-07-08T06:46:00.019Z"
+  },
+  {
+    "_id": "1783493160014",
+    "source": "mbti1",
+    "submitTime": "46021.693287037",
+    "fillId": "20251230163819935474173",
+    "duration": "",
+    "phone": "18511100778",
+    "name": "沈宇炫",
+    "studentId": "2025011635",
+    "college": "计算机院",
+    "major": "网工",
+    "mbtiType": "INFJ",
+    "scores": {
+      "communication": 7,
+      "collaboration": 0,
+      "problemSolving": 7,
+      "projectManagement": 8,
+      "learningAdaptability": 9,
+      "responsibility": 5,
+      "teamwork": 0,
+      "challenge": 7
+    },
+    "preferences": {
+      "activity": "",
+      "activityType": "B4、B6、B7、B8",
+      "hobby": "C1、C3、C5、C8"
+    },
+    "createdAt": "2026-07-08T06:46:00.019Z"
+  },
+  {
+    "_id": "1783493160015",
+    "source": "mbti1",
+    "submitTime": "46021.7521643518",
+    "fillId": "20251230180307103156528",
+    "duration": "",
+    "phone": "13581505062",
+    "name": "黄日铭",
+    "studentId": "2025011629",
+    "college": "计算机学院",
+    "major": "网工2502",
+    "mbtiType": "ENFJ",
+    "scores": {
+      "communication": 8,
+      "collaboration": 0,
+      "problemSolving": 9,
+      "projectManagement": 7,
+      "learningAdaptability": 8,
+      "responsibility": 6,
+      "teamwork": 0,
+      "challenge": 8
+    },
+    "preferences": {
+      "activity": "",
+      "activityType": "线下活动",
+      "hobby": "羽毛球"
+    },
+    "createdAt": "2026-07-08T06:46:00.019Z"
+  },
+  {
+    "_id": "1783493160016",
+    "source": "mbti1",
+    "submitTime": "46021.7525231481",
+    "fillId": "20251230180338038671252",
+    "duration": "",
+    "phone": "17611597271",
+    "name": "赵鹤然",
+    "studentId": "2025011390",
+    "college": "计算机学院",
+    "major": "软件工程",
+    "mbtiType": "ENFP",
+    "scores": {
+      "communication": 6,
+      "collaboration": 0,
+      "problemSolving": 7,
+      "projectManagement": 6,
+      "learningAdaptability": 7.5,
+      "responsibility": 7,
+      "teamwork": 0,
+      "challenge": 7
+    },
+    "preferences": {
+      "activity": "",
+      "activityType": "B2B4B5",
+      "hobby": "C1C2C4C7C9:补充经济，商业，政治的认知"
+    },
+    "createdAt": "2026-07-08T06:46:00.019Z"
+  },
+  {
+    "_id": "1783493160017",
+    "source": "mbti1",
+    "submitTime": "46021.7525578704",
+    "fillId": "20251230180340981956639",
+    "duration": "",
+    "phone": "15942931929",
+    "name": "韩以亦",
+    "studentId": "2025011620",
+    "college": "计算机学院",
+    "major": "网络工程",
+    "mbtiType": "ESTJ",
+    "scores": {
+      "communication": 6,
+      "collaboration": 0,
+      "problemSolving": 6,
+      "projectManagement": 4,
+      "learningAdaptability": 6,
+      "responsibility": 7,
+      "teamwork": 0,
+      "challenge": 5
+    },
+    "preferences": {
+      "activity": "",
+      "activityType": "B2 B4",
+      "hobby": "C1 C4"
+    },
+    "createdAt": "2026-07-08T06:46:00.019Z"
+  },
+  {
+    "_id": "1783493160018",
+    "source": "mbti1",
+    "submitTime": "46021.7529398148",
+    "fillId": "20251230180413715066601",
+    "duration": "",
+    "phone": "13311528516",
+    "name": "姚博文",
+    "studentId": "2025011587",
+    "college": "计算机学院",
+    "major": "网络工程",
+    "mbtiType": "INTJ",
+    "scores": {
+      "communication": 6,
+      "collaboration": 0,
+      "problemSolving": 8,
+      "projectManagement": 6,
+      "learningAdaptability": 8,
+      "responsibility": 7,
+      "teamwork": 0,
+      "challenge": 10
+    },
+    "preferences": {
+      "activity": "",
+      "activityType": "B1，B6",
+      "hobby": "C1，C2"
+    },
+    "createdAt": "2026-07-08T06:46:00.019Z"
+  },
+  {
+    "_id": "1783493160019",
+    "source": "mbti1",
+    "submitTime": "46021.7573263889",
+    "fillId": "20251230181032724093060",
+    "duration": "",
+    "phone": "18500354991",
+    "name": "薛家琪",
+    "studentId": "2025010295",
+    "college": "机电工程学院",
+    "major": "智能交互设计",
+    "mbtiType": "ENFJ",
+    "scores": {
+      "communication": 7,
+      "collaboration": 0,
+      "problemSolving": 7,
+      "projectManagement": 7,
+      "learningAdaptability": 7,
+      "responsibility": 7,
+      "teamwork": 0,
+      "challenge": 7
+    },
+    "preferences": {
+      "activity": "",
+      "activityType": "培训课程，参赛",
+      "hobby": "拍照剪视频"
+    },
+    "createdAt": "2026-07-08T06:46:00.019Z"
+  },
+  {
+    "_id": "1783493160020",
+    "source": "mbti1",
+    "submitTime": "46021.7579513889",
+    "fillId": "20251230181126619175210",
+    "duration": "",
+    "phone": "18513045713",
+    "name": "何梓墨",
+    "studentId": "2025012186",
+    "college": "计算机",
+    "major": "信息安全",
+    "mbtiType": "ENFP",
+    "scores": {
+      "communication": 9,
+      "collaboration": 0,
+      "problemSolving": 10,
+      "projectManagement": 5,
+      "learningAdaptability": 10,
+      "responsibility": 10,
+      "teamwork": 0,
+      "challenge": 10
+    },
+    "preferences": {
+      "activity": "",
+      "activityType": "b1",
+      "hobby": "c1c2"
+    },
+    "createdAt": "2026-07-08T06:46:00.019Z"
+  },
+  {
+    "_id": "1783493160021",
+    "source": "mbti1",
+    "submitTime": "46021.7606018518",
+    "fillId": "20251230181516465226314",
+    "duration": "",
+    "phone": "17800887292",
+    "name": "秦然",
+    "studentId": "2025012383",
+    "college": "管理科学与工程学院",
+    "major": "大数据管理与应用",
+    "mbtiType": "INTJ",
+    "scores": {
+      "communication": 8,
+      "collaboration": 0,
+      "problemSolving": 6,
+      "projectManagement": 8,
+      "learningAdaptability": 5,
+      "responsibility": 8,
+      "teamwork": 0,
+      "challenge": 7
+    },
+    "preferences": {
+      "activity": "",
+      "activityType": "B7",
+      "hobby": "C3，C2，C6"
+    },
+    "createdAt": "2026-07-08T06:46:00.019Z"
+  },
+  {
+    "_id": "1783493160022",
+    "source": "mbti1",
+    "submitTime": "46021.7606944444",
+    "fillId": "20251230181523961109207",
+    "duration": "",
+    "phone": "15010534807",
+    "name": "张雅萱",
+    "studentId": "2025011806",
+    "college": "商学院",
+    "major": "人力资源管理",
+    "mbtiType": "INFP",
+    "scores": {
+      "communication": 7.5,
+      "collaboration": 0,
+      "problemSolving": 3,
+      "projectManagement": 7,
+      "learningAdaptability": 4,
+      "responsibility": 7,
+      "teamwork": 0,
+      "challenge": 7
+    },
+    "preferences": {
+      "activity": "",
+      "activityType": "B2 B4 B7",
+      "hobby": "C2 C3 C4 C6 C7 C8"
+    },
+    "createdAt": "2026-07-08T06:46:00.019Z"
+  },
+  {
+    "_id": "1783493160023",
+    "source": "mbti1",
+    "submitTime": "46021.7607175926",
+    "fillId": "20251230181526135203475",
+    "duration": "",
+    "phone": "13121381190",
+    "name": "范欣妍",
+    "studentId": "2025011636",
+    "college": "计算机",
+    "major": "网络工程",
+    "mbtiType": "ESTJ",
+    "scores": {
+      "communication": 8,
+      "collaboration": 0,
+      "problemSolving": 6,
+      "projectManagement": 6,
+      "learningAdaptability": 7,
+      "responsibility": 6,
+      "teamwork": 0,
+      "challenge": 5
+    },
+    "preferences": {
+      "activity": "",
+      "activityType": "团队协作B2 被指导与学习B4",
+      "hobby": "C1 C3 C7 C8"
+    },
+    "createdAt": "2026-07-08T06:46:00.019Z"
+  },
+  {
+    "_id": "1783493160024",
+    "source": "mbti1",
+    "submitTime": "46021.7634837963",
+    "fillId": "20251230181925069550335",
+    "duration": "",
+    "phone": "15801089065",
+    "name": "王宇婕",
+    "studentId": "2025011422",
+    "college": "计算机",
+    "major": "软件工程",
+    "mbtiType": "INTJ",
+    "scores": {
+      "communication": 6,
+      "collaboration": 0,
+      "problemSolving": 10,
+      "projectManagement": 6,
+      "learningAdaptability": 10,
+      "responsibility": 10,
+      "teamwork": 0,
+      "challenge": 10
+    },
+    "preferences": {
+      "activity": "",
+      "activityType": "B1，B4，B6，B7，B8",
+      "hobby": "C1，C2，C7$"
+    },
+    "createdAt": "2026-07-08T06:46:00.019Z"
+  },
+  {
+    "_id": "1783493160025",
+    "source": "mbti1",
+    "submitTime": "46021.775775463",
+    "fillId": "20251230183707009957728",
+    "duration": "",
+    "phone": "18622638682",
+    "name": "郝奕奇",
+    "studentId": "2025011433",
+    "college": "计算机学院",
+    "major": "软件工程",
+    "mbtiType": "没测过",
+    "scores": {
+      "communication": 5,
+      "collaboration": 0,
+      "problemSolving": 5,
+      "projectManagement": 4,
+      "learningAdaptability": 5,
+      "responsibility": 4,
+      "teamwork": 0,
+      "challenge": 5
+    },
+    "preferences": {
+      "activity": "",
+      "activityType": "B1",
+      "hobby": "C3C5"
+    },
+    "createdAt": "2026-07-08T06:46:00.019Z"
+  },
+  {
+    "_id": "1783493160026",
+    "source": "mbti1",
+    "submitTime": "46021.8085069444",
+    "fillId": "20251230192415137088602",
+    "duration": "",
+    "phone": "郎晨",
+    "name": "郎晨",
+    "studentId": "2025011453",
+    "college": "计算机学院",
+    "major": "软件工程",
+    "mbtiType": "ENTJ",
+    "scores": {
+      "communication": 5,
+      "collaboration": 0,
+      "problemSolving": 7,
+      "projectManagement": 5,
+      "learningAdaptability": 8,
+      "responsibility": 6,
+      "teamwork": 0,
+      "challenge": 6
+    },
+    "preferences": {
+      "activity": "",
+      "activityType": "B2、B4、B6",
+      "hobby": "C1、C2、C3"
+    },
+    "createdAt": "2026-07-08T06:46:00.019Z"
+  },
+  {
+    "_id": "1783493160027",
+    "source": "mbti1",
+    "submitTime": "46021.8087847222",
+    "fillId": "20251230192438959947807",
+    "duration": "",
+    "phone": "18500716013",
+    "name": "崔丝桐",
+    "studentId": "2025011445",
+    "college": "计算机学院",
+    "major": "软件工程",
+    "mbtiType": "ENFP",
+    "scores": {
+      "communication": 6,
+      "collaboration": 0,
+      "problemSolving": 6,
+      "projectManagement": 6,
+      "learningAdaptability": 6,
+      "responsibility": 6,
+      "teamwork": 0,
+      "challenge": 6
+    },
+    "preferences": {
+      "activity": "",
+      "activityType": "B4",
+      "hobby": "C3 C5"
+    },
+    "createdAt": "2026-07-08T06:46:00.019Z"
+  },
+  {
+    "_id": "1783493160028",
+    "source": "mbti1",
+    "submitTime": "46021.8194675926",
+    "fillId": "20251230194001562494237",
+    "duration": "",
+    "phone": "18153694096",
+    "name": "李佳旺",
+    "studentId": "2024011364",
+    "college": "计算机学院",
+    "major": "软工",
+    "mbtiType": "ISTJ",
+    "scores": {
+      "communication": 5,
+      "collaboration": 0,
+      "problemSolving": 6,
+      "projectManagement": 6,
+      "learningAdaptability": 7,
+      "responsibility": 7,
+      "teamwork": 0,
+      "challenge": 7
+    },
+    "preferences": {
+      "activity": "",
+      "activityType": "B4、B8",
+      "hobby": "C1，C3，C5"
+    },
+    "createdAt": "2026-07-08T06:46:00.019Z"
+  },
+  {
+    "_id": "1783493160029",
+    "source": "mbti2",
+    "submitTime": "",
+    "fillId": "",
+    "duration": "",
+    "phone": "",
+    "name": "暴启鑫",
+    "studentId": "",
+    "college": "",
+    "major": "",
+    "mbtiType": "ESTJ",
+    "scores": {
+      "communication": 0,
+      "collaboration": 0,
+      "problemSolving": 0,
+      "projectManagement": 0,
+      "learningAdaptability": 0,
+      "responsibility": 0,
+      "teamwork": 0,
+      "challenge": 0
+    },
+    "preferences": {
+      "activity": "",
+      "activityType": "B2 B6",
+      "hobby": "C2 C3 C6"
+    },
+    "createdAt": "2026-07-08T06:46:00.028Z"
+  },
+  {
+    "_id": "1783493160030",
+    "source": "mbti2",
+    "submitTime": "",
+    "fillId": "",
+    "duration": "",
+    "phone": "",
+    "name": "崔云铜",
+    "studentId": "",
+    "college": "",
+    "major": "",
+    "mbtiType": "ESTP",
+    "scores": {
+      "communication": 5,
+      "collaboration": 8,
+      "problemSolving": 6,
+      "projectManagement": 6,
+      "learningAdaptability": 8,
+      "responsibility": 7,
+      "teamwork": 0,
+      "challenge": 9
+    },
+    "preferences": {
+      "activity": "",
+      "activityType": "B2 B6 B7",
+      "hobby": "C 2 C 3 C4"
+    },
+    "createdAt": "2026-07-08T06:46:00.028Z"
+  },
+  {
+    "_id": "1783493160031",
+    "source": "mbti2",
+    "submitTime": "",
+    "fillId": "",
+    "duration": "",
+    "phone": "",
+    "name": "付俊",
+    "studentId": "",
+    "college": "",
+    "major": "",
+    "mbtiType": "ISFP-T",
+    "scores": {
+      "communication": 5,
+      "collaboration": 5,
+      "problemSolving": 5,
+      "projectManagement": 4,
+      "learningAdaptability": 5,
+      "responsibility": 5,
+      "teamwork": 0,
+      "challenge": 5
+    },
+    "preferences": {
+      "activity": "",
+      "activityType": "B1B4",
+      "hobby": "C2C7"
+    },
+    "createdAt": "2026-07-08T06:46:00.028Z"
+  },
+  {
+    "_id": "1783493160032",
+    "source": "mbti2",
+    "submitTime": "",
+    "fillId": "",
+    "duration": "",
+    "phone": "",
+    "name": "杨鑫龙",
+    "studentId": "",
+    "college": "",
+    "major": "",
+    "mbtiType": "IN F J",
+    "scores": {
+      "communication": 5,
+      "collaboration": 5,
+      "problemSolving": 6,
+      "projectManagement": 5,
+      "learningAdaptability": 5,
+      "responsibility": 5,
+      "teamwork": 0,
+      "challenge": 5
+    },
+    "preferences": {
+      "activity": "",
+      "activityType": "B1B4",
+      "hobby": "C2C3"
+    },
+    "createdAt": "2026-07-08T06:46:00.028Z"
+  },
+  {
+    "_id": "1783493160033",
+    "source": "mbti2",
+    "submitTime": "",
+    "fillId": "",
+    "duration": "",
+    "phone": "",
+    "name": "陈子阳",
+    "studentId": "",
+    "college": "",
+    "major": "",
+    "mbtiType": "ENFPA",
+    "scores": {
+      "communication": 0,
+      "collaboration": 0,
+      "problemSolving": 0,
+      "projectManagement": 0,
+      "learningAdaptability": 0,
+      "responsibility": 0,
+      "teamwork": 0,
+      "challenge": 0
+    },
+    "preferences": {
+      "activity": "",
+      "activityType": "",
+      "hobby": ""
+    },
+    "createdAt": "2026-07-08T06:46:00.028Z"
+  },
+  {
+    "_id": "1783493160034",
+    "source": "mbti2",
+    "submitTime": "",
+    "fillId": "",
+    "duration": "",
+    "phone": "",
+    "name": "陈元为",
+    "studentId": "",
+    "college": "",
+    "major": "",
+    "mbtiType": "INTP",
+    "scores": {
+      "communication": 4,
+      "collaboration": 6,
+      "problemSolving": 6,
+      "projectManagement": 5,
+      "learningAdaptability": 5,
+      "responsibility": 6,
+      "teamwork": 0,
+      "challenge": 6
+    },
+    "preferences": {
+      "activity": "",
+      "activityType": "B1B7",
+      "hobby": "C3C6"
+    },
+    "createdAt": "2026-07-08T06:46:00.028Z"
+  },
+  {
+    "_id": "1783493160035",
+    "source": "mbti2",
+    "submitTime": "",
+    "fillId": "",
+    "duration": "",
+    "phone": "",
+    "name": "何悦",
+    "studentId": "",
+    "college": "",
+    "major": "",
+    "mbtiType": "ISFP",
+    "scores": {
+      "communication": 4,
+      "collaboration": 4,
+      "problemSolving": 5,
+      "projectManagement": 4,
+      "learningAdaptability": 5,
+      "responsibility": 4,
+      "teamwork": 0,
+      "challenge": 4
+    },
+    "preferences": {
+      "activity": "",
+      "activityType": "B4B8",
+      "hobby": "C3C7"
+    },
+    "createdAt": "2026-07-08T06:46:00.028Z"
+  },
+  {
+    "_id": "1783493160036",
+    "source": "mbti2",
+    "submitTime": "",
+    "fillId": "",
+    "duration": "",
+    "phone": "",
+    "name": "张景彬",
+    "studentId": "",
+    "college": "",
+    "major": "",
+    "mbtiType": "INFJ-T",
+    "scores": {
+      "communication": 6,
+      "collaboration": 6,
+      "problemSolving": 6,
+      "projectManagement": 6,
+      "learningAdaptability": 6,
+      "responsibility": 6,
+      "teamwork": 0,
+      "challenge": 6
+    },
+    "preferences": {
+      "activity": "",
+      "activityType": "B1B4",
+      "hobby": "C2C3"
+    },
+    "createdAt": "2026-07-08T06:46:00.028Z"
+  },
+  {
+    "_id": "1783493160037",
+    "source": "mbti2",
+    "submitTime": "",
+    "fillId": "",
+    "duration": "",
+    "phone": "",
+    "name": "杜彦霖",
+    "studentId": "",
+    "college": "",
+    "major": "",
+    "mbtiType": "ENTJ",
+    "scores": {
+      "communication": 9,
+      "collaboration": 9,
+      "problemSolving": 8,
+      "projectManagement": 8,
+      "learningAdaptability": 8,
+      "responsibility": 8,
+      "teamwork": 0,
+      "challenge": 7
+    },
+    "preferences": {
+      "activity": "",
+      "activityType": "B5B7",
+      "hobby": "C2C3C4"
+    },
+    "createdAt": "2026-07-08T06:46:00.028Z"
+  },
+  {
+    "_id": "1783493160038",
+    "source": "mbti2",
+    "submitTime": "",
+    "fillId": "",
+    "duration": "",
+    "phone": "",
+    "name": "丹增日珠",
+    "studentId": "",
+    "college": "",
+    "major": "",
+    "mbtiType": "ENTP",
+    "scores": {
+      "communication": 0,
+      "collaboration": 0,
+      "problemSolving": 0,
+      "projectManagement": 0,
+      "learningAdaptability": 0,
+      "responsibility": 0,
+      "teamwork": 0,
+      "challenge": 0
+    },
+    "preferences": {
+      "activity": "",
+      "activityType": "B1B5B7",
+      "hobby": "C1C3"
+    },
+    "createdAt": "2026-07-08T06:46:00.028Z"
+  },
+  {
+    "_id": "1783493160039",
+    "source": "mbti2",
+    "submitTime": "",
+    "fillId": "",
+    "duration": "",
+    "phone": "",
+    "name": "李沐泽",
+    "studentId": "",
+    "college": "",
+    "major": "",
+    "mbtiType": "ENFP",
+    "scores": {
+      "communication": 9,
+      "collaboration": 7,
+      "problemSolving": 6,
+      "projectManagement": 7,
+      "learningAdaptability": 6,
+      "responsibility": 8,
+      "teamwork": 0,
+      "challenge": 8
+    },
+    "preferences": {
+      "activity": "",
+      "activityType": "B2B5B7",
+      "hobby": "C2C3C4"
+    },
+    "createdAt": "2026-07-08T06:46:00.028Z"
+  },
+  {
+    "_id": "1783493160040",
+    "source": "mbti2",
+    "submitTime": "",
+    "fillId": "",
+    "duration": "",
+    "phone": "",
+    "name": "刘景昀",
+    "studentId": "",
+    "college": "",
+    "major": "",
+    "mbtiType": "INTP",
+    "scores": {
+      "communication": 7,
+      "collaboration": 8,
+      "problemSolving": 5,
+      "projectManagement": 0,
+      "learningAdaptability": 5,
+      "responsibility": 5,
+      "teamwork": 0,
+      "challenge": 3
+    },
+    "preferences": {
+      "activity": "",
+      "activityType": "B2 B8",
+      "hobby": "C2 C4 C6 C7"
+    },
+    "createdAt": "2026-07-08T06:46:00.028Z"
+  },
+  {
+    "_id": "1783493160041",
+    "source": "mbti2",
+    "submitTime": "",
+    "fillId": "",
+    "duration": "",
+    "phone": "",
+    "name": "姜奕帆",
+    "studentId": "",
+    "college": "",
+    "major": "",
+    "mbtiType": "ISFJ",
+    "scores": {
+      "communication": 3,
+      "collaboration": 4,
+      "problemSolving": 5,
+      "projectManagement": 4,
+      "learningAdaptability": 4,
+      "responsibility": 3,
+      "teamwork": 0,
+      "challenge": 4
+    },
+    "preferences": {
+      "activity": "",
+      "activityType": "B1",
+      "hobby": "C1"
+    },
+    "createdAt": "2026-07-08T06:46:00.028Z"
+  },
+  {
+    "_id": "1783493160042",
+    "source": "mbti2",
+    "submitTime": "",
+    "fillId": "",
+    "duration": "",
+    "phone": "",
+    "name": "魏雨霏",
+    "studentId": "",
+    "college": "",
+    "major": "",
+    "mbtiType": "INTP",
+    "scores": {
+      "communication": 3,
+      "collaboration": 3,
+      "problemSolving": 3,
+      "projectManagement": 3,
+      "learningAdaptability": 3,
+      "responsibility": 3,
+      "teamwork": 0,
+      "challenge": 3
+    },
+    "preferences": {
+      "activity": "",
+      "activityType": "b8",
+      "hobby": "c2c6c7"
+    },
+    "createdAt": "2026-07-08T06:46:00.028Z"
+  },
+  {
+    "_id": "1783493160043",
+    "source": "mbti2",
+    "submitTime": "",
+    "fillId": "",
+    "duration": "",
+    "phone": "",
+    "name": "雷景升",
+    "studentId": "",
+    "college": "",
+    "major": "",
+    "mbtiType": "ENTJ",
+    "scores": {
+      "communication": 7,
+      "collaboration": 7,
+      "problemSolving": 7,
+      "projectManagement": 7,
+      "learningAdaptability": 7,
+      "responsibility": 7,
+      "teamwork": 0,
+      "challenge": 7
+    },
+    "preferences": {
+      "activity": "",
+      "activityType": "B1",
+      "hobby": "c1c2"
+    },
+    "createdAt": "2026-07-08T06:46:00.028Z"
+  },
+  {
+    "_id": "1783493160044",
+    "source": "mbti2",
+    "submitTime": "",
+    "fillId": "",
+    "duration": "",
+    "phone": "",
+    "name": "杨程轶",
+    "studentId": "",
+    "college": "",
+    "major": "",
+    "mbtiType": "ENFJ",
+    "scores": {
+      "communication": 5,
+      "collaboration": 5,
+      "problemSolving": 6,
+      "projectManagement": 5,
+      "learningAdaptability": 7,
+      "responsibility": 5,
+      "teamwork": 0,
+      "challenge": 6
+    },
+    "preferences": {
+      "activity": "",
+      "activityType": "B4B7",
+      "hobby": "C1C4"
+    },
+    "createdAt": "2026-07-08T06:46:00.028Z"
+  },
+  {
+    "_id": "1783493160045",
+    "source": "mbti2",
+    "submitTime": "",
+    "fillId": "",
+    "duration": "",
+    "phone": "",
+    "name": "田盛天",
+    "studentId": "",
+    "college": "",
+    "major": "",
+    "mbtiType": "INTP-A",
+    "scores": {
+      "communication": 3,
+      "collaboration": 4,
+      "problemSolving": 3,
+      "projectManagement": 3,
+      "learningAdaptability": 4,
+      "responsibility": 3,
+      "teamwork": 0,
+      "challenge": 4
+    },
+    "preferences": {
+      "activity": "",
+      "activityType": "B2B4",
+      "hobby": "C12567"
+    },
+    "createdAt": "2026-07-08T06:46:00.028Z"
+  },
+  {
+    "_id": "1783493160046",
+    "source": "mbti2",
+    "submitTime": "",
+    "fillId": "",
+    "duration": "",
+    "phone": "",
+    "name": "严子菁",
+    "studentId": "",
+    "college": "",
+    "major": "",
+    "mbtiType": "INTJ",
+    "scores": {
+      "communication": 6,
+      "collaboration": 7,
+      "problemSolving": 5,
+      "projectManagement": 8,
+      "learningAdaptability": 8,
+      "responsibility": 7,
+      "teamwork": 0,
+      "challenge": 7
+    },
+    "preferences": {
+      "activity": "",
+      "activityType": "B1358",
+      "hobby": "C2357"
+    },
+    "createdAt": "2026-07-08T06:46:00.028Z"
+  },
+  {
+    "_id": "1783493160047",
+    "source": "mbti2",
+    "submitTime": "",
+    "fillId": "",
+    "duration": "",
+    "phone": "",
+    "name": "忠睿宇鸣",
+    "studentId": "",
+    "college": "",
+    "major": "",
+    "mbtiType": "INTJ",
+    "scores": {
+      "communication": 5,
+      "collaboration": 3,
+      "problemSolving": 6,
+      "projectManagement": 4,
+      "learningAdaptability": 6,
+      "responsibility": 5,
+      "teamwork": 0,
+      "challenge": 5
+    },
+    "preferences": {
+      "activity": "",
+      "activityType": "B146",
+      "hobby": "C127"
+    },
+    "createdAt": "2026-07-08T06:46:00.028Z"
+  },
+  {
+    "_id": "1783493160048",
+    "source": "mbti2",
+    "submitTime": "",
+    "fillId": "",
+    "duration": "",
+    "phone": "",
+    "name": "贾苏尔",
+    "studentId": "",
+    "college": "",
+    "major": "",
+    "mbtiType": "ENTP",
+    "scores": {
+      "communication": 0,
+      "collaboration": 6,
+      "problemSolving": 6,
+      "projectManagement": 6,
+      "learningAdaptability": 5,
+      "responsibility": 8,
+      "teamwork": 0,
+      "challenge": 6
+    },
+    "preferences": {
+      "activity": "",
+      "activityType": "B2 B7",
+      "hobby": "C3"
+    },
+    "createdAt": "2026-07-08T06:46:00.028Z"
+  },
+  {
+    "_id": "1783493160049",
+    "source": "mbti2",
+    "submitTime": "",
+    "fillId": "",
+    "duration": "",
+    "phone": "",
+    "name": "雷礼霖",
+    "studentId": "",
+    "college": "",
+    "major": "",
+    "mbtiType": "IN T P",
+    "scores": {
+      "communication": 3,
+      "collaboration": 3,
+      "problemSolving": 5,
+      "projectManagement": 3,
+      "learningAdaptability": 6,
+      "responsibility": 3,
+      "teamwork": 0,
+      "challenge": 6
+    },
+    "preferences": {
+      "activity": "",
+      "activityType": "B1B7",
+      "hobby": "C1C3C7"
+    },
+    "createdAt": "2026-07-08T06:46:00.028Z"
+  },
+  {
+    "_id": "1783493160050",
+    "source": "mbti2",
+    "submitTime": "",
+    "fillId": "",
+    "duration": "",
+    "phone": "",
+    "name": "宋姝玉",
+    "studentId": "",
+    "college": "",
+    "major": "",
+    "mbtiType": "ESTP",
+    "scores": {
+      "communication": 4,
+      "collaboration": 6,
+      "problemSolving": 4,
+      "projectManagement": 5,
+      "learningAdaptability": 3,
+      "responsibility": 4,
+      "teamwork": 0,
+      "challenge": 5
+    },
+    "preferences": {
+      "activity": "",
+      "activityType": "B2B4B8",
+      "hobby": "C2C4C6C7"
+    },
+    "createdAt": "2026-07-08T06:46:00.028Z"
+  },
+  {
+    "_id": "1783493160051",
+    "source": "mbti2",
+    "submitTime": "",
+    "fillId": "",
+    "duration": "",
+    "phone": "",
+    "name": "周尚泽",
+    "studentId": "",
+    "college": "",
+    "major": "",
+    "mbtiType": "INFP",
+    "scores": {
+      "communication": 6,
+      "collaboration": 6,
+      "problemSolving": 6,
+      "projectManagement": 6,
+      "learningAdaptability": 6,
+      "responsibility": 6,
+      "teamwork": 0,
+      "challenge": 6
+    },
+    "preferences": {
+      "activity": "",
+      "activityType": "B2B4",
+      "hobby": "C2C3"
+    },
+    "createdAt": "2026-07-08T06:46:00.028Z"
+  },
+  {
+    "_id": "1783493160052",
+    "source": "mbti2",
+    "submitTime": "",
+    "fillId": "",
+    "duration": "",
+    "phone": "",
+    "name": "张岚清",
+    "studentId": "",
+    "college": "",
+    "major": "",
+    "mbtiType": "INTP-A",
+    "scores": {
+      "communication": 7,
+      "collaboration": 6,
+      "problemSolving": 6,
+      "projectManagement": 7,
+      "learningAdaptability": 7,
+      "responsibility": 6,
+      "teamwork": 0,
+      "challenge": 6
+    },
+    "preferences": {
+      "activity": "",
+      "activityType": "B2B6",
+      "hobby": ""
+    },
+    "createdAt": "2026-07-08T06:46:00.028Z"
+  },
+  {
+    "_id": "1783493160053",
+    "source": "mbti2",
+    "submitTime": "",
+    "fillId": "",
+    "duration": "",
+    "phone": "",
+    "name": "胥亦菲",
+    "studentId": "",
+    "college": "",
+    "major": "",
+    "mbtiType": "INFP",
+    "scores": {
+      "communication": 5,
+      "collaboration": 4,
+      "problemSolving": 6,
+      "projectManagement": 6,
+      "learningAdaptability": 5,
+      "responsibility": 4,
+      "teamwork": 0,
+      "challenge": 5
+    },
+    "preferences": {
+      "activity": "",
+      "activityType": "B1B4B8",
+      "hobby": "C2C5C7"
+    },
+    "createdAt": "2026-07-08T06:46:00.028Z"
+  },
+  {
+    "_id": "1783493160054",
+    "source": "mbti2",
+    "submitTime": "",
+    "fillId": "",
+    "duration": "",
+    "phone": "",
+    "name": "徐世灵",
+    "studentId": "",
+    "college": "",
+    "major": "",
+    "mbtiType": "ENTP",
+    "scores": {
+      "communication": 4,
+      "collaboration": 4,
+      "problemSolving": 4,
+      "projectManagement": 4,
+      "learningAdaptability": 6,
+      "responsibility": 5,
+      "teamwork": 0,
+      "challenge": 6
+    },
+    "preferences": {
+      "activity": "",
+      "activityType": "B1",
+      "hobby": "C1C2C3C7"
+    },
+    "createdAt": "2026-07-08T06:46:00.028Z"
+  },
+  {
+    "_id": "1783493160055",
+    "source": "mbti2",
+    "submitTime": "",
+    "fillId": "",
+    "duration": "",
+    "phone": "",
+    "name": "殷乐其",
+    "studentId": "",
+    "college": "",
+    "major": "",
+    "mbtiType": "ESFP-T",
+    "scores": {
+      "communication": 4,
+      "collaboration": 7,
+      "problemSolving": 7,
+      "projectManagement": 6,
+      "learningAdaptability": 7,
+      "responsibility": 9,
+      "teamwork": 0,
+      "challenge": 10
+    },
+    "preferences": {
+      "activity": "",
+      "activityType": "B2B4B6B8",
+      "hobby": "C2C3C5C6C7"
+    },
+    "createdAt": "2026-07-08T06:46:00.028Z"
+  },
+  {
+    "_id": "1783493160056",
+    "source": "mbti2",
+    "submitTime": "",
+    "fillId": "",
+    "duration": "",
+    "phone": "",
+    "name": "朱哲雨",
+    "studentId": "",
+    "college": "",
+    "major": "",
+    "mbtiType": "ENFP",
+    "scores": {
+      "communication": 0,
+      "collaboration": 0,
+      "problemSolving": 0,
+      "projectManagement": 0,
+      "learningAdaptability": 0,
+      "responsibility": 0,
+      "teamwork": 0,
+      "challenge": 0
+    },
+    "preferences": {
+      "activity": "",
+      "activityType": "B4B6B7",
+      "hobby": "C2C6C7"
+    },
+    "createdAt": "2026-07-08T06:46:00.028Z"
+  }
+]

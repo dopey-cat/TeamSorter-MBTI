@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "dimension": "EI",
+    "type": "E",
+    "question": "在聚会中，你通常是：",
+    "options": [
+      { "label": "A", "text": "主动与人交流，结识新朋友", "score": 1 },
+      { "label": "B", "text": "更愿意和熟悉的人聊天", "score": 0 }
+    ]
+  },
+  {
+    "id": 2,
+    "dimension": "EI",
+    "type": "I",
+    "question": "当你需要集中注意力工作时，你更喜欢：",
+    "options": [
+      { "label": "A", "text": "安静的环境，独自工作", "score": 1 },
+      { "label": "B", "text": "有人陪伴或有背景音", "score": 0 }
+    ]
+  },
+  {
+    "id": 3,
+    "dimension": "EI",
+    "type": "E",
+    "question": "你如何为自己充电？",
+    "options": [
+      { "label": "A", "text": "和朋友聚会或参加社交活动", "score": 1 },
+      { "label": "B", "text": "独自看书、看电影或散步", "score": 0 }
+    ]
+  },
+  {
+    "id": 4,
+    "dimension": "EI",
+    "type": "I",
+    "question": "在会议中，你更倾向于：",
+    "options": [
+      { "label": "A", "text": "先听别人说完，再表达自己的观点", "score": 1 },
+      { "label": "B", "text": "积极参与讨论，随时表达想法", "score": 0 }
+    ]
+  },
+  {
+    "id": 5,
+    "dimension": "SN",
+    "type": "S",
+    "question": "你做决策时更看重：",
+    "options": [
+      { "label": "A", "text": "事实和数据", "score": 1 },
+      { "label": "B", "text": "直觉和可能性", "score": 0 }
+    ]
+  },
+  {
+    "id": 6,
+    "dimension": "SN",
+    "type": "N",
+    "question": "你更喜欢什么样的工作？",
+    "options": [
+      { "label": "A", "text": "有创新和变化的", "score": 1 },
+      { "label": "B", "text": "稳定和有规律的", "score": 0 }
+    ]
+  },
+  {
+    "id": 7,
+    "dimension": "SN",
+    "type": "S",
+    "question": "当学习新东西时，你倾向于：",
+    "options": [
+      { "label": "A", "text": "从具体例子和实践开始", "score": 1 },
+      { "label": "B", "text": "先理解整体框架和理论", "score": 0 }
+    ]
+  },
+  {
+    "id": 8,
+    "dimension": "SN",
+    "type": "N",
+    "question": "你对未来的看法是：",
+    "options": [
+      { "label": "A", "text": "充满无限可能和机会", "score": 1 },
+      { "label": "B", "text": "需要基于现实情况规划", "score": 0 }
+    ]
+  },
+  {
+    "id": 9,
+    "dimension": "TF",
+    "type": "T",
+    "question": "在团队冲突中，你更倾向于：",
+    "options": [
+      { "label": "A", "text": "客观分析，寻找最佳解决方案", "score": 1 },
+      { "label": "B", "text": "考虑他人感受，寻求和谐", "score": 0 }
+    ]
+  },
+  {
+    "id": 10,
+    "dimension": "TF",
+    "type": "F",
+    "question": "你评价他人时更看重：",
+    "options": [
+      { "label": "A", "text": "人品和情感关怀", "score": 1 },
+      { "label": "B", "text": "能力和成就", "score": 0 }
+    ]
+  },
+  {
+    "id": 11,
+    "dimension": "TF",
+    "type": "T",
+    "question": "你做重要决定时：",
+    "options": [
+      { "label": "A", "text": "更多依赖逻辑和分析", "score": 1 },
+      { "label": "B", "text": "更多依赖情感和直觉", "score": 0 }
+    ]
+  },
+  {
+    "id": 12,
+    "dimension": "TF",
+    "type": "F",
+    "question": "当朋友遇到困难时，你通常：",
+    "options": [
+      { "label": "A", "text": "先倾听和安慰，再提供建议", "score": 1 },
+      { "label": "B", "text": "直接给出解决方案", "score": 0 }
+    ]
+  },
+  {
+    "id": 13,
+    "dimension": "JP",
+    "type": "J",
+    "question": "你更喜欢的生活方式是：",
+    "options": [
+      { "label": "A", "text": "有计划、有条理的", "score": 1 },
+      { "label": "B", "text": "灵活、随性的", "score": 0 }
+    ]
+  },
+  {
+    "id": 14,
+    "dimension": "JP",
+    "type": "P",
+    "question": "面对截止日期，你通常：",
+    "options": [
+      { "label": "A", "text": "在最后期限前完成即可", "score": 1 },
+      { "label": "B", "text": "提前规划，尽早完成", "score": 0 }
+    ]
+  },
+  {
+    "id": 15,
+    "dimension": "JP",
+    "type": "J",
+    "question": "你旅行时更喜欢：",
+    "options": [
+      { "label": "A", "text": "提前做好详细的行程规划", "score": 1 },
+      { "label": "B", "text": "随心所欲，走到哪里算哪里", "score": 0 }
+    ]
+  },
+  {
+    "id": 16,
+    "dimension": "JP",
+    "type": "P",
+    "question": "当计划被打乱时，你通常：",
+    "options": [
+      { "label": "A", "text": "灵活调整，享受变化", "score": 1 },
+      { "label": "B", "text": "感到烦躁，尽快恢复秩序", "score": 0 }
+    ]
+  }
+]
