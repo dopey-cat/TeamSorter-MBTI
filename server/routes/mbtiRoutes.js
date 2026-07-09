@@ -14,6 +14,8 @@ const RECORDS_COL = 'mbti_records';
 const SURVEY_COL = 'mbti_survey';
 const POSITIONS_COL = 'mbti_positions';
 const POSITION_DATA_COL = 'position_data';
+const TASKS_COL = 'mbti_tasks';
+const TASK_ASSIGNMENTS_COL = 'mbti_task_assignments';
 
 router.post("/seed", (req, res) => {
   const types = [
@@ -116,6 +118,11 @@ router.delete("/records/:id", (req, res) => {
   const ok = store.deleteById(RECORDS_COL, req.params.id);
   if (!ok) return res.status(404).json({ error: "记录未找到" });
   res.json({ message: "删除成功" });
+});
+
+router.delete("/records", (req, res) => {
+  store.dropCol(RECORDS_COL);
+  res.json({ message: "全部数据已清空" });
 });
 
 router.post("/records/import", (req, res) => {
@@ -729,6 +736,312 @@ router.post("/wcpa/result", (req, res) => {
     overallLabel,
     details: resultDetails
   });
+});
+
+router.get("/tasks", (req, res) => {
+  const { name, priority, status } = req.query;
+  let list = store.findAll(TASKS_COL);
+  if (name) list = list.filter(r => r.name.includes(name));
+  if (priority) list = list.filter(r => r.priority === priority);
+  if (status) list = list.filter(r => r.status === status);
+  list.sort((a, b) => new Date(b.createdAt) - new Date(a.createdAt));
+  res.json(list);
+});
+
+router.get("/tasks/:id", (req, res) => {
+  const task = store.findById(TASKS_COL, req.params.id);
+  if (!task) return res.status(404).json({ error: "任务未找到" });
+  res.json(task);
+});
+
+router.post("/tasks", (req, res) => {
+  const { name, description, requiredPeople, priority, requirements, assignmentEndTime } = req.body;
+  if (!name || !requirements) {
+    return res.status(400).json({ error: "任务名称和能力需求为必填项" });
+  }
+  const item = store.insertOne(TASKS_COL, {
+    name,
+    description: description || '',
+    requiredPeople: requiredPeople || 3,
+    priority: priority || 'medium',
+    status: 'pending',
+    requirements,
+    assignmentEndTime: assignmentEndTime || null
+  });
+  res.json(item);
+});
+
+router.put("/tasks/:id", (req, res) => {
+  const task = store.findById(TASKS_COL, req.params.id);
+  if (!task) return res.status(404).json({ error: "任务未找到" });
+
+  const { name, description, requiredPeople, priority, status, requirements, assignmentEndTime } = req.body;
+  const update = {};
+
+  if (status && status === 'in-progress') {
+    const currentAssignments = store.findAll(TASK_ASSIGNMENTS_COL, { taskId: req.params.id });
+    if (currentAssignments.length < task.requiredPeople) {
+      return res.status(400).json({ error: `无法开始执行：需选用 ${task.requiredPeople} 人，当前已选 ${currentAssignments.length} 人` });
+    }
+  }
+
+  if (name) update.name = name;
+  if (description !== undefined) update.description = description;
+  if (requiredPeople !== undefined) update.requiredPeople = requiredPeople;
+  if (priority) update.priority = priority;
+  if (status) update.status = status;
+  if (requirements) update.requirements = requirements;
+  if (assignmentEndTime !== undefined) update.assignmentEndTime = assignmentEndTime;
+  const updated = store.updateById(TASKS_COL, req.params.id, update);
+  if (!updated) return res.status(404).json({ error: "任务未找到" });
+  res.json(updated);
+});
+
+router.delete("/tasks/:id", (req, res) => {
+  const ok = store.deleteById(TASKS_COL, req.params.id);
+  if (!ok) return res.status(404).json({ error: "任务未找到" });
+  store.deleteMany(TASK_ASSIGNMENTS_COL, { taskId: req.params.id });
+  res.json({ message: "删除成功" });
+});
+
+const PRIORITY_ORDER = { high: 3, medium: 2, low: 1 };
+
+router.get("/tasks/:id/match", (req, res) => {
+  const task = store.findById(TASKS_COL, req.params.id);
+  if (!task) return res.status(404).json({ error: "任务未找到" });
+
+  const records = store.findAll(RECORDS_COL);
+  const allTasks = store.findAll(TASKS_COL);
+  const allAssignments = store.findAll(TASK_ASSIGNMENTS_COL);
+
+  const currentTaskPriority = PRIORITY_ORDER[task.priority] || 2;
+
+  const lockedPersonIds = new Set();
+  for (const otherTask of allTasks) {
+    if (otherTask._id === task._id) continue;
+    const otherPriority = PRIORITY_ORDER[otherTask.priority] || 2;
+    if (otherPriority > currentTaskPriority) {
+      const otherAssignments = allAssignments.filter(a => a.taskId === otherTask._id);
+      for (const a of otherAssignments) {
+        lockedPersonIds.add(a.personId);
+      }
+    }
+  }
+
+  const taskAssignments = allAssignments.filter(a => a.taskId === task._id);
+  const assignedPersonIds = new Set(taskAssignments.map(a => a.personId));
+
+  const DIMENSIONS = ['communication', 'collaboration', 'problemSolving', 'projectManagement', 'learningAdaptability', 'responsibility', 'teamwork', 'challenge', 'adaptability'];
+
+  const ADAPTOR_SCORES = {
+    '天选共振者': 9,
+    '高潜适配者': 7,
+    '可塑协作者': 5.5,
+    '风险警示者': 4,
+    '紧急干预对象': 2
+  };
+
+  const results = records.map(person => {
+    let totalRate = 0;
+    let count = 0;
+    for (const dim of DIMENSIONS) {
+      let personScore = 0;
+      if (dim === 'adaptability') {
+        personScore = ADAPTOR_SCORES[person.adaptor] || 5;
+      } else {
+        personScore = person.scores?.[dim] || 0;
+      }
+      const reqScore = task.requirements?.[dim] || 6;
+      if (reqScore > 0) {
+        totalRate += Math.min((personScore / reqScore) * 100, 100);
+        count++;
+      }
+    }
+    const matchRate = count ? Math.round(totalRate / count) : 0;
+    const isLocked = lockedPersonIds.has(person._id);
+    return {
+      person,
+      matchRate,
+      assigned: assignedPersonIds.has(person._id),
+      locked: isLocked
+    };
+  }).sort((a, b) => {
+    if (a.locked && !b.locked) return 1;
+    if (!a.locked && b.locked) return -1;
+    return b.matchRate - a.matchRate;
+  });
+
+  res.json(results);
+});
+
+router.post("/tasks/:id/assign", (req, res) => {
+  const { personId } = req.body;
+  if (!personId) return res.status(400).json({ error: "请提供人员ID" });
+
+  const task = store.findById(TASKS_COL, req.params.id);
+  if (!task) return res.status(404).json({ error: "任务未找到" });
+
+  const person = store.findById(RECORDS_COL, personId);
+  if (!person) return res.status(404).json({ error: "人员未找到" });
+
+  const existing = store.findAll(TASK_ASSIGNMENTS_COL, { taskId: req.params.id, personId });
+  if (existing.length > 0) {
+    return res.status(400).json({ error: "该人员已分配到该任务" });
+  }
+
+  const currentAssignments = store.findAll(TASK_ASSIGNMENTS_COL, { taskId: req.params.id });
+  if (currentAssignments.length >= task.requiredPeople) {
+    return res.status(400).json({ error: `已达到任务所需人数上限（${task.requiredPeople}人）` });
+  }
+
+  const allTasks = store.findAll(TASKS_COL);
+  const allAssignments = store.findAll(TASK_ASSIGNMENTS_COL);
+  const currentTaskPriority = PRIORITY_ORDER[task.priority] || 2;
+
+  for (const otherTask of allTasks) {
+    if (otherTask._id === task._id) continue;
+    const otherPriority = PRIORITY_ORDER[otherTask.priority] || 2;
+    if (otherPriority > currentTaskPriority) {
+      const otherAssignments = allAssignments.filter(a => a.taskId === otherTask._id && a.personId === personId);
+      if (otherAssignments.length > 0) {
+        return res.status(400).json({ error: `该人员已被更高优先级任务"${otherTask.name}"占用` });
+      }
+    }
+  }
+
+  store.insertOne(TASK_ASSIGNMENTS_COL, {
+    taskId: req.params.id,
+    personId,
+    taskName: task.name,
+    personName: person.name,
+    mbtiType: person.mbtiType,
+    assignedAt: new Date().toISOString()
+  });
+
+  res.json({ message: "分配成功" });
+});
+
+router.post("/tasks/:id/auto-assign", (req, res) => {
+  const task = store.findById(TASKS_COL, req.params.id);
+  if (!task) return res.status(404).json({ error: "任务未找到" });
+
+  const records = store.findAll(RECORDS_COL);
+  const allTasks = store.findAll(TASKS_COL);
+  const allAssignments = store.findAll(TASK_ASSIGNMENTS_COL);
+
+  const currentTaskPriority = PRIORITY_ORDER[task.priority] || 2;
+
+  const lockedPersonIds = new Set();
+  for (const otherTask of allTasks) {
+    if (otherTask._id === task._id) continue;
+    const otherPriority = PRIORITY_ORDER[otherTask.priority] || 2;
+    if (otherPriority > currentTaskPriority) {
+      const otherAssignments = allAssignments.filter(a => a.taskId === otherTask._id);
+      for (const a of otherAssignments) {
+        lockedPersonIds.add(a.personId);
+      }
+    }
+  }
+
+  const taskAssignments = allAssignments.filter(a => a.taskId === task._id);
+  const alreadyAssignedIds = new Set(taskAssignments.map(a => a.personId));
+
+  const DIMENSIONS = ['communication', 'collaboration', 'problemSolving', 'projectManagement', 'learningAdaptability', 'responsibility', 'teamwork', 'challenge'];
+
+  const availablePersons = records.filter(p => !lockedPersonIds.has(p._id) && !alreadyAssignedIds.has(p._id));
+
+  const rankedPersons = availablePersons.map(person => {
+    let totalRate = 0;
+    let count = 0;
+    for (const dim of DIMENSIONS) {
+      const personScore = person.scores?.[dim] || 0;
+      const reqScore = task.requirements?.[dim] || 6;
+      if (reqScore > 0) {
+        totalRate += Math.min((personScore / reqScore) * 100, 100);
+        count++;
+      }
+    }
+    const matchRate = count ? Math.round(totalRate / count) : 0;
+    return { person, matchRate };
+  }).sort((a, b) => b.matchRate - a.matchRate);
+
+  const remainingSlots = task.requiredPeople - taskAssignments.length;
+  const numToAssign = Math.min(remainingSlots, rankedPersons.length);
+  const assigned = [];
+
+  for (let i = 0; i < numToAssign; i++) {
+    const { person, matchRate } = rankedPersons[i];
+    store.insertOne(TASK_ASSIGNMENTS_COL, {
+      taskId: req.params.id,
+      personId: person._id,
+      taskName: task.name,
+      personName: person.name,
+      mbtiType: person.mbtiType,
+      matchRate,
+      assignedAt: new Date().toISOString()
+    });
+    assigned.push({ name: person.name, mbtiType: person.mbtiType, matchRate });
+  }
+
+  res.json({
+    message: `成功自动分配 ${assigned.length} 人`,
+    assigned,
+    totalNeeded: task.requiredPeople,
+    assignedCount: assigned.length,
+    remaining: task.requiredPeople - assigned.length
+  });
+});
+
+router.post("/tasks/release-expired", (req, res) => {
+  const now = new Date().toISOString();
+  const allTasks = store.findAll(TASKS_COL);
+  const allAssignments = store.findAll(TASK_ASSIGNMENTS_COL);
+
+  let releasedCount = 0;
+  const releasedDetails = [];
+
+  for (const task of allTasks) {
+    if (!task.assignmentEndTime) continue;
+    if (task.assignmentEndTime <= now) {
+      const taskAssignments = allAssignments.filter(a => a.taskId === task._id);
+      for (const assignment of taskAssignments) {
+        store.deleteById(TASK_ASSIGNMENTS_COL, assignment._id);
+        releasedCount++;
+        releasedDetails.push({
+          taskName: task.name,
+          personName: assignment.personName,
+          endTime: task.assignmentEndTime
+        });
+      }
+    }
+  }
+
+  res.json({
+    message: `成功释放 ${releasedCount} 个人员分配`,
+    releasedCount,
+    releasedDetails
+  });
+});
+
+router.delete("/tasks/:taskId/assign/:personId", (req, res) => {
+  const { taskId, personId } = req.params;
+  const allAssignments = store.findAll(TASK_ASSIGNMENTS_COL);
+  const assignment = allAssignments.find(a => a.taskId === taskId && a.personId === personId);
+  if (!assignment) {
+    return res.status(404).json({ error: "分配记录未找到" });
+  }
+  store.deleteById(TASK_ASSIGNMENTS_COL, assignment._id);
+  res.json({ message: "人员已释放" });
+});
+
+router.delete("/tasks/:id/assignments", (req, res) => {
+  const taskId = req.params.id;
+  const allAssignments = store.findAll(TASK_ASSIGNMENTS_COL);
+  const taskAssignments = allAssignments.filter(a => a.taskId === taskId);
+  for (const a of taskAssignments) {
+    store.deleteById(TASK_ASSIGNMENTS_COL, a._id);
+  }
+  res.json({ message: `成功释放 ${taskAssignments.length} 个人员分配`, releasedCount: taskAssignments.length });
 });
 
 export default router;

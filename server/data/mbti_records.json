@@ -1,6 +1,6 @@
 [
   {
-    "_id": "1783503029344",
+    "_id": "1783604094019",
     "name": "涂馨竹",
     "mbtiType": "ENFJ",
     "ei": "E",
@@ -14,13 +14,14 @@
       "teamwork": 9,
       "challenge": 7
     },
+    "adaptor": "天选共振者",
     "tags": [
       "mbti1"
     ],
-    "createdAt": "2026-07-08T09:30:29.367Z"
+    "createdAt": "2026-07-09T13:34:54.043Z"
   },
   {
-    "_id": "1783503029345",
+    "_id": "1783604094020",
     "name": "赵天玉",
     "mbtiType": "ESFJ",
     "ei": "E",
@@ -34,13 +35,14 @@
       "teamwork": 9,
       "challenge": 7
     },
+    "adaptor": "高潜适配者",
     "tags": [
       "mbti1"
     ],
-    "createdAt": "2026-07-08T09:30:29.367Z"
+    "createdAt": "2026-07-09T13:34:54.043Z"
   },
   {
-    "_id": "1783503029346",
+    "_id": "1783604094021",
     "name": "王岳宸",
     "mbtiType": "ENFP",
     "ei": "E",
@@ -54,13 +56,14 @@
       "teamwork": 9,
       "challenge": 9
     },
+    "adaptor": "天选共振者",
     "tags": [
       "mbti1"
     ],
-    "createdAt": "2026-07-08T09:30:29.367Z"
+    "createdAt": "2026-07-09T13:34:54.043Z"
   },
   {
-    "_id": "1783503029347",
+    "_id": "1783604094022",
     "name": "师胜歌",
     "mbtiType": "ESTJ",
     "ei": "E",
@@ -74,13 +77,14 @@
       "teamwork": 6,
       "challenge": 6
     },
+    "adaptor": "可塑协作者",
     "tags": [
       "mbti1"
     ],
-    "createdAt": "2026-07-08T09:30:29.367Z"
+    "createdAt": "2026-07-09T13:34:54.043Z"
   },
   {
-    "_id": "1783503029348",
+    "_id": "1783604094023",
     "name": "王翰文",
     "mbtiType": "ENTJ",
     "ei": "E",
@@ -94,13 +98,14 @@
       "teamwork": 9,
       "challenge": 8
     },
+    "adaptor": "可塑协作者",
     "tags": [
       "mbti1"
     ],
-    "createdAt": "2026-07-08T09:30:29.367Z"
+    "createdAt": "2026-07-09T13:34:54.043Z"
   },
   {
-    "_id": "1783503029349",
+    "_id": "1783604094024",
     "name": "朱梓熹",
     "mbtiType": "ESFJ",
     "ei": "E",
@@ -114,13 +119,35 @@
       "teamwork": 4,
       "challenge": 7
     },
+    "adaptor": "可塑协作者",
     "tags": [
       "mbti1"
     ],
-    "createdAt": "2026-07-08T09:30:29.367Z"
+    "createdAt": "2026-07-09T13:34:54.043Z"
   },
   {
-    "_id": "1783503029351",
+    "_id": "1783604094025",
+    "name": "康宋睿",
+    "mbtiType": "ENTJ",
+    "ei": "E",
+    "scores": {
+      "communication": 10,
+      "collaboration": 10,
+      "problemSolving": 10,
+      "projectManagement": 3,
+      "learningAdaptability": 10,
+      "responsibility": 7,
+      "teamwork": 7,
+      "challenge": 10
+    },
+    "adaptor": "高潜适配者",
+    "tags": [
+      "mbti1"
+    ],
+    "createdAt": "2026-07-09T13:34:54.043Z"
+  },
+  {
+    "_id": "1783604094026",
     "name": "刘星云",
     "mbtiType": "INTJ",
     "ei": "I",
@@ -134,13 +161,14 @@
       "teamwork": 6,
       "challenge": 8
     },
+    "adaptor": "可塑协作者",
     "tags": [
       "mbti1"
     ],
-    "createdAt": "2026-07-08T09:30:29.367Z"
+    "createdAt": "2026-07-09T13:34:54.043Z"
   },
   {
-    "_id": "1783503029352",
+    "_id": "1783604094027",
     "name": "康宋睿",
     "mbtiType": "ENTJ",
     "ei": "E",
@@ -154,13 +182,14 @@
       "teamwork": 7,
       "challenge": 10
     },
+    "adaptor": "高潜适配者",
     "tags": [
       "mbti1"
     ],
-    "createdAt": "2026-07-08T09:30:29.367Z"
+    "createdAt": "2026-07-09T13:34:54.043Z"
   },
   {
-    "_id": "1783503029353",
+    "_id": "1783604094028",
     "name": "冯可欣",
     "mbtiType": "INFJ",
     "ei": "I",
@@ -174,13 +203,14 @@
       "teamwork": 6,
       "challenge": 5
     },
+    "adaptor": "可塑协作者",
     "tags": [
       "mbti1"
     ],
-    "createdAt": "2026-07-08T09:30:29.367Z"
+    "createdAt": "2026-07-09T13:34:54.043Z"
   },
   {
-    "_id": "1783503029354",
+    "_id": "1783604094029",
     "name": "黄琪盛",
     "mbtiType": "INTJ",
     "ei": "I",
@@ -194,13 +224,14 @@
       "teamwork": 6,
       "challenge": 6
     },
+    "adaptor": "可塑协作者",
     "tags": [
       "mbti1"
     ],
-    "createdAt": "2026-07-08T09:30:29.367Z"
+    "createdAt": "2026-07-09T13:34:54.043Z"
   },
   {
-    "_id": "1783503029355",
+    "_id": "1783604094030",
     "name": "张岚清",
     "mbtiType": "INTP",
     "ei": "I",
@@ -214,13 +245,14 @@
       "teamwork": 7,
       "challenge": 8
     },
+    "adaptor": "高潜适配者",
     "tags": [
       "mbti1"
     ],
-    "createdAt": "2026-07-08T09:30:29.367Z"
+    "createdAt": "2026-07-09T13:34:54.043Z"
   },
   {
-    "_id": "1783503029356",
+    "_id": "1783604094031",
     "name": "张扬",
     "mbtiType": "ISTP",
     "ei": "I",
@@ -234,13 +266,14 @@
       "teamwork": 5,
       "challenge": 3
     },
+    "adaptor": "风险警示者",
     "tags": [
       "mbti1"
     ],
-    "createdAt": "2026-07-08T09:30:29.367Z"
+    "createdAt": "2026-07-09T13:34:54.043Z"
   },
   {
-    "_id": "1783503029357",
+    "_id": "1783604094032",
     "name": "赵韦豪",
     "mbtiType": "INTP",
     "ei": "I",
@@ -254,13 +287,14 @@
       "teamwork": 8,
       "challenge": 8
     },
+    "adaptor": "高潜适配者",
     "tags": [
       "mbti1"
     ],
-    "createdAt": "2026-07-08T09:30:29.367Z"
+    "createdAt": "2026-07-09T13:34:54.043Z"
   },
   {
-    "_id": "1783503029358",
+    "_id": "1783604094033",
     "name": "贾博渊",
     "mbtiType": "INFJ",
     "ei": "I",
@@ -274,13 +308,14 @@
       "teamwork": 5,
       "challenge": 8
     },
+    "adaptor": "高潜适配者",
     "tags": [
       "mbti1"
     ],
-    "createdAt": "2026-07-08T09:30:29.367Z"
+    "createdAt": "2026-07-09T13:34:54.043Z"
   },
   {
-    "_id": "1783503029359",
+    "_id": "1783604094034",
     "name": "罗丹阳",
     "mbtiType": "ENTJ",
     "ei": "E",
@@ -294,13 +329,14 @@
       "teamwork": 5,
       "challenge": 5
     },
+    "adaptor": "风险警示者",
     "tags": [
       "mbti1"
     ],
-    "createdAt": "2026-07-08T09:30:29.367Z"
+    "createdAt": "2026-07-09T13:34:54.043Z"
   },
   {
-    "_id": "1783503029360",
+    "_id": "1783604094035",
     "name": "裴启言",
     "mbtiType": "INTJ",
     "ei": "I",
@@ -314,13 +350,14 @@
       "teamwork": 6,
       "challenge": 6
     },
+    "adaptor": "可塑协作者",
     "tags": [
       "mbti1"
     ],
-    "createdAt": "2026-07-08T09:30:29.367Z"
+    "createdAt": "2026-07-09T13:34:54.043Z"
   },
   {
-    "_id": "1783503029361",
+    "_id": "1783604094036",
     "name": "侯佳希",
     "mbtiType": "ISFJ",
     "ei": "I",
@@ -334,13 +371,14 @@
       "teamwork": 7,
       "challenge": 8
     },
+    "adaptor": "高潜适配者",
     "tags": [
       "mbti1"
     ],
-    "createdAt": "2026-07-08T09:30:29.367Z"
+    "createdAt": "2026-07-09T13:34:54.043Z"
   },
   {
-    "_id": "1783503029362",
+    "_id": "1783604094037",
     "name": "梁粤",
     "mbtiType": "ENTJ",
     "ei": "E",
@@ -354,13 +392,14 @@
       "teamwork": 8,
       "challenge": 7
     },
+    "adaptor": "高潜适配者",
     "tags": [
       "mbti1"
     ],
-    "createdAt": "2026-07-08T09:30:29.367Z"
+    "createdAt": "2026-07-09T13:34:54.043Z"
   },
   {
-    "_id": "1783503029363",
+    "_id": "1783604094038",
     "name": "周英杰",
     "mbtiType": "ENTP",
     "ei": "E",
@@ -374,13 +413,14 @@
       "teamwork": 8,
       "challenge": 8
     },
+    "adaptor": "高潜适配者",
     "tags": [
       "mbti1"
     ],
-    "createdAt": "2026-07-08T09:30:29.367Z"
+    "createdAt": "2026-07-09T13:34:54.043Z"
   },
   {
-    "_id": "1783503029364",
+    "_id": "1783604094039",
     "name": "于翰琨",
     "mbtiType": "INFP",
     "ei": "I",
@@ -394,13 +434,14 @@
       "teamwork": 7,
       "challenge": 4
     },
+    "adaptor": "风险警示者",
     "tags": [
       "mbti1"
     ],
-    "createdAt": "2026-07-08T09:30:29.367Z"
+    "createdAt": "2026-07-09T13:34:54.043Z"
   },
   {
-    "_id": "1783503029365",
+    "_id": "1783604094040",
     "name": "宋林轩",
     "mbtiType": "ESTP",
     "ei": "E",
@@ -414,13 +455,14 @@
       "teamwork": 6,
       "challenge": 7
     },
+    "adaptor": "可塑协作者",
     "tags": [
       "mbti1"
     ],
-    "createdAt": "2026-07-08T09:30:29.367Z"
+    "createdAt": "2026-07-09T13:34:54.043Z"
   },
   {
-    "_id": "1783503029366",
+    "_id": "1783604094041",
     "name": "苏和",
     "mbtiType": "ESFJ",
     "ei": "E",
@@ -434,13 +476,14 @@
       "teamwork": 7,
       "challenge": 9
     },
+    "adaptor": "高潜适配者",
     "tags": [
       "mbti1"
     ],
-    "createdAt": "2026-07-08T09:30:29.367Z"
+    "createdAt": "2026-07-09T13:34:54.043Z"
   },
   {
-    "_id": "1783503029367",
+    "_id": "1783604094042",
     "name": "刘凯悦",
     "mbtiType": "ENTJ",
     "ei": "E",
@@ -454,13 +497,14 @@
       "teamwork": 5,
       "challenge": 5
     },
+    "adaptor": "可塑协作者",
     "tags": [
       "mbti1"
     ],
-    "createdAt": "2026-07-08T09:30:29.367Z"
+    "createdAt": "2026-07-09T13:34:54.043Z"
   },
   {
-    "_id": "1783503029368",
+    "_id": "1783604094043",
     "name": "卢子瑞",
     "mbtiType": "ISFP",
     "ei": "I",
@@ -474,13 +518,14 @@
       "teamwork": 7,
       "challenge": 7
     },
+    "adaptor": "高潜适配者",
     "tags": [
       "mbti1"
     ],
-    "createdAt": "2026-07-08T09:30:29.367Z"
+    "createdAt": "2026-07-09T13:34:54.043Z"
   },
   {
-    "_id": "1783503029369",
+    "_id": "1783604094044",
     "name": "严子菁",
     "mbtiType": "INTJ",
     "ei": "I",
@@ -494,13 +539,14 @@
       "teamwork": 7,
       "challenge": 6
     },
+    "adaptor": "高潜适配者",
     "tags": [
       "mbti1"
     ],
-    "createdAt": "2026-07-08T09:30:29.367Z"
+    "createdAt": "2026-07-09T13:34:54.043Z"
   },
   {
-    "_id": "1783503029370",
+    "_id": "1783604094045",
     "name": "沈宇炫",
     "mbtiType": "INFJ",
     "ei": "I",
@@ -514,13 +560,14 @@
       "teamwork": 4,
       "challenge": 7
     },
+    "adaptor": "可塑协作者",
     "tags": [
       "mbti1"
     ],
-    "createdAt": "2026-07-08T09:30:29.367Z"
+    "createdAt": "2026-07-09T13:34:54.043Z"
   },
   {
-    "_id": "1783503029371",
+    "_id": "1783604094046",
     "name": "黄日铭",
     "mbtiType": "ENFJ",
     "ei": "E",
@@ -534,13 +581,14 @@
       "teamwork": 8,
       "challenge": 8
     },
+    "adaptor": "高潜适配者",
     "tags": [
       "mbti1"
     ],
-    "createdAt": "2026-07-08T09:30:29.367Z"
+    "createdAt": "2026-07-09T13:34:54.043Z"
   },
   {
-    "_id": "1783503029372",
+    "_id": "1783604094047",
     "name": "赵鹤然",
     "mbtiType": "ENFP",
     "ei": "E",
@@ -554,13 +602,14 @@
       "teamwork": 7,
       "challenge": 7
     },
+    "adaptor": "可塑协作者",
     "tags": [
       "mbti1"
     ],
-    "createdAt": "2026-07-08T09:30:29.367Z"
+    "createdAt": "2026-07-09T13:34:54.043Z"
   },
   {
-    "_id": "1783503029373",
+    "_id": "1783604094048",
     "name": "韩以亦",
     "mbtiType": "ESTJ",
     "ei": "E",
@@ -574,13 +623,14 @@
       "teamwork": 7,
       "challenge": 5
     },
+    "adaptor": "可塑协作者",
     "tags": [
       "mbti1"
     ],
-    "createdAt": "2026-07-08T09:30:29.367Z"
+    "createdAt": "2026-07-09T13:34:54.043Z"
   },
   {
-    "_id": "1783503029374",
+    "_id": "1783604094049",
     "name": "姚博文",
     "mbtiType": "INTJ",
     "ei": "I",
@@ -594,13 +644,14 @@
       "teamwork": 6,
       "challenge": 10
     },
+    "adaptor": "高潜适配者",
     "tags": [
       "mbti1"
     ],
-    "createdAt": "2026-07-08T09:30:29.367Z"
+    "createdAt": "2026-07-09T13:34:54.043Z"
   },
   {
-    "_id": "1783503029375",
+    "_id": "1783604094050",
     "name": "薛家琪",
     "mbtiType": "ENFJ",
     "ei": "E",
@@ -614,13 +665,14 @@
       "teamwork": 7,
       "challenge": 7
     },
+    "adaptor": "高潜适配者",
     "tags": [
       "mbti1"
     ],
-    "createdAt": "2026-07-08T09:30:29.367Z"
+    "createdAt": "2026-07-09T13:34:54.043Z"
   },
   {
-    "_id": "1783503029376",
+    "_id": "1783604094051",
     "name": "何梓墨",
     "mbtiType": "ENFP",
     "ei": "E",
@@ -634,13 +686,14 @@
       "teamwork": 10,
       "challenge": 10
     },
+    "adaptor": "天选共振者",
     "tags": [
       "mbti1"
     ],
-    "createdAt": "2026-07-08T09:30:29.367Z"
+    "createdAt": "2026-07-09T13:34:54.043Z"
   },
   {
-    "_id": "1783503029377",
+    "_id": "1783604094052",
     "name": "秦然",
     "mbtiType": "INTJ",
     "ei": "I",
@@ -654,13 +707,14 @@
       "teamwork": 7,
       "challenge": 7
     },
+    "adaptor": "高潜适配者",
     "tags": [
       "mbti1"
     ],
-    "createdAt": "2026-07-08T09:30:29.367Z"
+    "createdAt": "2026-07-09T13:34:54.043Z"
   },
   {
-    "_id": "1783503029378",
+    "_id": "1783604094053",
     "name": "张雅萱",
     "mbtiType": "INFP",
     "ei": "I",
@@ -674,13 +728,14 @@
       "teamwork": 4,
       "challenge": 7
     },
+    "adaptor": "可塑协作者",
     "tags": [
       "mbti1"
     ],
-    "createdAt": "2026-07-08T09:30:29.367Z"
+    "createdAt": "2026-07-09T13:34:54.043Z"
   },
   {
-    "_id": "1783503029379",
+    "_id": "1783604094054",
     "name": "范欣妍",
     "mbtiType": "ESTJ",
     "ei": "E",
@@ -694,13 +749,14 @@
       "teamwork": 6,
       "challenge": 5
     },
+    "adaptor": "可塑协作者",
     "tags": [
       "mbti1"
     ],
-    "createdAt": "2026-07-08T09:30:29.367Z"
+    "createdAt": "2026-07-09T13:34:54.043Z"
   },
   {
-    "_id": "1783503029380",
+    "_id": "1783604094055",
     "name": "王宇婕",
     "mbtiType": "INTJ",
     "ei": "I",
@@ -714,13 +770,14 @@
       "teamwork": 10,
       "challenge": 10
     },
+    "adaptor": "天选共振者",
     "tags": [
       "mbti1"
     ],
-    "createdAt": "2026-07-08T09:30:29.367Z"
+    "createdAt": "2026-07-09T13:34:54.043Z"
   },
   {
-    "_id": "1783503029381",
+    "_id": "1783604094056",
     "name": "郎晨",
     "mbtiType": "ENTJ",
     "ei": "E",
@@ -734,13 +791,14 @@
       "teamwork": 7,
       "challenge": 6
     },
+    "adaptor": "可塑协作者",
     "tags": [
       "mbti1"
     ],
-    "createdAt": "2026-07-08T09:30:29.367Z"
+    "createdAt": "2026-07-09T13:34:54.043Z"
   },
   {
-    "_id": "1783503029382",
+    "_id": "1783604094057",
     "name": "崔丝桐",
     "mbtiType": "ENFP",
     "ei": "E",
@@ -754,13 +812,14 @@
       "teamwork": 6,
       "challenge": 6
     },
+    "adaptor": "可塑协作者",
     "tags": [
       "mbti1"
     ],
-    "createdAt": "2026-07-08T09:30:29.367Z"
+    "createdAt": "2026-07-09T13:34:54.043Z"
   },
   {
-    "_id": "1783503029383",
+    "_id": "1783604094058",
     "name": "李佳旺",
     "mbtiType": "ISTJ",
     "ei": "I",
@@ -774,13 +833,14 @@
       "teamwork": 7,
       "challenge": 7
     },
+    "adaptor": "可塑协作者",
     "tags": [
       "mbti1"
     ],
-    "createdAt": "2026-07-08T09:30:29.367Z"
+    "createdAt": "2026-07-09T13:34:54.043Z"
   },
   {
-    "_id": "1783503029384",
+    "_id": "1783604094059",
     "name": "暴启鑫",
     "mbtiType": "ESTJ",
     "ei": "E",
@@ -794,13 +854,14 @@
       "teamwork": 6,
       "challenge": 5
     },
+    "adaptor": "可塑协作者",
     "tags": [
       "mbti1"
     ],
-    "createdAt": "2026-07-08T09:30:29.367Z"
+    "createdAt": "2026-07-09T13:34:54.043Z"
   },
   {
-    "_id": "1783503029385",
+    "_id": "1783604094060",
     "name": "崔云铜",
     "mbtiType": "ESTP",
     "ei": "E",
@@ -814,13 +875,14 @@
       "teamwork": 9,
       "challenge": 9
     },
+    "adaptor": "高潜适配者",
     "tags": [
       "mbti1"
     ],
-    "createdAt": "2026-07-08T09:30:29.367Z"
+    "createdAt": "2026-07-09T13:34:54.043Z"
   },
   {
-    "_id": "1783503029386",
+    "_id": "1783604094061",
     "name": "付俊",
     "mbtiType": "ISFP",
     "ei": "I",
@@ -834,13 +896,14 @@
       "teamwork": 6,
       "challenge": 5
     },
+    "adaptor": "风险警示者",
     "tags": [
       "mbti1"
     ],
-    "createdAt": "2026-07-08T09:30:29.367Z"
+    "createdAt": "2026-07-09T13:34:54.043Z"
   },
   {
-    "_id": "1783503029387",
+    "_id": "1783604094062",
     "name": "杨鑫龙",
     "mbtiType": "INFJ",
     "ei": "I",
@@ -854,13 +917,14 @@
       "teamwork": 5,
       "challenge": 5
     },
+    "adaptor": "风险警示者",
     "tags": [
       "mbti1"
     ],
-    "createdAt": "2026-07-08T09:30:29.367Z"
+    "createdAt": "2026-07-09T13:34:54.043Z"
   },
   {
-    "_id": "1783503029388",
+    "_id": "1783604094063",
     "name": "陈子阳",
     "mbtiType": "ENFP",
     "ei": "E",
@@ -874,13 +938,14 @@
       "teamwork": 0,
       "challenge": 0
     },
+    "adaptor": "紧急干预对象",
     "tags": [
       "mbti1"
     ],
-    "createdAt": "2026-07-08T09:30:29.367Z"
+    "createdAt": "2026-07-09T13:34:54.043Z"
   },
   {
-    "_id": "1783503029389",
+    "_id": "1783604094064",
     "name": "陈元为",
     "mbtiType": "INTP",
     "ei": "I",
@@ -894,13 +959,14 @@
       "teamwork": 5,
       "challenge": 6
     },
+    "adaptor": "风险警示者",
     "tags": [
       "mbti1"
     ],
-    "createdAt": "2026-07-08T09:30:29.367Z"
+    "createdAt": "2026-07-09T13:34:54.043Z"
   },
   {
-    "_id": "1783503029390",
+    "_id": "1783604094065",
     "name": "何悦",
     "mbtiType": "ISFP",
     "ei": "I",
@@ -914,13 +980,14 @@
       "teamwork": 4,
       "challenge": 4
     },
+    "adaptor": "风险警示者",
     "tags": [
       "mbti1"
     ],
-    "createdAt": "2026-07-08T09:30:29.367Z"
+    "createdAt": "2026-07-09T13:34:54.043Z"
   },
   {
-    "_id": "1783503029391",
+    "_id": "1783604094066",
     "name": "张景彬",
     "mbtiType": "INFJ",
     "ei": "I",
@@ -934,13 +1001,14 @@
       "teamwork": 6,
       "challenge": 6
     },
+    "adaptor": "可塑协作者",
     "tags": [
       "mbti1"
     ],
-    "createdAt": "2026-07-08T09:30:29.367Z"
+    "createdAt": "2026-07-09T13:34:54.043Z"
   },
   {
-    "_id": "1783503029392",
+    "_id": "1783604094067",
     "name": "杜彦霖",
     "mbtiType": "ENTJ",
     "ei": "E",
@@ -954,13 +1022,14 @@
       "teamwork": 8,
       "challenge": 7
     },
+    "adaptor": "高潜适配者",
     "tags": [
       "mbti1"
     ],
-    "createdAt": "2026-07-08T09:30:29.367Z"
+    "createdAt": "2026-07-09T13:34:54.043Z"
   },
   {
-    "_id": "1783503029393",
+    "_id": "1783604094068",
     "name": "丹增日珠",
     "mbtiType": "ENTP",
     "ei": "E",
@@ -974,13 +1043,14 @@
       "teamwork": 5,
       "challenge": 7
     },
+    "adaptor": "可塑协作者",
     "tags": [
       "mbti1"
     ],
-    "createdAt": "2026-07-08T09:30:29.367Z"
+    "createdAt": "2026-07-09T13:34:54.043Z"
   },
   {
-    "_id": "1783503029394",
+    "_id": "1783604094069",
     "name": "李沐泽",
     "mbtiType": "ENFP",
     "ei": "E",
@@ -994,13 +1064,14 @@
       "teamwork": 9,
       "challenge": 8
     },
+    "adaptor": "高潜适配者",
     "tags": [
       "mbti1"
     ],
-    "createdAt": "2026-07-08T09:30:29.367Z"
+    "createdAt": "2026-07-09T13:34:54.043Z"
   },
   {
-    "_id": "1783503029395",
+    "_id": "1783604094070",
     "name": "刘景昀",
     "mbtiType": "INTP",
     "ei": "I",
@@ -1014,13 +1085,14 @@
       "teamwork": 7,
       "challenge": 3
     },
+    "adaptor": "风险警示者",
     "tags": [
       "mbti1"
     ],
-    "createdAt": "2026-07-08T09:30:29.367Z"
+    "createdAt": "2026-07-09T13:34:54.043Z"
   },
   {
-    "_id": "1783503029396",
+    "_id": "1783604094071",
     "name": "姜奕帆",
     "mbtiType": "ISFJ",
     "ei": "I",
@@ -1034,13 +1106,14 @@
       "teamwork": 4,
       "challenge": 4
     },
+    "adaptor": "紧急干预对象",
     "tags": [
       "mbti1"
     ],
-    "createdAt": "2026-07-08T09:30:29.367Z"
+    "createdAt": "2026-07-09T13:34:54.043Z"
   },
   {
-    "_id": "1783503029397",
+    "_id": "1783604094072",
     "name": "魏雨霏",
     "mbtiType": "INTP",
     "ei": "I",
@@ -1054,13 +1127,14 @@
       "teamwork": 3,
       "challenge": 3
     },
+    "adaptor": "紧急干预对象",
     "tags": [
       "mbti1"
     ],
-    "createdAt": "2026-07-08T09:30:29.367Z"
+    "createdAt": "2026-07-09T13:34:54.043Z"
   },
   {
-    "_id": "1783503029398",
+    "_id": "1783604094073",
     "name": "雷景升",
     "mbtiType": "ENTJ",
     "ei": "E",
@@ -1074,13 +1148,14 @@
       "teamwork": 7,
       "challenge": 7
     },
+    "adaptor": "高潜适配者",
     "tags": [
       "mbti1"
     ],
-    "createdAt": "2026-07-08T09:30:29.367Z"
+    "createdAt": "2026-07-09T13:34:54.043Z"
   },
   {
-    "_id": "1783503029399",
+    "_id": "1783604094074",
     "name": "杨程轶",
     "mbtiType": "ENFJ",
     "ei": "E",
@@ -1094,13 +1169,14 @@
       "teamwork": 5,
       "challenge": 6
     },
+    "adaptor": "可塑协作者",
     "tags": [
       "mbti1"
     ],
-    "createdAt": "2026-07-08T09:30:29.367Z"
+    "createdAt": "2026-07-09T13:34:54.043Z"
   },
   {
-    "_id": "1783503029400",
+    "_id": "1783604094075",
     "name": "田盛天",
     "mbtiType": "INTP",
     "ei": "I",
@@ -1114,13 +1190,14 @@
       "teamwork": 3,
       "challenge": 4
     },
+    "adaptor": "紧急干预对象",
     "tags": [
       "mbti1"
     ],
-    "createdAt": "2026-07-08T09:30:29.367Z"
+    "createdAt": "2026-07-09T13:34:54.043Z"
   },
   {
-    "_id": "1783503029401",
+    "_id": "1783604094076",
     "name": "严子菁",
     "mbtiType": "INTJ",
     "ei": "I",
@@ -1134,13 +1211,14 @@
       "teamwork": 7,
       "challenge": 7
     },
+    "adaptor": "可塑协作者",
     "tags": [
       "mbti1"
     ],
-    "createdAt": "2026-07-08T09:30:29.367Z"
+    "createdAt": "2026-07-09T13:34:54.043Z"
   },
   {
-    "_id": "1783503029402",
+    "_id": "1783604094077",
     "name": "忠睿宇鸣",
     "mbtiType": "INTJ",
     "ei": "I",
@@ -1154,13 +1232,14 @@
       "teamwork": 4,
       "challenge": 5
     },
+    "adaptor": "风险警示者",
     "tags": [
       "mbti1"
     ],
-    "createdAt": "2026-07-08T09:30:29.367Z"
+    "createdAt": "2026-07-09T13:34:54.043Z"
   },
   {
-    "_id": "1783503029403",
+    "_id": "1783604094078",
     "name": "贾苏尔",
     "mbtiType": "ENTP",
     "ei": "E",
@@ -1174,13 +1253,14 @@
       "teamwork": 4,
       "challenge": 6
     },
+    "adaptor": "可塑协作者",
     "tags": [
       "mbti1"
     ],
-    "createdAt": "2026-07-08T09:30:29.367Z"
+    "createdAt": "2026-07-09T13:34:54.043Z"
   },
   {
-    "_id": "1783503029404",
+    "_id": "1783604094079",
     "name": "雷礼霖",
     "mbtiType": "INTP",
     "ei": "I",
@@ -1194,13 +1274,14 @@
       "teamwork": 3,
       "challenge": 6
     },
+    "adaptor": "风险警示者",
     "tags": [
       "mbti1"
     ],
-    "createdAt": "2026-07-08T09:30:29.367Z"
+    "createdAt": "2026-07-09T13:34:54.043Z"
   },
   {
-    "_id": "1783503029405",
+    "_id": "1783604094080",
     "name": "宋姝玉",
     "mbtiType": "ESTP",
     "ei": "E",
@@ -1214,13 +1295,14 @@
       "teamwork": 4,
       "challenge": 5
     },
+    "adaptor": "风险警示者",
     "tags": [
       "mbti1"
     ],
-    "createdAt": "2026-07-08T09:30:29.367Z"
+    "createdAt": "2026-07-09T13:34:54.043Z"
   },
   {
-    "_id": "1783503029406",
+    "_id": "1783604094081",
     "name": "周尚泽",
     "mbtiType": "INFP",
     "ei": "I",
@@ -1234,13 +1316,14 @@
       "teamwork": 6,
       "challenge": 6
     },
+    "adaptor": "可塑协作者",
     "tags": [
       "mbti1"
     ],
-    "createdAt": "2026-07-08T09:30:29.367Z"
+    "createdAt": "2026-07-09T13:34:54.043Z"
   },
   {
-    "_id": "1783503029407",
+    "_id": "1783604094082",
     "name": "张岚清",
     "mbtiType": "INTP",
     "ei": "I",
@@ -1254,13 +1337,14 @@
       "teamwork": 6,
       "challenge": 6
     },
+    "adaptor": "可塑协作者",
     "tags": [
       "mbti1"
     ],
-    "createdAt": "2026-07-08T09:30:29.367Z"
+    "createdAt": "2026-07-09T13:34:54.043Z"
   },
   {
-    "_id": "1783503029408",
+    "_id": "1783604094083",
     "name": "胥亦菲",
     "mbtiType": "INFP",
     "ei": "I",
@@ -1274,13 +1358,14 @@
       "teamwork": 4,
       "challenge": 5
     },
+    "adaptor": "风险警示者",
     "tags": [
       "mbti1"
     ],
-    "createdAt": "2026-07-08T09:30:29.367Z"
+    "createdAt": "2026-07-09T13:34:54.043Z"
   },
   {
-    "_id": "1783503029409",
+    "_id": "1783604094084",
     "name": "徐世灵",
     "mbtiType": "ENTP",
     "ei": "E",
@@ -1294,13 +1379,14 @@
       "teamwork": 4,
       "challenge": 6
     },
+    "adaptor": "风险警示者",
     "tags": [
       "mbti1"
     ],
-    "createdAt": "2026-07-08T09:30:29.367Z"
+    "createdAt": "2026-07-09T13:34:54.043Z"
   },
   {
-    "_id": "1783503029410",
+    "_id": "1783604094085",
     "name": "殷乐其",
     "mbtiType": "ESFP",
     "ei": "E",
@@ -1314,13 +1400,14 @@
       "teamwork": 10,
       "challenge": 10
     },
+    "adaptor": "高潜适配者",
     "tags": [
       "mbti1"
     ],
-    "createdAt": "2026-07-08T09:30:29.367Z"
+    "createdAt": "2026-07-09T13:34:54.043Z"
   },
   {
-    "_id": "1783503029411",
+    "_id": "1783604094086",
     "name": "朱哲雨",
     "mbtiType": "ENFP",
     "ei": "E",
@@ -1334,2295 +1421,10 @@
       "teamwork": 6,
       "challenge": 6
     },
+    "adaptor": "可塑协作者",
     "tags": [
       "mbti1"
     ],
-    "createdAt": "2026-07-08T09:30:29.367Z"
-  },
-  {
-    "_id": "1783507588669",
-    "name": "李明",
-    "mbtiType": "ESFJ",
-    "ei": "E",
-    "scores": {
-      "communication": 0,
-      "collaboration": 0,
-      "problemSolving": 0,
-      "projectManagement": 0,
-      "learningAdaptability": 0,
-      "responsibility": 0,
-      "teamwork": 0,
-      "challenge": 0
-    },
-    "tags": [],
-    "createdAt": "2026-07-08T11:13:14.801Z"
-  },
-  {
-    "_id": "1783507588670",
-    "name": "张敏",
-    "mbtiType": "ISTJ",
-    "ei": "I",
-    "scores": {
-      "communication": 0,
-      "collaboration": 0,
-      "problemSolving": 0,
-      "projectManagement": 0,
-      "learningAdaptability": 0,
-      "responsibility": 0,
-      "teamwork": 0,
-      "challenge": 0
-    },
-    "tags": [],
-    "createdAt": "2026-07-08T11:15:05.846Z"
-  },
-  {
-    "_id": "1783507588671",
-    "name": "刘明",
-    "mbtiType": "ISFP",
-    "ei": "I",
-    "scores": {
-      "communication": 9,
-      "collaboration": 6.5,
-      "problemSolving": 6,
-      "projectManagement": 7.5,
-      "learningAdaptability": 7,
-      "responsibility": 8,
-      "teamwork": 6,
-      "challenge": 7
-    },
-    "tags": [],
-    "createdAt": "2026-07-08T11:18:46.006Z"
-  },
-  {
-    "_id": "1783507588672",
-    "name": "小明",
-    "mbtiType": "ESFJ",
-    "ei": "E",
-    "scores": {
-      "communication": 8,
-      "collaboration": 6.5,
-      "problemSolving": 7.5,
-      "projectManagement": 6,
-      "learningAdaptability": 8.5,
-      "responsibility": 7,
-      "teamwork": 4,
-      "challenge": 8
-    },
-    "tags": [],
-    "createdAt": "2026-07-08T11:22:41.677Z"
-  },
-  {
-    "_id": "1783509915202",
-    "name": "小黄",
-    "mbtiType": "ENTJ",
-    "ei": "E",
-    "scores": {
-      "communication": 3.5,
-      "collaboration": 8,
-      "problemSolving": 7,
-      "projectManagement": 9,
-      "learningAdaptability": 3.5,
-      "responsibility": 6,
-      "teamwork": 7.5,
-      "challenge": 3.5
-    },
-    "tags": [],
-    "adaptor": "可塑协作者",
-    "createdAt": "2026-07-08T11:25:44.898Z"
-  },
-  {
-    "_id": "1783510299704",
-    "name": "董芮",
-    "mbtiType": "ISTP",
-    "ei": "I",
-    "scores": {
-      "communication": 0.5,
-      "collaboration": 5.2,
-      "problemSolving": 1.1,
-      "projectManagement": 5.1,
-      "learningAdaptability": 9.4,
-      "responsibility": 3,
-      "teamwork": 8.4,
-      "challenge": 8.3
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "风险警示者",
-    "createdAt": "2026-07-08T11:31:39.704Z"
-  },
-  {
-    "_id": "1783510299705",
-    "name": "邓琪",
-    "mbtiType": "INFP",
-    "ei": "I",
-    "scores": {
-      "communication": 9.5,
-      "collaboration": 8.5,
-      "problemSolving": 7.9,
-      "projectManagement": 2.7,
-      "learningAdaptability": 0.8,
-      "responsibility": 5.4,
-      "teamwork": 6.9,
-      "challenge": 6.2
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "可塑协作者",
-    "createdAt": "2026-07-08T11:31:39.705Z"
-  },
-  {
-    "_id": "1783510299706",
-    "name": "罗伟",
-    "mbtiType": "ISTJ",
-    "ei": "I",
-    "scores": {
-      "communication": 3.7,
-      "collaboration": 1.5,
-      "problemSolving": 1.8,
-      "projectManagement": 2.6,
-      "learningAdaptability": 0.8,
-      "responsibility": 0.5,
-      "teamwork": 0.6,
-      "challenge": 6.3
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "紧急干预对象",
-    "createdAt": "2026-07-08T11:31:39.705Z"
-  },
-  {
-    "_id": "1783510299707",
-    "name": "毛画",
-    "mbtiType": "ESTJ",
-    "ei": "E",
-    "scores": {
-      "communication": 4.5,
-      "collaboration": 7.9,
-      "problemSolving": 2.3,
-      "projectManagement": 7.2,
-      "learningAdaptability": 3.4,
-      "responsibility": 0.6,
-      "teamwork": 3.6,
-      "challenge": 1.1
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "紧急干预对象",
-    "createdAt": "2026-07-08T11:31:39.705Z"
-  },
-  {
-    "_id": "1783510299708",
-    "name": "邵琪",
-    "mbtiType": "ENFJ",
-    "ei": "E",
-    "scores": {
-      "communication": 4.7,
-      "collaboration": 9.8,
-      "problemSolving": 2.5,
-      "projectManagement": 2.4,
-      "learningAdaptability": 2.2,
-      "responsibility": 8,
-      "teamwork": 6.5,
-      "challenge": 8.1
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "可塑协作者",
-    "createdAt": "2026-07-08T11:31:39.705Z"
-  },
-  {
-    "_id": "1783510299709",
-    "name": "尹嘉霞",
-    "mbtiType": "INFP",
-    "ei": "I",
-    "scores": {
-      "communication": 9.5,
-      "collaboration": 4.9,
-      "problemSolving": 7,
-      "projectManagement": 7.8,
-      "learningAdaptability": 2.8,
-      "responsibility": 4.2,
-      "teamwork": 1.5,
-      "challenge": 3
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "风险警示者",
-    "createdAt": "2026-07-08T11:31:39.705Z"
-  },
-  {
-    "_id": "1783510299710",
-    "name": "彭璇",
-    "mbtiType": "ESFJ",
-    "ei": "E",
-    "scores": {
-      "communication": 9.8,
-      "collaboration": 0.8,
-      "problemSolving": 0.1,
-      "projectManagement": 4.8,
-      "learningAdaptability": 0.4,
-      "responsibility": 0.6,
-      "teamwork": 7.6,
-      "challenge": 1.1
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "紧急干预对象",
-    "createdAt": "2026-07-08T11:31:39.705Z"
-  },
-  {
-    "_id": "1783510299711",
-    "name": "孟斌",
-    "mbtiType": "ESFP",
-    "ei": "E",
-    "scores": {
-      "communication": 9.9,
-      "collaboration": 0,
-      "problemSolving": 4.7,
-      "projectManagement": 8,
-      "learningAdaptability": 8.2,
-      "responsibility": 4,
-      "teamwork": 1.9,
-      "challenge": 0.2
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "风险警示者",
-    "createdAt": "2026-07-08T11:31:39.705Z"
-  },
-  {
-    "_id": "1783510299712",
-    "name": "胡涛兰",
-    "mbtiType": "ISTP",
-    "ei": "I",
-    "scores": {
-      "communication": 4.7,
-      "collaboration": 1.1,
-      "problemSolving": 3.8,
-      "projectManagement": 2.4,
-      "learningAdaptability": 8.6,
-      "responsibility": 4.7,
-      "teamwork": 2.3,
-      "challenge": 1.1
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "紧急干预对象",
-    "createdAt": "2026-07-08T11:31:39.705Z"
-  },
-  {
-    "_id": "1783510299713",
-    "name": "朱雪",
-    "mbtiType": "ISFJ",
-    "ei": "I",
-    "scores": {
-      "communication": 7.9,
-      "collaboration": 3.3,
-      "problemSolving": 9,
-      "projectManagement": 6,
-      "learningAdaptability": 8,
-      "responsibility": 6.7,
-      "teamwork": 4.3,
-      "challenge": 6.7
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "可塑协作者",
-    "createdAt": "2026-07-08T11:31:39.705Z"
-  },
-  {
-    "_id": "1783510299714",
-    "name": "贾萌",
-    "mbtiType": "ISFP",
-    "ei": "I",
-    "scores": {
-      "communication": 7.3,
-      "collaboration": 4.4,
-      "problemSolving": 8.2,
-      "projectManagement": 3.6,
-      "learningAdaptability": 3.7,
-      "responsibility": 6.9,
-      "teamwork": 4.1,
-      "challenge": 7.8
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "可塑协作者",
-    "createdAt": "2026-07-08T11:31:39.705Z"
-  },
-  {
-    "_id": "1783510299715",
-    "name": "孟芮",
-    "mbtiType": "ENFJ",
-    "ei": "E",
-    "scores": {
-      "communication": 0.4,
-      "collaboration": 0.4,
-      "problemSolving": 4.2,
-      "projectManagement": 8.6,
-      "learningAdaptability": 5.2,
-      "responsibility": 2,
-      "teamwork": 0.2,
-      "challenge": 1.9
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "紧急干预对象",
-    "createdAt": "2026-07-08T11:31:39.705Z"
-  },
-  {
-    "_id": "1783510299716",
-    "name": "于梓",
-    "mbtiType": "ENFJ",
-    "ei": "E",
-    "scores": {
-      "communication": 2,
-      "collaboration": 2.4,
-      "problemSolving": 1.3,
-      "projectManagement": 3.9,
-      "learningAdaptability": 6.5,
-      "responsibility": 7.4,
-      "teamwork": 8.4,
-      "challenge": 0.4
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "风险警示者",
-    "createdAt": "2026-07-08T11:31:39.705Z"
-  },
-  {
-    "_id": "1783510299717",
-    "name": "王菊",
-    "mbtiType": "ESTP",
-    "ei": "E",
-    "scores": {
-      "communication": 9,
-      "collaboration": 9.5,
-      "problemSolving": 3.9,
-      "projectManagement": 3.8,
-      "learningAdaptability": 3.5,
-      "responsibility": 8.9,
-      "teamwork": 0.4,
-      "challenge": 0.4
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "风险警示者",
-    "createdAt": "2026-07-08T11:31:39.705Z"
-  },
-  {
-    "_id": "1783510299718",
-    "name": "赵佳鹏",
-    "mbtiType": "ISFP",
-    "ei": "I",
-    "scores": {
-      "communication": 5,
-      "collaboration": 6.5,
-      "problemSolving": 7.3,
-      "projectManagement": 2,
-      "learningAdaptability": 8,
-      "responsibility": 1.7,
-      "teamwork": 9.8,
-      "challenge": 8.2
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "可塑协作者",
-    "createdAt": "2026-07-08T11:31:39.705Z"
-  },
-  {
-    "_id": "1783510299719",
-    "name": "熊凯",
-    "mbtiType": "ISTP",
-    "ei": "I",
-    "scores": {
-      "communication": 7.4,
-      "collaboration": 5.3,
-      "problemSolving": 3.8,
-      "projectManagement": 0.5,
-      "learningAdaptability": 9.7,
-      "responsibility": 5.4,
-      "teamwork": 9.9,
-      "challenge": 0.8
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "风险警示者",
-    "createdAt": "2026-07-08T11:31:39.705Z"
-  },
-  {
-    "_id": "1783510299720",
-    "name": "曾梓",
-    "mbtiType": "ESFJ",
-    "ei": "E",
-    "scores": {
-      "communication": 7.7,
-      "collaboration": 6.9,
-      "problemSolving": 2.9,
-      "projectManagement": 4.2,
-      "learningAdaptability": 2.1,
-      "responsibility": 0.3,
-      "teamwork": 5.7,
-      "challenge": 9.3
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "风险警示者",
-    "createdAt": "2026-07-08T11:31:39.705Z"
-  },
-  {
-    "_id": "1783510299721",
-    "name": "曾强",
-    "mbtiType": "INFJ",
-    "ei": "I",
-    "scores": {
-      "communication": 7.5,
-      "collaboration": 0.5,
-      "problemSolving": 7.2,
-      "projectManagement": 3.6,
-      "learningAdaptability": 5,
-      "responsibility": 1.4,
-      "teamwork": 1.1,
-      "challenge": 7
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "风险警示者",
-    "createdAt": "2026-07-08T11:31:39.705Z"
-  },
-  {
-    "_id": "1783510299722",
-    "name": "戴华辉",
-    "mbtiType": "ESFP",
-    "ei": "E",
-    "scores": {
-      "communication": 5.1,
-      "collaboration": 3.8,
-      "problemSolving": 1.8,
-      "projectManagement": 5.1,
-      "learningAdaptability": 5.2,
-      "responsibility": 1.5,
-      "teamwork": 4.4,
-      "challenge": 2.1
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "紧急干预对象",
-    "createdAt": "2026-07-08T11:31:39.705Z"
-  },
-  {
-    "_id": "1783510299723",
-    "name": "张萱",
-    "mbtiType": "ENFJ",
-    "ei": "E",
-    "scores": {
-      "communication": 2.7,
-      "collaboration": 3.6,
-      "problemSolving": 3.3,
-      "projectManagement": 2,
-      "learningAdaptability": 3.8,
-      "responsibility": 3.7,
-      "teamwork": 8.4,
-      "challenge": 2.6
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "紧急干预对象",
-    "createdAt": "2026-07-08T11:31:39.705Z"
-  },
-  {
-    "_id": "1783510299724",
-    "name": "顾浩",
-    "mbtiType": "ISFP",
-    "ei": "I",
-    "scores": {
-      "communication": 1.5,
-      "collaboration": 4,
-      "problemSolving": 1.1,
-      "projectManagement": 6.7,
-      "learningAdaptability": 5.7,
-      "responsibility": 9.6,
-      "teamwork": 7.2,
-      "challenge": 5.6
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "风险警示者",
-    "createdAt": "2026-07-08T11:31:39.705Z"
-  },
-  {
-    "_id": "1783510299725",
-    "name": "吕涵",
-    "mbtiType": "ESTP",
-    "ei": "E",
-    "scores": {
-      "communication": 3.9,
-      "collaboration": 8.1,
-      "problemSolving": 10,
-      "projectManagement": 2.9,
-      "learningAdaptability": 2.6,
-      "responsibility": 5,
-      "teamwork": 5.3,
-      "challenge": 9.2
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "可塑协作者",
-    "createdAt": "2026-07-08T11:31:39.705Z"
-  },
-  {
-    "_id": "1783510299726",
-    "name": "蒋菊",
-    "mbtiType": "ESTP",
-    "ei": "E",
-    "scores": {
-      "communication": 1,
-      "collaboration": 9.1,
-      "problemSolving": 8.9,
-      "projectManagement": 3.2,
-      "learningAdaptability": 8.1,
-      "responsibility": 0.8,
-      "teamwork": 8.8,
-      "challenge": 5
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "可塑协作者",
-    "createdAt": "2026-07-08T11:31:39.705Z"
-  },
-  {
-    "_id": "1783510299727",
-    "name": "刘佳",
-    "mbtiType": "INFP",
-    "ei": "I",
-    "scores": {
-      "communication": 2.2,
-      "collaboration": 8,
-      "problemSolving": 9.9,
-      "projectManagement": 9.9,
-      "learningAdaptability": 6.4,
-      "responsibility": 0.9,
-      "teamwork": 6.5,
-      "challenge": 6.5
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "可塑协作者",
-    "createdAt": "2026-07-08T11:31:39.705Z"
-  },
-  {
-    "_id": "1783510299728",
-    "name": "郑珍",
-    "mbtiType": "ISTJ",
-    "ei": "I",
-    "scores": {
-      "communication": 4.9,
-      "collaboration": 5.1,
-      "problemSolving": 1.7,
-      "projectManagement": 7.3,
-      "learningAdaptability": 3.8,
-      "responsibility": 3.7,
-      "teamwork": 6.8,
-      "challenge": 7.5
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "风险警示者",
-    "createdAt": "2026-07-08T11:31:39.705Z"
-  },
-  {
-    "_id": "1783510299729",
-    "name": "郝颖萱",
-    "mbtiType": "INFJ",
-    "ei": "I",
-    "scores": {
-      "communication": 0,
-      "collaboration": 3.9,
-      "problemSolving": 7.7,
-      "projectManagement": 9,
-      "learningAdaptability": 9.8,
-      "responsibility": 7.3,
-      "teamwork": 1.9,
-      "challenge": 5
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "可塑协作者",
-    "createdAt": "2026-07-08T11:31:39.705Z"
-  },
-  {
-    "_id": "1783510299730",
-    "name": "蒋琳",
-    "mbtiType": "INTJ",
-    "ei": "I",
-    "scores": {
-      "communication": 3.8,
-      "collaboration": 8.9,
-      "problemSolving": 8.7,
-      "projectManagement": 0.6,
-      "learningAdaptability": 8.2,
-      "responsibility": 7.8,
-      "teamwork": 6.9,
-      "challenge": 1.5
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "可塑协作者",
-    "createdAt": "2026-07-08T11:31:39.705Z"
-  },
-  {
-    "_id": "1783510299731",
-    "name": "傅佳超",
-    "mbtiType": "INTP",
-    "ei": "I",
-    "scores": {
-      "communication": 1.4,
-      "collaboration": 0.4,
-      "problemSolving": 4.3,
-      "projectManagement": 5.6,
-      "learningAdaptability": 6.5,
-      "responsibility": 0,
-      "teamwork": 1.7,
-      "challenge": 1.4
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "紧急干预对象",
-    "createdAt": "2026-07-08T11:31:39.705Z"
-  },
-  {
-    "_id": "1783510299732",
-    "name": "周琳",
-    "mbtiType": "ENTJ",
-    "ei": "E",
-    "scores": {
-      "communication": 7.4,
-      "collaboration": 2,
-      "problemSolving": 3.5,
-      "projectManagement": 0.9,
-      "learningAdaptability": 5.1,
-      "responsibility": 1.8,
-      "teamwork": 3,
-      "challenge": 2
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "紧急干预对象",
-    "createdAt": "2026-07-08T11:31:39.705Z"
-  },
-  {
-    "_id": "1783510299733",
-    "name": "余涵",
-    "mbtiType": "ESTJ",
-    "ei": "E",
-    "scores": {
-      "communication": 7.8,
-      "collaboration": 0.4,
-      "problemSolving": 7.9,
-      "projectManagement": 4.8,
-      "learningAdaptability": 3.6,
-      "responsibility": 8.5,
-      "teamwork": 3.1,
-      "challenge": 9.6
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "可塑协作者",
-    "createdAt": "2026-07-08T11:31:39.705Z"
-  },
-  {
-    "_id": "1783510299734",
-    "name": "陆超",
-    "mbtiType": "ISFP",
-    "ei": "I",
-    "scores": {
-      "communication": 8.3,
-      "collaboration": 7.6,
-      "problemSolving": 9,
-      "projectManagement": 1.2,
-      "learningAdaptability": 6.6,
-      "responsibility": 3.9,
-      "teamwork": 4.9,
-      "challenge": 1.1
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "风险警示者",
-    "createdAt": "2026-07-08T11:31:39.705Z"
-  },
-  {
-    "_id": "1783510299735",
-    "name": "廖蓉",
-    "mbtiType": "ISFP",
-    "ei": "I",
-    "scores": {
-      "communication": 5.5,
-      "collaboration": 9.5,
-      "problemSolving": 0.4,
-      "projectManagement": 4.5,
-      "learningAdaptability": 8.5,
-      "responsibility": 5.3,
-      "teamwork": 6.8,
-      "challenge": 0.2
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "风险警示者",
-    "createdAt": "2026-07-08T11:31:39.705Z"
-  },
-  {
-    "_id": "1783510299736",
-    "name": "张涵洋",
-    "mbtiType": "ENFP",
-    "ei": "E",
-    "scores": {
-      "communication": 5.3,
-      "collaboration": 2.7,
-      "problemSolving": 7.7,
-      "projectManagement": 3.8,
-      "learningAdaptability": 2.8,
-      "responsibility": 8.5,
-      "teamwork": 3.7,
-      "challenge": 4
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "风险警示者",
-    "createdAt": "2026-07-08T11:31:39.705Z"
-  },
-  {
-    "_id": "1783510299737",
-    "name": "程萌婧",
-    "mbtiType": "ESTJ",
-    "ei": "E",
-    "scores": {
-      "communication": 4.6,
-      "collaboration": 8.4,
-      "problemSolving": 8.1,
-      "projectManagement": 3.2,
-      "learningAdaptability": 4.9,
-      "responsibility": 5.4,
-      "teamwork": 1.3,
-      "challenge": 4.2
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "风险警示者",
-    "createdAt": "2026-07-08T11:31:39.705Z"
-  },
-  {
-    "_id": "1783510299738",
-    "name": "文菊婧",
-    "mbtiType": "ESTJ",
-    "ei": "E",
-    "scores": {
-      "communication": 7.6,
-      "collaboration": 7.1,
-      "problemSolving": 1.1,
-      "projectManagement": 6.1,
-      "learningAdaptability": 6,
-      "responsibility": 8.2,
-      "teamwork": 3.7,
-      "challenge": 1.6
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "风险警示者",
-    "createdAt": "2026-07-08T11:31:39.705Z"
-  },
-  {
-    "_id": "1783510299739",
-    "name": "吴红瑶",
-    "mbtiType": "ESFJ",
-    "ei": "E",
-    "scores": {
-      "communication": 5.4,
-      "collaboration": 1.7,
-      "problemSolving": 3.1,
-      "projectManagement": 8.3,
-      "learningAdaptability": 4,
-      "responsibility": 2.9,
-      "teamwork": 6.9,
-      "challenge": 7.3
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "风险警示者",
-    "createdAt": "2026-07-08T11:31:39.705Z"
-  },
-  {
-    "_id": "1783510299740",
-    "name": "龚娥",
-    "mbtiType": "ENTJ",
-    "ei": "E",
-    "scores": {
-      "communication": 8,
-      "collaboration": 2.7,
-      "problemSolving": 1.3,
-      "projectManagement": 2.4,
-      "learningAdaptability": 7.5,
-      "responsibility": 5.5,
-      "teamwork": 8.6,
-      "challenge": 4.2
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "风险警示者",
-    "createdAt": "2026-07-08T11:31:39.705Z"
-  },
-  {
-    "_id": "1783510299741",
-    "name": "顾洁",
-    "mbtiType": "ISFJ",
-    "ei": "I",
-    "scores": {
-      "communication": 8.5,
-      "collaboration": 7.8,
-      "problemSolving": 8.2,
-      "projectManagement": 9.9,
-      "learningAdaptability": 7.1,
-      "responsibility": 5.1,
-      "teamwork": 9.4,
-      "challenge": 8.6
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "高潜适配者",
-    "createdAt": "2026-07-08T11:31:39.705Z"
-  },
-  {
-    "_id": "1783510299742",
-    "name": "蔡蕾",
-    "mbtiType": "INFJ",
-    "ei": "I",
-    "scores": {
-      "communication": 5,
-      "collaboration": 2.9,
-      "problemSolving": 8.3,
-      "projectManagement": 6.1,
-      "learningAdaptability": 1.6,
-      "responsibility": 2.5,
-      "teamwork": 3.1,
-      "challenge": 2.3
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "紧急干预对象",
-    "createdAt": "2026-07-08T11:31:39.705Z"
-  },
-  {
-    "_id": "1783510299743",
-    "name": "唐琳",
-    "mbtiType": "ISFJ",
-    "ei": "I",
-    "scores": {
-      "communication": 4.2,
-      "collaboration": 1.4,
-      "problemSolving": 3.5,
-      "projectManagement": 3.5,
-      "learningAdaptability": 6.3,
-      "responsibility": 1.5,
-      "teamwork": 3.3,
-      "challenge": 8.7
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "风险警示者",
-    "createdAt": "2026-07-08T11:31:39.705Z"
-  },
-  {
-    "_id": "1783510299744",
-    "name": "吴静",
-    "mbtiType": "ISTJ",
-    "ei": "I",
-    "scores": {
-      "communication": 2,
-      "collaboration": 5.9,
-      "problemSolving": 9.2,
-      "projectManagement": 0.6,
-      "learningAdaptability": 4.1,
-      "responsibility": 4.8,
-      "teamwork": 2.9,
-      "challenge": 9.9
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "风险警示者",
-    "createdAt": "2026-07-08T11:31:39.705Z"
-  },
-  {
-    "_id": "1783510299745",
-    "name": "戴雪",
-    "mbtiType": "INFJ",
-    "ei": "I",
-    "scores": {
-      "communication": 4,
-      "collaboration": 5.4,
-      "problemSolving": 8.3,
-      "projectManagement": 2.3,
-      "learningAdaptability": 1,
-      "responsibility": 7.2,
-      "teamwork": 9.9,
-      "challenge": 7.1
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "可塑协作者",
-    "createdAt": "2026-07-08T11:31:39.705Z"
-  },
-  {
-    "_id": "1783510299746",
-    "name": "朱诺洁",
-    "mbtiType": "ESTJ",
-    "ei": "E",
-    "scores": {
-      "communication": 1.6,
-      "collaboration": 8.8,
-      "problemSolving": 7.2,
-      "projectManagement": 7.9,
-      "learningAdaptability": 2.7,
-      "responsibility": 8.9,
-      "teamwork": 3.1,
-      "challenge": 7.4
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "可塑协作者",
-    "createdAt": "2026-07-08T11:31:39.705Z"
-  },
-  {
-    "_id": "1783510299747",
-    "name": "宋彤",
-    "mbtiType": "ESTJ",
-    "ei": "E",
-    "scores": {
-      "communication": 1.9,
-      "collaboration": 3.6,
-      "problemSolving": 2,
-      "projectManagement": 4.9,
-      "learningAdaptability": 7.5,
-      "responsibility": 8.7,
-      "teamwork": 7.6,
-      "challenge": 5.4
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "风险警示者",
-    "createdAt": "2026-07-08T11:31:39.705Z"
-  },
-  {
-    "_id": "1783510299748",
-    "name": "尹凤",
-    "mbtiType": "ESFP",
-    "ei": "E",
-    "scores": {
-      "communication": 0.3,
-      "collaboration": 9.9,
-      "problemSolving": 6.9,
-      "projectManagement": 4.3,
-      "learningAdaptability": 3.4,
-      "responsibility": 8.4,
-      "teamwork": 8.4,
-      "challenge": 4.6
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "可塑协作者",
-    "createdAt": "2026-07-08T11:31:39.705Z"
-  },
-  {
-    "_id": "1783510299749",
-    "name": "王勇菊",
-    "mbtiType": "ISFJ",
-    "ei": "I",
-    "scores": {
-      "communication": 6.3,
-      "collaboration": 2.9,
-      "problemSolving": 4.7,
-      "projectManagement": 1.4,
-      "learningAdaptability": 8.1,
-      "responsibility": 6.6,
-      "teamwork": 5.1,
-      "challenge": 0.4
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "风险警示者",
-    "createdAt": "2026-07-08T11:31:39.705Z"
-  },
-  {
-    "_id": "1783510299750",
-    "name": "袁萍",
-    "mbtiType": "ENTJ",
-    "ei": "E",
-    "scores": {
-      "communication": 2.6,
-      "collaboration": 5.3,
-      "problemSolving": 7.1,
-      "projectManagement": 9.8,
-      "learningAdaptability": 3.9,
-      "responsibility": 5.9,
-      "teamwork": 4.2,
-      "challenge": 0.6
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "风险警示者",
-    "createdAt": "2026-07-08T11:31:39.705Z"
-  },
-  {
-    "_id": "1783510299751",
-    "name": "段慧怡",
-    "mbtiType": "ENFJ",
-    "ei": "E",
-    "scores": {
-      "communication": 3.9,
-      "collaboration": 7,
-      "problemSolving": 8.2,
-      "projectManagement": 3.8,
-      "learningAdaptability": 0.1,
-      "responsibility": 0.2,
-      "teamwork": 9.8,
-      "challenge": 0.6
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "风险警示者",
-    "createdAt": "2026-07-08T11:31:39.705Z"
-  },
-  {
-    "_id": "1783510299752",
-    "name": "钟芳",
-    "mbtiType": "INFP",
-    "ei": "I",
-    "scores": {
-      "communication": 0.1,
-      "collaboration": 9.4,
-      "problemSolving": 4.9,
-      "projectManagement": 9.4,
-      "learningAdaptability": 1,
-      "responsibility": 4.5,
-      "teamwork": 8,
-      "challenge": 5.3
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "风险警示者",
-    "createdAt": "2026-07-08T11:31:39.705Z"
-  },
-  {
-    "_id": "1783510299753",
-    "name": "叶敏颖",
-    "mbtiType": "ESFP",
-    "ei": "E",
-    "scores": {
-      "communication": 9.6,
-      "collaboration": 0.5,
-      "problemSolving": 5.4,
-      "projectManagement": 4.7,
-      "learningAdaptability": 2,
-      "responsibility": 5.1,
-      "teamwork": 2.6,
-      "challenge": 3.6
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "风险警示者",
-    "createdAt": "2026-07-08T11:31:39.705Z"
-  },
-  {
-    "_id": "1783510299754",
-    "name": "宋菊",
-    "mbtiType": "ISTP",
-    "ei": "I",
-    "scores": {
-      "communication": 0.8,
-      "collaboration": 4,
-      "problemSolving": 6.8,
-      "projectManagement": 8.6,
-      "learningAdaptability": 1.2,
-      "responsibility": 9.7,
-      "teamwork": 7.4,
-      "challenge": 7.6
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "可塑协作者",
-    "createdAt": "2026-07-08T11:31:39.705Z"
-  },
-  {
-    "_id": "1783510299755",
-    "name": "宋琳宇",
-    "mbtiType": "ESFJ",
-    "ei": "E",
-    "scores": {
-      "communication": 3.3,
-      "collaboration": 7.4,
-      "problemSolving": 7.2,
-      "projectManagement": 0.2,
-      "learningAdaptability": 4.4,
-      "responsibility": 0.4,
-      "teamwork": 3,
-      "challenge": 2.5
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "紧急干预对象",
-    "createdAt": "2026-07-08T11:31:39.705Z"
-  },
-  {
-    "_id": "1783510299756",
-    "name": "高琳玥",
-    "mbtiType": "ESFJ",
-    "ei": "E",
-    "scores": {
-      "communication": 5.2,
-      "collaboration": 8.1,
-      "problemSolving": 2.3,
-      "projectManagement": 7.8,
-      "learningAdaptability": 8.4,
-      "responsibility": 1.6,
-      "teamwork": 1.6,
-      "challenge": 7.4
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "风险警示者",
-    "createdAt": "2026-07-08T11:31:39.705Z"
-  },
-  {
-    "_id": "1783510299757",
-    "name": "范菊彤",
-    "mbtiType": "ENFJ",
-    "ei": "E",
-    "scores": {
-      "communication": 1.8,
-      "collaboration": 6.1,
-      "problemSolving": 1.5,
-      "projectManagement": 8.4,
-      "learningAdaptability": 3.1,
-      "responsibility": 9,
-      "teamwork": 2.7,
-      "challenge": 2.2
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "风险警示者",
-    "createdAt": "2026-07-08T11:31:39.705Z"
-  },
-  {
-    "_id": "1783510299758",
-    "name": "方芳",
-    "mbtiType": "INFP",
-    "ei": "I",
-    "scores": {
-      "communication": 9.1,
-      "collaboration": 8.1,
-      "problemSolving": 1.9,
-      "projectManagement": 0.8,
-      "learningAdaptability": 8.6,
-      "responsibility": 6.4,
-      "teamwork": 6.9,
-      "challenge": 3.1
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "可塑协作者",
-    "createdAt": "2026-07-08T11:31:39.705Z"
-  },
-  {
-    "_id": "1783510299759",
-    "name": "乔超",
-    "mbtiType": "ESTP",
-    "ei": "E",
-    "scores": {
-      "communication": 6,
-      "collaboration": 5.1,
-      "problemSolving": 0.3,
-      "projectManagement": 2.4,
-      "learningAdaptability": 0.9,
-      "responsibility": 6.3,
-      "teamwork": 1.2,
-      "challenge": 6.6
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "紧急干预对象",
-    "createdAt": "2026-07-08T11:31:39.705Z"
-  },
-  {
-    "_id": "1783510299760",
-    "name": "吴兰",
-    "mbtiType": "ISTJ",
-    "ei": "I",
-    "scores": {
-      "communication": 7.8,
-      "collaboration": 4.5,
-      "problemSolving": 2.8,
-      "projectManagement": 0.4,
-      "learningAdaptability": 9.8,
-      "responsibility": 1.1,
-      "teamwork": 0.5,
-      "challenge": 8.1
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "风险警示者",
-    "createdAt": "2026-07-08T11:31:39.705Z"
-  },
-  {
-    "_id": "1783510299761",
-    "name": "方怡",
-    "mbtiType": "ENFP",
-    "ei": "E",
-    "scores": {
-      "communication": 2.8,
-      "collaboration": 4.7,
-      "problemSolving": 3.4,
-      "projectManagement": 9.6,
-      "learningAdaptability": 4.8,
-      "responsibility": 8.2,
-      "teamwork": 9.3,
-      "challenge": 0
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "风险警示者",
-    "createdAt": "2026-07-08T11:31:39.705Z"
-  },
-  {
-    "_id": "1783510299762",
-    "name": "丁丽",
-    "mbtiType": "ESTJ",
-    "ei": "E",
-    "scores": {
-      "communication": 0.9,
-      "collaboration": 8.1,
-      "problemSolving": 3.9,
-      "projectManagement": 8.5,
-      "learningAdaptability": 1,
-      "responsibility": 6,
-      "teamwork": 2.6,
-      "challenge": 9.4
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "风险警示者",
-    "createdAt": "2026-07-08T11:31:39.705Z"
-  },
-  {
-    "_id": "1783510299763",
-    "name": "贾欣",
-    "mbtiType": "ISFJ",
-    "ei": "I",
-    "scores": {
-      "communication": 6.4,
-      "collaboration": 2.9,
-      "problemSolving": 9.7,
-      "projectManagement": 4,
-      "learningAdaptability": 8.8,
-      "responsibility": 1.4,
-      "teamwork": 8.2,
-      "challenge": 0.4
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "风险警示者",
-    "createdAt": "2026-07-08T11:31:39.705Z"
-  },
-  {
-    "_id": "1783510299764",
-    "name": "郑娜琪",
-    "mbtiType": "ESFJ",
-    "ei": "E",
-    "scores": {
-      "communication": 3,
-      "collaboration": 7.2,
-      "problemSolving": 3.4,
-      "projectManagement": 9.7,
-      "learningAdaptability": 8.5,
-      "responsibility": 9.9,
-      "teamwork": 6.3,
-      "challenge": 2
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "可塑协作者",
-    "createdAt": "2026-07-08T11:31:39.705Z"
-  },
-  {
-    "_id": "1783510299765",
-    "name": "潘慧婧",
-    "mbtiType": "INTJ",
-    "ei": "I",
-    "scores": {
-      "communication": 5.4,
-      "collaboration": 5.1,
-      "problemSolving": 8.3,
-      "projectManagement": 1.8,
-      "learningAdaptability": 0.8,
-      "responsibility": 0.2,
-      "teamwork": 7.4,
-      "challenge": 5.8
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "风险警示者",
-    "createdAt": "2026-07-08T11:31:39.705Z"
-  },
-  {
-    "_id": "1783510299766",
-    "name": "康强萱",
-    "mbtiType": "ISFJ",
-    "ei": "I",
-    "scores": {
-      "communication": 6,
-      "collaboration": 1.1,
-      "problemSolving": 2.7,
-      "projectManagement": 4.7,
-      "learningAdaptability": 9.8,
-      "responsibility": 3.5,
-      "teamwork": 4.6,
-      "challenge": 4.1
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "风险警示者",
-    "createdAt": "2026-07-08T11:31:39.705Z"
-  },
-  {
-    "_id": "1783510299767",
-    "name": "侯佳勇",
-    "mbtiType": "ISFJ",
-    "ei": "I",
-    "scores": {
-      "communication": 5.5,
-      "collaboration": 0.5,
-      "problemSolving": 2,
-      "projectManagement": 4.7,
-      "learningAdaptability": 4.9,
-      "responsibility": 5.6,
-      "teamwork": 4,
-      "challenge": 0.1
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "紧急干预对象",
-    "createdAt": "2026-07-08T11:31:39.705Z"
-  },
-  {
-    "_id": "1783510299768",
-    "name": "叶兰芳",
-    "mbtiType": "ISTJ",
-    "ei": "I",
-    "scores": {
-      "communication": 6.5,
-      "collaboration": 7.4,
-      "problemSolving": 1.4,
-      "projectManagement": 0.9,
-      "learningAdaptability": 7.4,
-      "responsibility": 6.9,
-      "teamwork": 8.7,
-      "challenge": 9.9
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "可塑协作者",
-    "createdAt": "2026-07-08T11:31:39.705Z"
-  },
-  {
-    "_id": "1783510299769",
-    "name": "胡彤",
-    "mbtiType": "ENTJ",
-    "ei": "E",
-    "scores": {
-      "communication": 7.4,
-      "collaboration": 9.7,
-      "problemSolving": 3.8,
-      "projectManagement": 0.7,
-      "learningAdaptability": 8.1,
-      "responsibility": 3,
-      "teamwork": 0.8,
-      "challenge": 7.9
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "风险警示者",
-    "createdAt": "2026-07-08T11:31:39.705Z"
-  },
-  {
-    "_id": "1783510299770",
-    "name": "秦薇",
-    "mbtiType": "ENTJ",
-    "ei": "E",
-    "scores": {
-      "communication": 1.9,
-      "collaboration": 5.8,
-      "problemSolving": 8.5,
-      "projectManagement": 8,
-      "learningAdaptability": 6.7,
-      "responsibility": 4.3,
-      "teamwork": 6.5,
-      "challenge": 7.1
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "可塑协作者",
-    "createdAt": "2026-07-08T11:31:39.705Z"
-  },
-  {
-    "_id": "1783510299771",
-    "name": "贾珍",
-    "mbtiType": "INFJ",
-    "ei": "I",
-    "scores": {
-      "communication": 9.9,
-      "collaboration": 3.1,
-      "problemSolving": 4.7,
-      "projectManagement": 3.8,
-      "learningAdaptability": 4.4,
-      "responsibility": 8.3,
-      "teamwork": 0.3,
-      "challenge": 8.5
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "风险警示者",
-    "createdAt": "2026-07-08T11:31:39.705Z"
-  },
-  {
-    "_id": "1783510299772",
-    "name": "孙洁",
-    "mbtiType": "ISTJ",
-    "ei": "I",
-    "scores": {
-      "communication": 6.1,
-      "collaboration": 9.9,
-      "problemSolving": 0.7,
-      "projectManagement": 9.3,
-      "learningAdaptability": 5.2,
-      "responsibility": 6.6,
-      "teamwork": 9.2,
-      "challenge": 8.5
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "可塑协作者",
-    "createdAt": "2026-07-08T11:31:39.705Z"
-  },
-  {
-    "_id": "1783510299773",
-    "name": "李梅",
-    "mbtiType": "ENFJ",
-    "ei": "E",
-    "scores": {
-      "communication": 1.4,
-      "collaboration": 4,
-      "problemSolving": 2.9,
-      "projectManagement": 4,
-      "learningAdaptability": 9.2,
-      "responsibility": 5.4,
-      "teamwork": 6.1,
-      "challenge": 3.4
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "风险警示者",
-    "createdAt": "2026-07-08T11:31:39.705Z"
-  },
-  {
-    "_id": "1783510299774",
-    "name": "潘萱",
-    "mbtiType": "INFP",
-    "ei": "I",
-    "scores": {
-      "communication": 4,
-      "collaboration": 5.7,
-      "problemSolving": 2.2,
-      "projectManagement": 8,
-      "learningAdaptability": 5.1,
-      "responsibility": 7.6,
-      "teamwork": 1.2,
-      "challenge": 10
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "风险警示者",
-    "createdAt": "2026-07-08T11:31:39.705Z"
-  },
-  {
-    "_id": "1783510299775",
-    "name": "林琳",
-    "mbtiType": "INTP",
-    "ei": "I",
-    "scores": {
-      "communication": 5.5,
-      "collaboration": 9.4,
-      "problemSolving": 0.8,
-      "projectManagement": 9.8,
-      "learningAdaptability": 9.8,
-      "responsibility": 6,
-      "teamwork": 8.8,
-      "challenge": 3.7
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "可塑协作者",
-    "createdAt": "2026-07-08T11:31:39.705Z"
-  },
-  {
-    "_id": "1783510299776",
-    "name": "林琳",
-    "mbtiType": "ESTP",
-    "ei": "E",
-    "scores": {
-      "communication": 9.9,
-      "collaboration": 2.2,
-      "problemSolving": 0.2,
-      "projectManagement": 3.4,
-      "learningAdaptability": 8.2,
-      "responsibility": 4.1,
-      "teamwork": 8.4,
-      "challenge": 2.2
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "风险警示者",
-    "createdAt": "2026-07-08T11:31:39.705Z"
-  },
-  {
-    "_id": "1783510299777",
-    "name": "周兰梓",
-    "mbtiType": "ENTP",
-    "ei": "E",
-    "scores": {
-      "communication": 3.1,
-      "collaboration": 3.7,
-      "problemSolving": 9.2,
-      "projectManagement": 0.1,
-      "learningAdaptability": 0.3,
-      "responsibility": 2.9,
-      "teamwork": 3.9,
-      "challenge": 6.2
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "紧急干预对象",
-    "createdAt": "2026-07-08T11:31:39.705Z"
-  },
-  {
-    "_id": "1783510299778",
-    "name": "乔平彤",
-    "mbtiType": "ENFP",
-    "ei": "E",
-    "scores": {
-      "communication": 5.4,
-      "collaboration": 6.5,
-      "problemSolving": 9.1,
-      "projectManagement": 8,
-      "learningAdaptability": 7.3,
-      "responsibility": 5.8,
-      "teamwork": 1.5,
-      "challenge": 5.3
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "可塑协作者",
-    "createdAt": "2026-07-08T11:31:39.705Z"
-  },
-  {
-    "_id": "1783510299779",
-    "name": "贾梅",
-    "mbtiType": "INTP",
-    "ei": "I",
-    "scores": {
-      "communication": 3,
-      "collaboration": 8.7,
-      "problemSolving": 4.5,
-      "projectManagement": 7.3,
-      "learningAdaptability": 2.8,
-      "responsibility": 1.2,
-      "teamwork": 6.1,
-      "challenge": 7.5
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "风险警示者",
-    "createdAt": "2026-07-08T11:31:39.705Z"
-  },
-  {
-    "_id": "1783510299780",
-    "name": "冯芳",
-    "mbtiType": "ESTP",
-    "ei": "E",
-    "scores": {
-      "communication": 9.2,
-      "collaboration": 7.4,
-      "problemSolving": 3.6,
-      "projectManagement": 6.2,
-      "learningAdaptability": 6.6,
-      "responsibility": 5.1,
-      "teamwork": 9.1,
-      "challenge": 7
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "可塑协作者",
-    "createdAt": "2026-07-08T11:31:39.705Z"
-  },
-  {
-    "_id": "1783510299781",
-    "name": "朱杰",
-    "mbtiType": "ISFP",
-    "ei": "I",
-    "scores": {
-      "communication": 6,
-      "collaboration": 6.1,
-      "problemSolving": 2.4,
-      "projectManagement": 9.1,
-      "learningAdaptability": 8.8,
-      "responsibility": 6.1,
-      "teamwork": 7.9,
-      "challenge": 9.9
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "高潜适配者",
-    "createdAt": "2026-07-08T11:31:39.705Z"
-  },
-  {
-    "_id": "1783510299782",
-    "name": "胡娥",
-    "mbtiType": "ISTP",
-    "ei": "I",
-    "scores": {
-      "communication": 4.6,
-      "collaboration": 1.1,
-      "problemSolving": 3.2,
-      "projectManagement": 0.1,
-      "learningAdaptability": 9,
-      "responsibility": 9.2,
-      "teamwork": 3.3,
-      "challenge": 7.1
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "风险警示者",
-    "createdAt": "2026-07-08T11:31:39.705Z"
-  },
-  {
-    "_id": "1783510299783",
-    "name": "林雨浩",
-    "mbtiType": "ESFP",
-    "ei": "E",
-    "scores": {
-      "communication": 7.1,
-      "collaboration": 7,
-      "problemSolving": 9.7,
-      "projectManagement": 3.8,
-      "learningAdaptability": 8.9,
-      "responsibility": 7.6,
-      "teamwork": 2.4,
-      "challenge": 6.2
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "可塑协作者",
-    "createdAt": "2026-07-08T11:31:39.705Z"
-  },
-  {
-    "_id": "1783510299784",
-    "name": "朱薇",
-    "mbtiType": "ENFJ",
-    "ei": "E",
-    "scores": {
-      "communication": 7.4,
-      "collaboration": 4.1,
-      "problemSolving": 0.7,
-      "projectManagement": 3.2,
-      "learningAdaptability": 6.2,
-      "responsibility": 4.7,
-      "teamwork": 9,
-      "challenge": 5.4
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "风险警示者",
-    "createdAt": "2026-07-08T11:31:39.705Z"
-  },
-  {
-    "_id": "1783510299785",
-    "name": "汪菊",
-    "mbtiType": "ISFJ",
-    "ei": "I",
-    "scores": {
-      "communication": 8.3,
-      "collaboration": 7.1,
-      "problemSolving": 0.8,
-      "projectManagement": 9.4,
-      "learningAdaptability": 8.9,
-      "responsibility": 9.4,
-      "teamwork": 1.7,
-      "challenge": 0.2
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "可塑协作者",
-    "createdAt": "2026-07-08T11:31:39.705Z"
-  },
-  {
-    "_id": "1783510299786",
-    "name": "吕蕾",
-    "mbtiType": "ISFJ",
-    "ei": "I",
-    "scores": {
-      "communication": 0.7,
-      "collaboration": 9.9,
-      "problemSolving": 8.6,
-      "projectManagement": 9.4,
-      "learningAdaptability": 0.3,
-      "responsibility": 0.9,
-      "teamwork": 9.1,
-      "challenge": 7.6
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "可塑协作者",
-    "createdAt": "2026-07-08T11:31:39.705Z"
-  },
-  {
-    "_id": "1783510299787",
-    "name": "韩瑶",
-    "mbtiType": "ENTP",
-    "ei": "E",
-    "scores": {
-      "communication": 3.6,
-      "collaboration": 2.1,
-      "problemSolving": 6.3,
-      "projectManagement": 0.6,
-      "learningAdaptability": 5.2,
-      "responsibility": 0.9,
-      "teamwork": 4.5,
-      "challenge": 7.1
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "紧急干预对象",
-    "createdAt": "2026-07-08T11:31:39.705Z"
-  },
-  {
-    "_id": "1783510299788",
-    "name": "程静",
-    "mbtiType": "INFJ",
-    "ei": "I",
-    "scores": {
-      "communication": 3.1,
-      "collaboration": 0.4,
-      "problemSolving": 1.5,
-      "projectManagement": 8,
-      "learningAdaptability": 6.8,
-      "responsibility": 8.2,
-      "teamwork": 3.3,
-      "challenge": 1.2
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "风险警示者",
-    "createdAt": "2026-07-08T11:31:39.705Z"
-  },
-  {
-    "_id": "1783510299789",
-    "name": "冯琳斌",
-    "mbtiType": "ENTP",
-    "ei": "E",
-    "scores": {
-      "communication": 2.4,
-      "collaboration": 0.1,
-      "problemSolving": 4.7,
-      "projectManagement": 3.7,
-      "learningAdaptability": 8.5,
-      "responsibility": 9.1,
-      "teamwork": 3.1,
-      "challenge": 8.2
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "风险警示者",
-    "createdAt": "2026-07-08T11:31:39.705Z"
-  },
-  {
-    "_id": "1783510299790",
-    "name": "吕菊",
-    "mbtiType": "ESTJ",
-    "ei": "E",
-    "scores": {
-      "communication": 3,
-      "collaboration": 5.3,
-      "problemSolving": 4.5,
-      "projectManagement": 2.4,
-      "learningAdaptability": 0.7,
-      "responsibility": 3.7,
-      "teamwork": 8,
-      "challenge": 7.8
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "风险警示者",
-    "createdAt": "2026-07-08T11:31:39.706Z"
-  },
-  {
-    "_id": "1783510299791",
-    "name": "史书",
-    "mbtiType": "ESTP",
-    "ei": "E",
-    "scores": {
-      "communication": 2,
-      "collaboration": 2.6,
-      "problemSolving": 6.7,
-      "projectManagement": 7.6,
-      "learningAdaptability": 5.1,
-      "responsibility": 8.8,
-      "teamwork": 3.4,
-      "challenge": 2.2
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "风险警示者",
-    "createdAt": "2026-07-08T11:31:39.706Z"
-  },
-  {
-    "_id": "1783510299792",
-    "name": "邹艳",
-    "mbtiType": "ESTP",
-    "ei": "E",
-    "scores": {
-      "communication": 8.7,
-      "collaboration": 2.9,
-      "problemSolving": 1,
-      "projectManagement": 9,
-      "learningAdaptability": 5.1,
-      "responsibility": 6.9,
-      "teamwork": 4.6,
-      "challenge": 5.6
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "风险警示者",
-    "createdAt": "2026-07-08T11:31:39.706Z"
-  },
-  {
-    "_id": "1783510299793",
-    "name": "武妍",
-    "mbtiType": "ISFJ",
-    "ei": "I",
-    "scores": {
-      "communication": 3.8,
-      "collaboration": 3.1,
-      "problemSolving": 0.3,
-      "projectManagement": 3,
-      "learningAdaptability": 0.7,
-      "responsibility": 3.1,
-      "teamwork": 5.4,
-      "challenge": 8.1
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "紧急干预对象",
-    "createdAt": "2026-07-08T11:31:39.706Z"
-  },
-  {
-    "_id": "1783510299794",
-    "name": "顾浩",
-    "mbtiType": "ESTP",
-    "ei": "E",
-    "scores": {
-      "communication": 2.8,
-      "collaboration": 1.8,
-      "problemSolving": 0.8,
-      "projectManagement": 9.3,
-      "learningAdaptability": 3.9,
-      "responsibility": 5.3,
-      "teamwork": 6.8,
-      "challenge": 7.7
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "风险警示者",
-    "createdAt": "2026-07-08T11:31:39.706Z"
-  },
-  {
-    "_id": "1783510299795",
-    "name": "马欣",
-    "mbtiType": "ESFJ",
-    "ei": "E",
-    "scores": {
-      "communication": 7.7,
-      "collaboration": 4.4,
-      "problemSolving": 8.9,
-      "projectManagement": 4.4,
-      "learningAdaptability": 6.9,
-      "responsibility": 9.6,
-      "teamwork": 3.5,
-      "challenge": 5.5
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "可塑协作者",
-    "createdAt": "2026-07-08T11:31:39.706Z"
-  },
-  {
-    "_id": "1783510299796",
-    "name": "汤竹",
-    "mbtiType": "ISTP",
-    "ei": "I",
-    "scores": {
-      "communication": 2.3,
-      "collaboration": 8.3,
-      "problemSolving": 4.3,
-      "projectManagement": 0.3,
-      "learningAdaptability": 0.8,
-      "responsibility": 10,
-      "teamwork": 2.6,
-      "challenge": 2.1
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "紧急干预对象",
-    "createdAt": "2026-07-08T11:31:39.706Z"
-  },
-  {
-    "_id": "1783510299797",
-    "name": "曾凤",
-    "mbtiType": "ENTP",
-    "ei": "E",
-    "scores": {
-      "communication": 9.7,
-      "collaboration": 1.8,
-      "problemSolving": 9.9,
-      "projectManagement": 6.4,
-      "learningAdaptability": 1.9,
-      "responsibility": 6.6,
-      "teamwork": 9.1,
-      "challenge": 9.3
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "可塑协作者",
-    "createdAt": "2026-07-08T11:31:39.706Z"
-  },
-  {
-    "_id": "1783510299798",
-    "name": "杜凤嘉",
-    "mbtiType": "ISTP",
-    "ei": "I",
-    "scores": {
-      "communication": 9.6,
-      "collaboration": 2.5,
-      "problemSolving": 9.1,
-      "projectManagement": 5.3,
-      "learningAdaptability": 0.9,
-      "responsibility": 6.1,
-      "teamwork": 2.2,
-      "challenge": 3.2
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "风险警示者",
-    "createdAt": "2026-07-08T11:31:39.706Z"
-  },
-  {
-    "_id": "1783510299799",
-    "name": "孟彤",
-    "mbtiType": "ISTP",
-    "ei": "I",
-    "scores": {
-      "communication": 2.1,
-      "collaboration": 6.6,
-      "problemSolving": 9.7,
-      "projectManagement": 3.8,
-      "learningAdaptability": 3,
-      "responsibility": 7.4,
-      "teamwork": 8.4,
-      "challenge": 3.4
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "可塑协作者",
-    "createdAt": "2026-07-08T11:31:39.706Z"
-  },
-  {
-    "_id": "1783510299800",
-    "name": "顾妍",
-    "mbtiType": "INFP",
-    "ei": "I",
-    "scores": {
-      "communication": 7.5,
-      "collaboration": 6.2,
-      "problemSolving": 1,
-      "projectManagement": 3.4,
-      "learningAdaptability": 4.5,
-      "responsibility": 1.6,
-      "teamwork": 1.2,
-      "challenge": 1.5
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "紧急干预对象",
-    "createdAt": "2026-07-08T11:31:39.706Z"
-  },
-  {
-    "_id": "1783510299801",
-    "name": "徐芳",
-    "mbtiType": "INTJ",
-    "ei": "I",
-    "scores": {
-      "communication": 2.3,
-      "collaboration": 8,
-      "problemSolving": 1.6,
-      "projectManagement": 1.9,
-      "learningAdaptability": 5.9,
-      "responsibility": 9.2,
-      "teamwork": 0.3,
-      "challenge": 0.9
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "紧急干预对象",
-    "createdAt": "2026-07-08T11:31:39.706Z"
-  },
-  {
-    "_id": "1783510299802",
-    "name": "孟燕婧",
-    "mbtiType": "ISFP",
-    "ei": "I",
-    "scores": {
-      "communication": 1.4,
-      "collaboration": 5.7,
-      "problemSolving": 8.7,
-      "projectManagement": 5.7,
-      "learningAdaptability": 9.1,
-      "responsibility": 5.5,
-      "teamwork": 5.3,
-      "challenge": 0.3
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "风险警示者",
-    "createdAt": "2026-07-08T11:31:39.706Z"
-  },
-  {
-    "_id": "1783510299803",
-    "name": "金强",
-    "mbtiType": "ENFJ",
-    "ei": "E",
-    "scores": {
-      "communication": 6.3,
-      "collaboration": 1.9,
-      "problemSolving": 8.8,
-      "projectManagement": 1,
-      "learningAdaptability": 6.4,
-      "responsibility": 3.7,
-      "teamwork": 6.7,
-      "challenge": 2.3
-    },
-    "tags": [
-      "test"
-    ],
-    "adaptor": "风险警示者",
-    "createdAt": "2026-07-08T11:31:39.706Z"
-  },
-  {
-    "_id": "1783510619456",
-    "name": "韩浩",
-    "mbtiType": "ISFJ",
-    "ei": "I",
-    "scores": {
-      "communication": 8,
-      "collaboration": 7,
-      "problemSolving": 6,
-      "projectManagement": 5,
-      "learningAdaptability": 6,
-      "responsibility": 5,
-      "teamwork": 6,
-      "challenge": 8
-    },
-    "tags": [],
-    "adaptor": "可塑协作者",
-    "createdAt": "2026-07-08T11:46:44.840Z"
-  },
-  {
-    "_id": "1783518264545",
-    "name": "张宁三",
-    "mbtiType": "ESFJ",
-    "ei": "E",
-    "scores": {
-      "communication": 5,
-      "collaboration": 5,
-      "problemSolving": 9,
-      "projectManagement": 6,
-      "learningAdaptability": 8,
-      "responsibility": 7,
-      "teamwork": 5,
-      "challenge": 7
-    },
-    "tags": [],
-    "adaptor": "可塑协作者",
-    "createdAt": "2026-07-08T13:46:13.234Z"
-  },
-  {
-    "_id": "1783518979601",
-    "name": "张强",
-    "mbtiType": "ENFP",
-    "ei": "E",
-    "scores": {
-      "communication": 5,
-      "collaboration": 5,
-      "problemSolving": 5,
-      "projectManagement": 5,
-      "learningAdaptability": 5,
-      "responsibility": 5,
-      "teamwork": 5,
-      "challenge": 5
-    },
-    "tags": [],
-    "adaptor": "可塑协作者",
-    "createdAt": "2026-07-08T13:57:57.796Z"
-  },
-  {
-    "_id": "1783570376243",
-    "name": "罗曼尼",
-    "mbtiType": "INFJ",
-    "ei": "I",
-    "scores": {
-      "communication": 7,
-      "collaboration": 7,
-      "problemSolving": 6,
-      "projectManagement": 6.5,
-      "learningAdaptability": 5.5,
-      "responsibility": 6.5,
-      "teamwork": 8.5,
-      "challenge": 6
-    },
-    "tags": [],
-    "adaptor": "高潜适配者",
-    "createdAt": "2026-07-09T04:32:53.754Z"
-  },
-  {
-    "_id": "1783575609538",
-    "name": "1123",
-    "mbtiType": "ENFJ",
-    "ei": "E",
-    "scores": {
-      "communication": 5,
-      "collaboration": 5,
-      "problemSolving": 5,
-      "projectManagement": 5,
-      "learningAdaptability": 5,
-      "responsibility": 5,
-      "teamwork": 5,
-      "challenge": 5
-    },
-    "tags": [],
-    "adaptor": "可塑协作者",
-    "createdAt": "2026-07-09T05:48:42.690Z"
+    "createdAt": "2026-07-09T13:34:54.043Z"
   }
 ]

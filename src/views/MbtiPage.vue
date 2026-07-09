@@ -228,26 +228,33 @@
       </el-card>
 
       <el-card class="filter-card" shadow="never">
-        <el-input 
-          v-model="searchName" 
-          placeholder="搜索姓名" 
-          clearable 
-          size="default" 
-          style="width:180px;margin-right:8px"
-          @keyup.enter="loadRecords"
-          @clear="loadRecords"
-        />
-        <el-button type="primary" size="default" @click="loadRecords" style="margin-right:16px">搜索</el-button>
-        <el-radio-group v-model="filterEI" @change="loadRecords" size="default">
-          <el-radio-button label="">全部</el-radio-button>
-          <el-radio-button label="E">E 外向</el-radio-button>
-          <el-radio-button label="I">I 内向</el-radio-button>
-        </el-radio-group>
-        <el-select v-model="groupBy" @change="loadRecords" placeholder="列表视图" size="default" style="width:160px;margin-left:20px">
-          <el-option label="列表视图" value="" />
-          <el-option label="按MBTI类型分组" value="type" />
-          <el-option label="按岗位能力适配分组" value="adaptor" />
-        </el-select>
+        <div style="display:flex;justify-content:space-between;align-items:center">
+          <div>
+            <el-input 
+              v-model="searchName" 
+              placeholder="搜索姓名" 
+              clearable 
+              size="default" 
+              style="width:180px;margin-right:8px"
+              @keyup.enter="loadRecords"
+              @clear="loadRecords"
+            />
+            <el-button type="primary" size="default" @click="loadRecords" style="margin-right:16px">搜索</el-button>
+            <el-select v-model="groupBy" @change="loadRecords" placeholder="列表视图" size="default" style="width:160px">
+              <el-option label="列表视图" value="" />
+              <el-option label="按MBTI类型分组" value="type" />
+              <el-option label="按岗位能力适配分组" value="adaptor" />
+            </el-select>
+          </div>
+          <div style="display:flex;align-items:center;margin-left:20px">
+            <el-radio-group v-model="filterEI" @change="loadRecords" size="default">
+              <el-radio-button label="">全部</el-radio-button>
+              <el-radio-button label="E">E 外向</el-radio-button>
+              <el-radio-button label="I">I 内向</el-radio-button>
+            </el-radio-group>
+            <el-button type="danger" size="small" @click="confirmClearAll" style="margin-left:10px">清空全部数据</el-button>
+          </div>
+        </div>
       </el-card>
 
       <el-card shadow="never" v-if="!groupBy" class="table-card">
@@ -362,7 +369,7 @@
 
 <script setup>
 import { ref, reactive, onMounted, nextTick, computed, watch } from 'vue'
-import { ElMessage } from 'element-plus'
+import { ElMessage, ElMessageBox } from 'element-plus'
 import { UploadFilled } from '@element-plus/icons-vue'
 import * as echarts from 'echarts'
 import axios from 'axios'
@@ -808,6 +815,27 @@ async function deleteRecord(id) {
     ElMessage.success('已删除')
   } catch (e) {
     ElMessage.error('删除失败: ' + (e.response?.data?.error || e.message))
+  }
+}
+
+async function confirmClearAll() {
+  try {
+    await ElMessageBox.confirm(
+      '确定要删除所有数据吗？此操作不可恢复！',
+      '确认清空',
+      {
+        confirmButtonText: '确定',
+        cancelButtonText: '取消',
+        type: 'warning'
+      }
+    )
+    await axios.delete(`${API}/records`)
+    await loadRecords()
+    ElMessage.success('全部数据已清空')
+  } catch (e) {
+    if (e !== 'cancel') {
+      ElMessage.error('清空失败: ' + (e.response?.data?.error || e.message))
+    }
   }
 }
 

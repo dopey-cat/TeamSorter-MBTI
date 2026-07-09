@@ -9,6 +9,7 @@
         <el-button text style="color:#fff" @click="goToTest" :class="{ active: currentRoute === '/test' }">人格测试</el-button>
         <el-button text style="color:#fff" @click="goToWcpaTest" :class="{ active: currentRoute === '/wcpa-test' }">WCPA测评</el-button>
         <el-button text style="color:#fff" @click="goToMbti('match')" :class="{ active: currentRoute === '/mbti' && activeTab === 'match' }">岗位匹配</el-button>
+        <el-button text style="color:#fff" @click="goToTaskMatch" :class="{ active: currentRoute === '/task-match' }">任务匹配</el-button>
         <el-button text style="color:#fff" @click="goToMbti('records')" :class="{ active: currentRoute === '/mbti' && activeTab === 'records' }">人格档案</el-button>
       </div>
     </header>
@@ -49,6 +50,10 @@ function goToWcpaTest() {
 function goToMbti(tab) {
   activeTab.value = tab
   router.push('/mbti')
+}
+
+function goToTaskMatch() {
+  router.push('/task-match')
 }
 </script>
 
