@@ -12,9 +12,12 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
+<<<<<<< HEAD
 debug.log
 server/stdout.txt
 server/stderr.txt
+=======
+>>>>>>> update-files
 
 # Editor directories and files
 .idea
