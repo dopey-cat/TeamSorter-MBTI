@@ -97,6 +97,9 @@ npm run serve
 
 # 方式二：同时启动
 npm run dev
+
+#方式三：脚本启动
+双击start.bat
 ```
 
 ### 访问地址
